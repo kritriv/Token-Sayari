@@ -45,7 +45,7 @@
                                     <ul class="sub-menu">
                                         <li><a href="about-us.html">Mission</a></li>
                                         <li><a href="breadcrumb-center.html">Strategy</a></li>
-                                        <li><a href="breadcrumb-right.html">Our Journey</a></li>
+                                        <li><a href="our-journey.php">Our Journey</a></li>
                                         <li><a href="video.html">Letter of Credit</a></li>
                                         <li><a href="breadcrumb-left.html">Lite Paper</a></li>                                   
                                     </ul>
