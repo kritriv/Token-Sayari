@@ -107,7 +107,7 @@
    </section>   
    
    <!-- Counter -->
-   <div class="iq-bg p-5 my-5 container">      
+   <div class="iq-bg  p-5 my-5 container rounded">      
       <div class="row text-white">        
          <h3 class="text-white">Other programs</h3>
          <p>Within the Sayari ecosystem we will offer rewards and airdrops in Sayari tokens (SAYT). Also, we will<br> offer various bonuses and promotions. Stay tunned!</p>
