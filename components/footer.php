@@ -1,6 +1,6 @@
 <!--=================================
 Footer -->
-<footer class="iq-footer-3 bg-primary">
+<footer class="iq-footer-3 bg-primary radius-top">
     <div class="footer-top overview-block-pt iq-pb-60">
         <div class="container">
             <div class="row">

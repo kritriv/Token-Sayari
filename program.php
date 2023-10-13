@@ -4,24 +4,24 @@
    <section class="iq-bg iq-bg-fixed iq-over-black-70 jarallax iq-breadcrumb text-center text-white">
       <div class="container mt-5">
          <div class="row">
-            <div class="col-lg-8 offset-lg-2 mb-4">
+            <div class="col-lg-8 offset-lg-2 mb-5">
                <div class="program py-4" >
                   <h3 class="title text-uppercase text-white ">Our Programs</h3>
                </div>
                <p>Planet Sayari offers a lucrative high yield program through its Sayari Deluxe token, providing<br>
                   high returns per year to large investors. Planet Sayari is also launching a loyalty program in<br>
                   2023 that will reward shoppers at retail partners with Sayt Tokens as a discount</p>
-               <a class="button my-4" href="javascript:void(0)">
+               <a class="button btn-secondary my-4" href="javascript:void(0)">
                   <span class="button-inner-box">
-                     <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas"
+                     <span class="icon-one icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas"
                            data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg"
                            viewBox="0 0 448 512" data-fa-i2svg="">
                            <path fill="currentColor"
                               d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                            </path>
                         </svg></span>
-                     <span class="text-btn">Sayari App</span>
-                     <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas"
+                     <span class="text-btn text-btn-new">Sayari App</span>
+                     <span class="icon-two icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas"
                            data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg"
                            viewBox="0 0 448 512" data-fa-i2svg="">
                            <path fill="currentColor"
@@ -32,7 +32,7 @@
                </a>
                <a class="button my-4" href="javascript:void(0)">
                   <span class="button-inner-box">
-                     <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas"
+                     <span class="icon-one icon" style="color: var(--iq-primary);"><svg aria-hidden="true" focusable="false" data-prefix="fas"
                            data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg"
                            viewBox="0 0 448 512" data-fa-i2svg="">
                            <path fill="currentColor"
@@ -107,9 +107,9 @@
    </section>   
    
    <!-- Counter -->
-   <div class="iq-bg  p-5 my-5 container rounded">      
+   <div class="bg-primary p-5 my-5 container rounded">      
       <div class="row text-white">        
-         <h3 class="text-white">Other programs</h3>
+         <h3 class="text-white mb-3">Other programs</h3>
          <p>Within the Sayari ecosystem we will offer rewards and airdrops in Sayari tokens (SAYT). Also, we will<br> offer various bonuses and promotions. Stay tunned!</p>
       </div>      
    </div>

@@ -2,13 +2,12 @@
     <!-- Main Content -->
     <div class="main-content">
         <!-- Easy Steps -->
-        <section class="overview-block-ptb easy-step">
-            <div class="container">
+        <section class="overview-block-ptb easy-step grey-bg">
+            <div class="container mt-5">
                 <div class="row">
-
                     <div class="col-sm-12 ">                        
                         <div class=" iq-mb-70">
-                            <h2 class="title iq-mb-25" style="text-align: center;">Funds & Assets</h2>
+                            <h2 class="title iq-mb-25 heading-title">Funds & Assets</h2>
                             <p>Project Sayari’s funds are designed to support its mission of providing financial
                                 services to companies in the development of their investment projects while<br>
                                 promoting sustainable economic development. </p>

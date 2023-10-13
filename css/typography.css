@@ -460,17 +460,17 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid var(--iq-dark-border); bo
 a.button{
 position: relative;
     display: inline-block;
-    color: var(--iq-primary);
+    color: var(--bs-white);
     font-size: 14px;
     font-weight: 500;
     line-height: 24px;
-    background-color: var(--bs-white);
+    background-color: var(--iq-primary);
     border-radius: 6.667px;
     padding: 15px 30px;
     vertical-align: top;
     text-transform: uppercase;
     cursor: pointer;
-    border: 1.5px solid var(--iq-primary);
+    border: 1.5px solid var(--bs-white);
     overflow: hidden;
     transition: all .4s ease;
     -moz-transition: all .4s ease;
@@ -479,6 +479,10 @@ position: relative;
     -webkit-transition: all .4s ease;
     letter-spacing: 2px;
 }
+a.button .icon-new{
+    color: var(--iq-primary);
+}
+
 a.buttonSecondary{
 position: relative;
     display: inline-block;
@@ -508,7 +512,7 @@ a.button .button-inner-box{
 }
 
 a.button .text-btn {
-		color: var(--color-theme-white);
+		color: var(--bs-white);
 		text-transform: uppercase;
 		padding-right: 20px;
 		transition: all .4s ease;
@@ -520,10 +524,11 @@ a.button .text-btn {
 a.button:hover .text-btn {
             padding-right: 0;
             padding-left: 20px;
+            color: var(--iq-primary) !important;
 }
 a.button:hover{
       background-color: var(--white);
-      color: var(--iq-primary);
+      border: 1px solid var(--iq-primary);
 }
 a.button:hover .icon-one {
       -moz-transform: translateX(0px) translateY(-50%);
