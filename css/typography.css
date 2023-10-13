@@ -445,6 +445,7 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid var(--iq-dark-border); bo
                                  Buttons
 -----------------------------------------------------------------------*/
 .button { background: var(--iq-primary); font-size: 14px; color: var(--white); padding: 10px 20px; margin-right: 0; border-radius: 3px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
+.buttonSecondary { background: var(--iq-primary); font-size: 14px; color: var(--white); padding: 10px 20px; margin-right: 0; border-radius: 3px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
 .button:hover, .button:focus { color: var(--white); background: var(--iq-title-text); }
 .button.dark { background: var(--iq-title-text); font-size: 14px; color: var(--white); padding: 10px 20px; margin-right: 0; border-radius: 3px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
 .button.dark:hover, .button.dark:focus { color: var(--white); background: var(--iq-primary); }
@@ -459,12 +460,34 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid var(--iq-dark-border); bo
 a.button{
 position: relative;
     display: inline-block;
-    color: var(--white);
+    color: var(--iq-primary);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    background-color: var(--bs-white);
+    border-radius: 6.667px;
+    padding: 15px 30px;
+    vertical-align: top;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: 1.5px solid var(--iq-primary);
+    overflow: hidden;
+    transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    letter-spacing: 2px;
+}
+a.buttonSecondary{
+position: relative;
+    display: inline-block;
+    color: var(--bs-white);
     font-size: 14px;
     font-weight: 500;
     line-height: 24px;
     background-color: var(--iq-primary);
-    border-radius: 0;
+    border-radius: 6.667px;
     padding: 15px 30px;
     vertical-align: top;
     text-transform: uppercase;
