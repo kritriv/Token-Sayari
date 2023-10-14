@@ -3,12 +3,12 @@ Variable
 -----------------------------------------------------------------------*/
 
 :root {
-    --iq-title-text: #1a1a1a;
+    --iq-title-text: #002145;
     --iq-dark:#151d2e ;
     --iq-body-text: #666666;
     --iq-bg-light-color: #f9f9f9;
     --iq-primary: #002145;
-    --iq-primary-light: #FDF0CD;
+    --iq-primary-light: #FFFCF8;
     --iq-primary-dark: #ff6c00;
     --iq-secondary: #666666;
     --iq-secondary-light: #c1c1c1;
@@ -17,7 +17,7 @@ Variable
     --iq-light: #E9EDF4;
     --white: #ffffff;
     --iq-black: #000000;
-    --iq-light-border: #002145;
+    --iq-light-border: #f9f9ff;
     --iq-dark-border: #e0e0e0;
     --iq-gray:#f7f7f7;
     --iq-loader-bg:#333333;
