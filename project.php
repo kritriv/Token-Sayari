@@ -13,12 +13,14 @@
                             <span class="icon-one icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                                 </path>
-                                </svg></span>
+                                </svg>
+                            </span>
                             <span class="text-btn text-btn-new">Get a Free Consultantion</span>
                             <span class="icon-two icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                                 </path>
-                                </svg></span>
+                                </svg>
+                            </span>
                         </span>
                     </a>                    
                 </div>
@@ -29,6 +31,7 @@
 
 <div class="main-content">
     <section class="overview-block-ptb">
+        
         <div class="container">
             <div class="row ">
                 <div class="col-md-12">
@@ -38,20 +41,22 @@
                                 <p class="NewText">1</p>
                             </span>
                             <!-- <span class="year">2017 - 2016</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft;">
                                 <h4 class="mb-3">SKA RENT (ITALY)</h4>
                                 <!-- <span>Web Developer</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT
                                 </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
-                                      height: 49px;
-                                      flex-shrink: 0; border-radius: 10px;
-                                      background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                      ">www.agllogit.website</p>
-                                </div>
-
+                                    height: 49px;
+                                    flex-shrink: 0; border-radius: 10px;
+                                    background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
+                                    ">www.agllogit.website</p>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.agllogit.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -59,18 +64,21 @@
                                 <p class="NewText">2</p>
                             </span>
                             <!-- <span class="year">2016 - 2015</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInRight;">
                                 <h4 class="mb-3">AGL LOG IT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC</p>
-                                <div class="row text-center text-white mt-5">
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
+                                </div>    
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.bekyhouse.website</p>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="timeline">
@@ -78,18 +86,21 @@
                                 <p class="NewText">3</p>
                             </span>
                             <!-- <span class="year">2015 - 2014</span> -->
-                            <div class="timeline-content text-white">
+                            <div class="timeline-content">
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
-                                <div class="row text-center text-white mt-5">
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
+                                </div>     
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.bekyhouse.website</p>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="timeline">
@@ -102,13 +113,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.agllogit.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.agllogit.website</h6>                               
+                                </div>                                
                             </div>
                         </div>
                         <div class="timeline">
@@ -121,13 +135,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.bekyhouse.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -140,13 +157,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.bekyhouse.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -159,13 +179,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.skarent.site</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.skarent.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -178,13 +201,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT</p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.agllogit.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.agllogit.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -197,13 +223,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.bekyhouse.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -216,13 +245,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                         height: 49px;
                                         flex-shrink: 0; border-radius: 10px;
                                         background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                         ">www.skarent.site</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.skarent.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -235,13 +267,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.agllogit.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.agllogit.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -254,13 +289,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.bekyhouse.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -273,13 +311,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.bekyhouse.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -292,13 +333,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.skarent.site</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.skarent.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -311,13 +355,16 @@
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                             height: 49px;
                                             flex-shrink: 0; border-radius: 10px;
                                             background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                             ">www.agllogit.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.agllogit.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                         <div class="timeline">
@@ -331,13 +378,9 @@
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT
                                 </p>
-                                <a class="button" href="javascript:void(0)">
-                                    <span class="button-inner-box">
-                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path></svg></span>
-                                        <span class="text-btn">Login Account</span>
-                                        <span class="icon-two icon" style="color: var(--bs-white);"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path></svg></span>
-                                    </span>
-                                </a>
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
+                                </div> 
                                 <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                         height: 49px;
@@ -358,13 +401,16 @@
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY
                                 </p>
-                                <div class="row text-center text-white mt-5">
+                                <!-- <div class="row text-center text-white mt-5">
                                     <p style="width: 584px;
                                         height: 49px;
                                         flex-shrink: 0; border-radius: 10px;
                                         background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
                                         ">www.bekyhouse.website</p>
-                                </div>
+                                </div> -->
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
+                                </div> 
                             </div>
                         </div>
                     </div>
@@ -372,45 +418,6 @@
             </div>
         </div>
     </section>
-    <!-- Clients -->
-    <div class="iq-our-clients particles-bg yellow-bg iq-ptb-40">
-        <canvas id="canvas"></canvas>
-        <div class="container ">
-            <div class="row ">
-                <div class="col-lg-12 col-md-12 ">
-                    <div class="owl-carousel" data-autoplay="true" data-loop="true" data-nav="false" data-dots="false"
-                        data-items="5" data-items-laptop="4" data-items-tab="3" data-items-mobile="2"
-                        data-items-mobile-sm="1" data-margin="30">
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/01.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/02.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/03.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/04.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/05.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/06.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/01.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/02.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/03.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/04.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/05.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid"
-                                    src="images/clients/white/06.png" alt="#"></a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Clients -->
 
 </div>
 <!-- Main Content End -->
