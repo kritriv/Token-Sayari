@@ -34,7 +34,7 @@
             </div>
             <div class="row row-cols-1 row-cols-lg-3 mb-5">
                <div class="col">
-                  <div class="iq-feature5 rounded" style="height: 500px;">
+                  <div class="iq-feature5 rounded" style="height: 580px;">
                      <img src="images/portfolio/commission.svg" alt="">
                      <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">COMMISSION AGREEMENT</a>
                      </h4>
@@ -46,7 +46,7 @@
                   </div>
                </div>
                <div class="col">
-                  <div class="iq-feature5 rounded"  style="height: 500px;">
+                  <div class="iq-feature5 rounded"  style="height: 580px;">
                      <img src="images/portfolio/swapping.svg" alt="icon1" class="img-fluid">
                      <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">ASSET TOKENIZATION</a>
                      </h4>
@@ -58,7 +58,7 @@
                   </div>
                </div>
                <div class="col">
-                  <div class="iq-feature5 rounded"  style="height: 500px;">
+                  <div class="iq-feature5 rounded"  style="height: 580px;">
                      <img src="images/portfolio//credit.svg" alt="icon1" class="img-fluid">
                      <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">LETTER OF CREDIT</a></h4>
                      <p class="text-justify">A financial instrument issued by Sayari that guarantees the payment owed by a
@@ -70,7 +70,7 @@
             </div>
             <div class="row row-cols-1 row-cols-lg-3 ">      
                <div class="col">
-                  <div class="iq-feature5 rounded"  style="height: 500px;">
+                  <div class="iq-feature5 rounded"  style="height: 580px;">
                      <img src="images/portfolio/staking.svg" alt="icon1" class="img-fluid">
                      <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">STAKING/VESTING</a></h4>
                      <p class="text-justify">Users can stake their Sayari tokens to support the network and platform. They
@@ -81,7 +81,7 @@
                   </div>
                </div>
                <div class="col">
-                  <div class="iq-feature5 rounded"  style="height: 500px;">
+                  <div class="iq-feature5 rounded"  style="height: 580px;">
                      <img src="images/portfolio//loyalty.svg" alt="icon1" class="img-fluid">
                      <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">LOYALTY APP</a></h4>
                      <p class="iq-mb-0 text-justify">An app where users can earn loyalty points and tokens by engaging with the
@@ -92,7 +92,7 @@
                   </div>
                </div>
                <div class="col">
-                  <div class="iq-feature5 rounded"  style="height: 500px;">
+                  <div class="iq-feature5 rounded"  style="height: 580px;">
                      <div class="feature7 text-center">
                            <img src="images/portfolio/swapping.svg" alt="icon1" class="img-fluid">
                            <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">SWAPPING</a></h4>

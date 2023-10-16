@@ -76,7 +76,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
-                    <div class="iq-feature9 text-left" style="height: 370px;">
+                    <div class="iq-feature9 text-left" style="height: 470px;">
                         <!-- <i aria-hidden="true" class="ion-ios-pie-outline iq-font-yellow"></i> -->
                         <img src="images/app/Frame.png" alt="" width="20%">
                         <h4 class="mb-2 mt-4">Security and Transparency</h4>
@@ -87,7 +87,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4 iq-r-mt-40">
-                    <div class="iq-feature9 text-left" style="height: 370px;">
+                    <div class="iq-feature9 text-left" style="height: 470px;">
                         <!-- <i aria-hidden="true" class="ion-ios-color-filter-outline iq-font-yellow"></i> -->
                         <img src="images/app/Layer_1.png" alt="" width="20%">
                         <h4 class="mb-2 mt-4">High Earning Potential for Investors</h4>
@@ -99,7 +99,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4 iq-r-mt-40">
-                    <div class="iq-feature9 text-left" style="height: 370px;">
+                    <div class="iq-feature9 text-left" style="height: 470px;">
                         <!-- <i aria-hidden="true" class="ion-ios-gear-outline iq-font-yellow"></i> -->
                         <img src="images/app/Frame (1).png" alt="" width="20%">
                         <h4 class="mb-2 mt-4">Substantial discounts and rewards for consumers</h4>

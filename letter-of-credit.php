@@ -64,8 +64,8 @@
 
         <section class=" device-blog">
             <div class="container">
-                <div class="row">                    
-                    <img class="img-fluid" alt="image" src="images/letter-credit/finance.gif">                    
+                <div class="col">                    
+                    <img class="img-fluid align-center" alt="image" src="images/letter-credit/finance.gif" style="max-width: 50%; height: 50%;">                    
                 </div>
             </div>
         </section>
