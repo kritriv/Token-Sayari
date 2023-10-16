@@ -52,6 +52,9 @@
             </div>
          </div>
       </div>
+      <div id="stars"></div>
+      <div id="stars2"></div>
+      <div id="stars3"></div>
    </section>
    <!--======= Breadcrumb Inner Page =======-->
 
@@ -61,7 +64,7 @@
          <div class="row mb-5">
             <div class="col-lg-6 col-md-12 about-box  align-self-center">
                <h4>High Yields Program</h4>
-               <p class="iq-mt-10 font-weight-bold">Project Sayari LTD will establish a $10,000,000 investment pool,
+               <p class="iq-mt-10 font-weight-bold text-justify">Project Sayari LTD will establish a $10,000,000 investment pool,
                   offering investors security tokens (Deluxe Token, SDX) at an exchange rate of 1 SDX = $10. A minimum
                   investment of $100,000 is required, with a smart contract on the advanced PROTON blockchain managing
                   the pool and issuance of SDX tokens. Investors will receive a unique username and account to track
@@ -77,7 +80,8 @@
                   options for reinvestment or token buyback.</p>
             </div>
             <div class="col-lg-6 col-md-12">
-               <img class="img-fluid mx-auto d-block iq-mt-10" src="images/humanphoto.png" alt="icon1">
+               <!-- <img class="img-fluid mx-auto d-block iq-mt-10" src="images/humanphoto.png" alt="icon1"> -->
+               <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/humanphoto.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight;">
             </div>
          </div>
          <div class="iq-blog-meta">
@@ -86,11 +90,12 @@
 
          <div class="row mt-5">
             <div class="col-lg-6 col-md-12">
-               <img class="img-fluid mx-auto d-block iq-mt-10" src="images/human2.png" alt="icon1">
+            <img class="img-fluid wow fadeInLeft" data-wow-duration="1s" src="images/human2.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft;">
+               <!-- <img class="img-fluid mx-auto d-block iq-mt-10" src="images/human2.png" alt="icon1"> -->
             </div>
             <div class="col-lg-6 col-md-12 about-box  align-self-center">
                <h4>Loyalty Program </h4>
-               <p class="iq-mt-10 font-weight-bold">This blockchain based loyalty program, is a smart contracts based
+               <p class="iq-mt-10 font-weight-bold text-justify">This blockchain based loyalty program, is a smart contracts based
                   program whereby the buyer receives the SAYT token as a discount on purchases or transactions made with
                   Planet Sayari’s partners, using the Sayari loyalty card. All other loyalty programs on the market can
                   be matched and linked to the SAYT token.Members of the Planet Sayari’s loyalty program are eligible to

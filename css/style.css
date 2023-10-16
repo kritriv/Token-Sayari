@@ -169,7 +169,7 @@ ul li:after { position: absolute; color: var(--iq-primary); content: ""; font-fa
            Listing Hand
 **************************************/
 ul.listing-hand { padding: 0; margin: 0; }
-ul.listing-hand li { position: relative; list-style-type: none; padding-left: 30px; font-size: 16px; line-height: 18px; display: inline-block; }
+ul.listing-hand li { position: relative; list-style-type: none; padding-left: 30px; font-size: 18px; line-height: 30px; display: inline-block; }
 ul.listing-hand li:after { content: "\f10c"; font-size: 18px; -webkit-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; }
 ul.listing-hand li:hover:after { content: "\f058"; }
 
@@ -797,7 +797,7 @@ header.fancy.menu-sticky .iq-header .row { background: transparent; margin-top: 
 /*---------------------------------------------------------------------
                        Clients
 -----------------------------------------------------------------------*/
-.iq-clients .iq-clients-blog { border: 1px solid var(--iq-light-border); border-radius: 3px; }
+.iq-clients .iq-clients-blog { border: 1px solid var(--iq-dark-border); border-radius: 3px; }
 .iq-clients .iq-clients-blog .client-img { width: 200px; margin-right: 10px; }
 .iq-clients .iq-clients-blog ul { background: var(--iq-gray); padding: 10px 0; }
 .iq-clients .iq-clients-blog ul li { margin: 0 20px; }
@@ -1358,9 +1358,9 @@ ul.footer-nav-menu{ float: right;}
   border: 1px solid rgba(0, 0, 0, 0.20);
   background: var(--bs-white);
 }
-.back-bg:hover{
+/* .back-bg:hover{
   background-color: var(--iq-dark);
-}
+} */
 
 
 

@@ -14,6 +14,9 @@
                 </div>
             </div>
         </div>
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
     </section>
    <!--======= Breadcrumb Inner Page =======-->
 
@@ -29,8 +32,7 @@
                             <div class="iq-clients-blog iq-mtb-15 grey-bg rounded">                                
                                 <div class="text-center bg-primary py-2">
                                     <h5 class="text-white">Financial Inclusion</h5>                               
-                                </div>                              
-                                
+                                </div>                            
                                 <div class="d-flex align-items-center flex-wrap iq-pall-20 ">
                                     <!-- <img class="client-img img-fluid mb-4" src="images/home/icon/SHAIL-LOGO.png" alt=""> -->
                                     <div class="media-body">

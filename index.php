@@ -297,33 +297,37 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <div class="iq-clients-blog iq-mtb-15 grey-bg rounded wow fadeInLeft" data-wow-duration="1s">
+                        <div class="iq-clients-blog iq-mtb-15 rounded wow fadeInLeft p-4" data-wow-duration="1s">
                             <div class="d-flex align-items-center flex-wrap iq-pall-20 ">
                                 <img class="client-img img-fluid mb-4" src="images/home/icon/SHAIL-LOGO.png" alt="">
                                 <div class="media-body">
                                     <h4 class="mt-0  mb-3">Shail International Group</h4>
                                     <p class="text-justify">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
+                                    <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i>Info@shailinternationalgroup.com</p>
+                                    <p><i class="fa fa-globe iq-font-yellow me-2"> </i>shailinternationalgroup.com</a></p>
                                 </div>
                             </div>
-                            <ul class="list-inline bg-primary">
+                            <!-- <ul class="list-inline bg-primary">
                                 <li class="list-inline-item"><a href="javascript:void(0)" class="text-white"><i class="fa fa-envelope-o iq-font-yellow me-2 text-white"></i>Info@shailinternationalgroup.com</a></li>
                                 <li class="list-inline-item"><a href="javascript:void(0)" class="text-white"><i class="fa fa-globe iq-font-yellow me-2 text-white"> </i>shailinternationalgroup.com</a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                     <div class="col-sm-6">
-                        <div class="iq-clients-blog iq-mtb-15 bg-primary rounded wow fadeInRight" data-wow-duration="1s">
+                        <div class="iq-clients-blog iq-mtb-15 rounded wow fadeInRight p-4" data-wow-duration="1s">
                             <div class="d-flex align-items-center flex-wrap iq-pall-20">
                                 <img class="client-img img-fluid mb-4" src="images/home/icon/AVTAR-LOGO.png" alt="">
-                                <div class="media-body text-white">
-                                    <h4 class="mt-0 mb-3 text-white">Avtar Space Technology</h4>
+                                <div class="media-body ">
+                                    <h4 class="mt-0 mb-3 ">Avtar Space Technology</h4>
                                     <p class="text-justify">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
+                                    <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i>Info@avtarspace.com</p>
+                                    <p><i class="fa fa-globe iq-font-yellow me-2"> </i>avtarspace.com</a></p>
                                 </div>
                             </div>
-                            <ul class="list-inline">
+                            <!-- <ul class="list-inline">
                                 <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-envelope-o iq-font-yellow me-2"></i>Info@avtarspace.com</a></li>
                                 <li class="list-inline-item"><a href="avtarspace.com" target="_blank"><i class="fa fa-globe iq-font-yellow me-2"> </i>avtarspace.com</a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>              
                 </div>

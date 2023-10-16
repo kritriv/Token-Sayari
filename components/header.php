@@ -44,9 +44,9 @@
                                 <li><a href="javascript:void(0)">About Us</a>
                                     <ul class="sub-menu">
                                         <li><a href="mission.php">Mission</a></li>
-                                        <li><a href="breadcrumb-center.html">Strategy</a></li>
+                                        <li><a href="strategy.php">Strategy</a></li>
                                         <li><a href="our-journey.php">Our Journey</a></li>
-                                        <li><a href="video.html">Letter of Credit</a></li>
+                                        <li><a href="letter-of-credit.php">Letter of Credit</a></li>
                                         <li><a href="breadcrumb-left.html">Lite Paper</a></li>                                   
                                     </ul>
                                 </li>
@@ -58,8 +58,8 @@
                                         <li><a href="project.php">Projects</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="blog-2-columns.html">Sayari App</a></li>                                
-                                <li><a href="contact-1.html">Contact</a></li>                                
+                                <li><a href="app.php">Sayari App</a></li>                                
+                                <li><a href="contact.php">Contact</a></li>                                
                                 <li>
                                     <a class="button" href="javascript:void(0)">
                                         <span class="button-inner-box">
