@@ -35,10 +35,10 @@ gtag('config', 'UA-113778816-1');
 
 <body>
     <!-- loading -->
-    <div id="loading">
+    <!-- <div id="loading">
         <div id="loading-center">
             <img src="images/loader.gif" alt="loder">
         </div>
-    </div>
+    </div> -->
     <!-- loading End -->
     
