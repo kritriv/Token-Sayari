@@ -193,7 +193,7 @@ header .iq-header { display: inline-block; width: 100%; float: left; box-shadow:
 .menu li { display: inline-block; position: relative; float: left; line-height: normal; }
 /* .menu li:last-child a { padding-right: 0; } */
 .menu li a {margin: 16px 0px; text-decoration: none; padding: 16px 24px; display: block; color: var(--iq-title-text); text-transform: uppercase; font-size: 16px; transition: all 0.2s ease-in-out 0s; }
-.menu li a:hover, .menu li:hover>a, .menu li a.active { color: var(--iq-primary); }
+.menu li a:hover, .menu li:hover>a, .menu li a.active { color: var(--iq-primary); font-weight: 500;}
 .menu ul { visibility: hidden; opacity: 0; margin: 0; padding: 0; width: 250px; text-align: left; position: absolute; left: 0px; background: var(--white); z-index: 99; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); transform: translate(0, 20px); transition: all 0.2s ease-out; }
 .menu ul li { display: block; float: none; background: none; margin: 0; padding: 0; }
 .sub-menu li a i { position: absolute; right: 15px; top: 50%; margin-top: -8px; }
