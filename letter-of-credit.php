@@ -62,13 +62,46 @@
             </div>
         </section>
 
-        <section class=" device-blog">
+        <!-- <section class="device-blog">
             <div class="container">
                 <div class="row">                    
                     <img class="img-fluid" alt="image" src="images/letter-credit/finance.gif">                    
                 </div>
             </div>
-        </section>
+        </section> -->
+
+        <section class="iq-team2">
+            <div class="container">            
+                <div class="row">               
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="animation-img">
+                            <img data-gif_src="images/home/animation-frame01.gif" src="images/home/Rotation.gif" />
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 iq-mtb-100">
+                        <hr>
+                    </div>
+                </div>
+            </div>
+         </section>
+
+        
+            <!-- <div class="container">
+                    <div class="row">                    
+                        <img src="images/letter-credit/future-vission.png" alt="" style="width:100vw;">
+                    </div>                     
+                </div>
+                <div class="col-lg-12">
+                    <img src="images/letter-credit/future-vission.png" alt="" style="width:100vw;">
+                </div> 
+            </div> -->
+        
+
+        <div class="col-lg-12">
+            <img src="images/letter-credit/future-vission.png" alt="" style="width:90vw;">
+        </div> 
 
         <div class="row justify-content-center">
             <div class="col-lg-10 col-md-8 text-center">

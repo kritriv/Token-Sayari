@@ -188,7 +188,7 @@
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2 active">
+                        <div class="iq-small-icon back-bg p-2 ">
                             <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
                             <!-- <h6>Easy Payment</h6> -->
                         </div>
@@ -377,103 +377,128 @@
                        
             <div class="row my-3">  
                 <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="iq-small-icon">
+                        <img src="images/home/India.png" alt="icon" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="iq-small-icon">
+                        <img src="images/home/Bank (2).png" alt="icon" class="img-fluid">
+                    </div>
+                </div>                  
+                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="iq-small-icon">
+                        <img src="images/home/Bank (3).png" alt="icon" class="img-fluid">
+                    </div>
+                </div>                
+            </div>            
+            <!-- <div class="row my-3">  
+                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="iq-small-icon">
+                        <img src="images/home/Bank (4).png" alt="icon" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="iq-small-icon">
+                        <img src="images/home/Bank (5).png" alt="icon" class="img-fluid">
+                    </div>
+                </div>                  
+                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="iq-small-icon">
+                        <img src="images/home/Bank (6).png" alt="icon" class="img-fluid">
+                    </div>
+                </div>                
+            </div>             -->
+            <!-- <div class="row my-3">  
+                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
                     <div class="iq-small-icon back-bg p-2">
                         <img src="images/home/icon/bdo-2.png" alt="icon" class="img-fluid">
-                        <!-- <h6>Excerpt Tokens</h6> -->
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon back-bg p-2 active">
+                    <div class="iq-small-icon back-bg p-2 ">
                         <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
-                        <!-- <h6>Easy Payment</h6> -->
                     </div>
                 </div>                  
                 <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon back-bg p-2 active">
+                    <div class="iq-small-icon back-bg p-2 ">
                         <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
-                        <!-- <h6>Easy Payment</h6> -->
                     </div>
-                </div>                  
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon back-bg p-2 active">
-                        <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
-                        <!-- <h6>Easy Payment</h6> -->
-                    </div>
-                </div>                  
-            </div>            
+                </div>                
+            </div>             -->
                        
-            <!-- <div class="row mb-3">
-                <div class="col mx-1 ">
-                    <div class="d-flex align-items-center back-bg" style="height: 100px;">
+            <div class="row mb-3">
+                <div class="col">
+                    <div class="d-flex align-items-center">
                         <div class="item" >
-                            <div class="d-flex align-items-center p-3">
-                                <div class="media-body">
+                            <div class="d-flex align-items-center">
+                                <!-- <div class="media-body">
                                     <h4 class="iq-font-black">India</h4>
-                                </div>
-                                <div class="ms-4">
-                                    <img class="me-2 " src="images/home/India.png" alt="#" style="width: 80%;">
+                                </div> -->
+                                <div class="">
+                                    <img src="images/home/Bank (2).png" alt="icon" class="img-fluid">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col mx-1 text-end ">
-                    <div class="d-flex align-items-center back-bg" style="height: 100px;">
+                    <div class="d-flex align-items-center">
                         <div class="item" >
-                            <div class="d-flex align-items-center p-3">
-                                <div class="media-body">
+                            <div class="d-flex align-items-center">
+                                <!-- <div class="media-body">
                                     <h4 class="iq-font-black">Kenya</h4>
-                                </div>
-                                <div class="ms-4">
-                                    <img class="me-2 " src="images/home/Kenya.png" alt="#" style="width: 80%;">
+                                </div> -->
+                                <div class="">
+                                 <img src="images/home/Bank (3).png" alt="icon" class="img-fluid">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col mx-1 text-end ">
-                    <div class="d-flex align-items-center back-bg" style="height: 100px;">
+                    <div class="d-flex align-items-center">
                         <div class="item">
-                            <div class="d-flex align-items-center p-3">
-                                <div class="media-body">
+                            <div class="d-flex align-items-center">
+                                <!-- <div class="media-body">
                                     <h4 class="iq-font-black">Itally</h4>
-                                </div>
-                                <div class="ms-4">
-                                    <img class="me-2 " src="images/home/Itally.png" alt="#" style="width: 80%;">
+                                </div> -->
+                                <div class="">
+                                 <img src="images/home/Bank (1).png" alt="icon" class="img-fluid">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col mx-1 text-end">
-                    <div class="d-flex align-items-center back-bg" style="height: 100px;">
+                    <div class="d-flex align-items-center">
                         <div class="item">
-                            <div class="d-flex align-items-center p-3">
-                                <div class="media-body">
+                            <div class="d-flex align-items-center">
+                                <!-- <div class="media-body">
                                     <h4 class="iq-font-black">Singapore</h4>
-                                </div>
-                                <div class="ms-4">
-                                    <img class="me-2 " src="images/home/Singapore.png" alt="#" style="width: 80%;">
+                                </div> -->
+                                <div class="">
+                                 <img src="images/home/Bank (6).png" alt="icon" class="img-fluid">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col mx-1  text-end ">
-                    <div class="d-flex align-items-center back-bg" style="height: 100px;">
+                    <div class="d-flex align-items-center">
                         <div class="item">
-                            <div class="d-flex align-items-center p-3">
-                                <div class="media-body">
+                            <div class="d-flex align-items-center">
+                                <!-- <div class="media-body">
                                     <h4 class="iq-font-black">South Africa</h4>
-                                </div>
-                                <div class="ms-4">
-                                    <img class="me-2 " src="images/home/South Africa.png" alt="#" style="width: 80%;">
+                                </div> -->
+                                <div class="">
+                                    <img class="me-2 " src="images/home/Bank (7).png" alt="#" style="width: 80%;">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
             <!-- <div class="row mt-3">
                 <div class="col mx-1 text-end ">
                     <div class="d-flex align-items-center back-bg" style="height: 100px;">
