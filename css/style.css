@@ -138,7 +138,7 @@ Design and Developed by: iqonicthemes.in
 /*---------------------------------------------------------------------
                            Section Title
 -----------------------------------------------------------------------*/
-.heading-title { margin-bottom: 50px; text-align: center; }
+.heading-title { margin-bottom: 80px; text-align: center; }
 .heading-title .title { position: relative; padding-bottom: 15px; }
 .heading-title .title:before { content: ""; position: absolute; bottom: 0; left: 50%; margin-left: -40px; width: 80px; height: 3px; background: var(--iq-primary); display: inline-block; }
 .heading-title p { padding: 0 100px; display: block; }
@@ -186,10 +186,10 @@ ul.listing-mark li:after { content: "\f0a4"; font-size: 22px }
 header { display: inline-block; width: 100%; float: left; position: relative; z-index: 99; background: var(--white); -webkit-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; }
 header .logo { display: inline-block; float: left; margin-top: 20px; }
 header .logo a { text-transform: uppercase; color: var(--iq-title-text); font-size: 30px; letter-spacing: 2px; }
-header .logo a img { height: 40px; }
+header .logo a img { height: 50px; }
 header .iq-header nav { display: inline-block; float: right; }
 header .menu { display: inline-block; float: right; width: 100%; }
-header .iq-header { display: inline-block; width: 100%; float: left; }
+header .iq-header { display: inline-block; width: 100%; float: left; box-shadow: 0px 5.33333px 5.33333px 0px rgba(82, 116, 202, 0.10);}
 .menu li { display: inline-block; position: relative; float: left; line-height: normal; }
 /* .menu li:last-child a { padding-right: 0; } */
 .menu li a {margin: 16px 0px; text-decoration: none; padding: 16px 24px; display: block; color: var(--iq-title-text); text-transform: uppercase; font-size: 16px; transition: all 0.2s ease-in-out 0s; }
@@ -207,8 +207,8 @@ header .iq-header { display: inline-block; width: 100%; float: left; }
 
 /*---- Header Sticky ----*/
 header.menu-sticky .iq-header { background: var(--white); display: inline-block; width: 100%; position: fixed; top: 0; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2); -webkit-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; }
-header.menu-sticky .logo a img { height: 30px; }
-header.menu-sticky .logo { margin-top: 30px; }
+header.menu-sticky .logo a img { height: 50px; }
+header.menu-sticky .logo { margin-top: 25px; }
 header.menu-sticky .iq-header .menu li a { padding: 16px 24px; }
 header.menu-sticky .iq-header .menu li .sub-menu li a { line-height: normal; padding: 15px 15px; }
 header.menu-sticky .iq-search.search-open .search-box { top: 100% !important; }
@@ -630,7 +630,7 @@ header.fancy.menu-sticky .iq-header .row { background: transparent; margin-top: 
 **************************************/
 .iq-team2 .team-blog {background: var(--bs-white); border: 10px solid var(--iq-light-border); border-radius: 200px 0px; transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; }
 .iq-team2 .team-blog img { display: inline; width: 150px; border-radius: 100px; padding: 4px; border: 2px solid;}
-.iq-team2 .team-blog:hover { border: 1px solid var(--iq-primary); }
+/* .iq-team2 .team-blog:hover { border: 1px solid var(--iq-primary); } */
 .iq-team2 .iq-media-blog { margin: 0; padding: 0; }
 .iq-team2 .iq-media-blog li { display: inline-block; list-style: none; padding: 0; margin: 0px 4px; }
 .iq-team2 .iq-media-blog li a { display: block; width: 40px; height: 40px; line-height: 40px; font-size: 16px; color: var(--iq-dark); background: var(--iq-gray); text-align: center; border-radius: 50%; }
@@ -1405,4 +1405,17 @@ ul.footer-nav-menu{ float: right;}
 	.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
 		max-width: 1400px !important;
 	}
+}
+
+
+
+
+
+
+/* My Css */
+.animation-img{
+  text-align: center;  
+}
+.animation-img img{
+  width: 90%;
 }
