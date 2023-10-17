@@ -446,7 +446,7 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid var(--iq-dark-border); bo
 -----------------------------------------------------------------------*/
 .button { background: var(--iq-primary); font-size: 14px; color: var(--white); padding: 10px 20px; margin-right: 0; border-radius: 3px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
 .buttonSecondary { background: var(--iq-primary); font-size: 14px; color: var(--white); padding: 10px 20px; margin-right: 0; border-radius: 3px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
-.button:hover, .button:focus { color: var(--white); background: var(--iq-title-text); }
+.button:hover, .button:focus { color: var(--iq-primary); background: var(--iq-title-text); }
 .button.dark { background: var(--iq-title-text); font-size: 14px; color: var(--white); padding: 10px 20px; margin-right: 0; border-radius: 3px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
 .button.dark:hover, .button.dark:focus { color: var(--white); background: var(--iq-primary); }
 .button.dark.white { background: var(--iq-title-text); font-size: 14px; color: var(--white); padding: 10px 20px; margin-right: 0; border-radius: 3px; display: inline-block; text-transform: capitalize; position: relative; box-shadow: none; border: none; }
@@ -479,6 +479,9 @@ position: relative;
 a.button .icon-new{
     color: var(--iq-primary);
 }
+/* a.button .button-icon:hover{
+    color: red !important;
+} */
 
 a.buttonSecondary{
 position: relative;
