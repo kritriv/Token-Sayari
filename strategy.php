@@ -6,14 +6,14 @@
             <div class="container">
                 <div class="row flex-row-reverse">
                     <div class="col-lg-8 col-md-12 ">                        
-                        
+                    
                         <div class="d-flex align-items-center">
                             <div class="me-3">
-                                <img class="img-fluid" src="images/strategy/img-01.png" alt="">
+                                <img class="img-fluid" src="images/strategy/Focus.svg" alt="">
                             </div>
-                            <div class="iq-feature2 iq-mtb-20" style="width: 150%;">
-                                <h4 class="mb-3"><a href="services-details.html">1. Focus on Security Tokens</a></h4>
-                                <p>By issuing security tokens rather than volatile cryptocurrencies, Planet Sayari aims to
+                            <div class="iq-feature2 iq-mb-20" style="width: 100%;">
+                                <h4 class="mb-3">1. Focus on Security Tokens</h4>
+                                <p class="fs-6">By issuing security tokens rather than volatile cryptocurrencies, Planet Sayari aims to
                                             provide more stable value to investors. Security tokens are tied to real-world assets like
                                             gold, bonds, real estate, etc. So their value is more stable and less speculative. This
                                             protects investors from major losses due to volatility. </p>
@@ -21,11 +21,11 @@
                         </div>
                         <div class="d-flex align-items-center">
                             <div class="me-3">
-                                <img class="img-fluid" src="images/strategy/img-01.png" alt="">
+                                <img class="img-fluid" src="images/strategy/Dividends.svg" alt="">
                             </div>
-                            <div class="iq-feature2 iq-mtb-20"  style="width: 150%;">
-                                <h4 class="mb-3"><a href="services-details.html">2. Provide Dividends and Interest</a></h4>
-                                <p>Rather than just hoping that the token value will increase over time, Planet Sayari will pay
+                            <div class="iq-feature2 iq-mb-20"  style="width: 100%;">
+                                <h4 class="mb-3">2. Provide Dividends and Interest</h4>
+                                <p class="fs-6">Rather than just hoping that the token value will increase over time, Planet Sayari will pay
                                     dividends and interest to token holders. This also provides more stable returns and cash
                                     flow to investors. </p>
                             </div>
@@ -33,11 +33,11 @@
                         
                         <div class="d-flex align-items-center">
                             <div class="me-3">
-                                <img class="img-fluid" src="images/strategy/img-01.png" alt="">
+                                <img class="img-fluid" src="images/strategy/Liquidity.svg" alt="">
                             </div>
-                            <div class="iq-feature2 iq-mtb-20" style="width: 150%;">
-                                <h4 class="mb-3"><a href="services-details.html">3. Work with Banks for Liquidity</a></h4>
-                                <p>Planet Sayari plans to partner with major banks to provide liquidity to investors through
+                            <div class="iq-feature2 iq-mb-20" style="width: 100%;">
+                                <h4 class="mb-3">3. Work with Banks for Liquidity</h4>
+                                <p class="fs-6">Planet Sayari plans to partner with major banks to provide liquidity to investors through
                                     their Private Placement (PP) programs. This will make it easy for investors to buy and sell
                                     the tokens, and convert them into fiat currency by participating in the special program
                                     developed by Planet Sayari called High Yields Program. This addresses one of the biggest
@@ -46,11 +46,11 @@
                         </div>
                         <div class="d-flex align-items-center">
                             <div class="me-3">
-                                <img class="img-fluid" src="images/strategy/img-01.png" alt="">
+                                <img class="img-fluid stap-up" src="images/strategy/Stability.svg" alt="">
                             </div>
-                            <div class="iq-feature2 iq-mtb-20" style="width: 150%;">
-                                <h4 class="mb-3"><a href="services-details.html">4. Focus on Long-term Stability</a></h4>
-                                <p>The overall strategy focuses on long-term stability, security, and viability. Rather than
+                            <div class="iq-feature2 iq-mb-20" style="width: 100%;">
+                                <h4 class="mb-3 fs-3">4. Focus on Long-term Stability</h4>
+                                <p class="fs-6">The overall strategy focuses on long-term stability, security, and viability. Rather than
                                     being a speculative cryptocurrency company, Planet Sayari aims to establish a sustainable
                                     ecosystem and stable value system based on real-world assets. Investors are more likely to
                                     gain consistent returns over time versus potential big losses. </p>

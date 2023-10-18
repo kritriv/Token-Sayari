@@ -239,13 +239,13 @@ Register -->
 <!-- Bootstrap JavaScript -->
 <script src="js/bootstrap.min.js"></script>
 <!-- Bitcoin widget JavaScript -->
-<script src="js/widget.js"></script>
+<!-- <script src="js/widget.js"></script> -->
 <!-- owl carousel JavaScript -->
 <script src="js/owl.carousel.min.js"></script>
 <!-- All-plugins JavaScript -->
-<script src="js/all-plugins.js"></script>
+<!-- <script src="js/all-plugins.js"></script> -->
 <!-- particles JavaScript -->
-<script src="js/particles.js"></script>
+<!-- <script src="js/particles.js"></script> -->
 <!-- Style Customizer -->
 <script src="js/style-customizer.js"></script>
 <!-- REVOLUTION JS FILES -->
