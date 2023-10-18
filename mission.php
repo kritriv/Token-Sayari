@@ -20,7 +20,7 @@
     </section>
    <!--======= Breadcrumb Inner Page =======-->
 
-   <section class="overview-block-ptb bitcoin-app">
+    <section class="overview-block-ptb bitcoin-app">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6 col-md-12 text-center iq-r-mt-40">

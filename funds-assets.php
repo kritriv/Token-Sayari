@@ -1,6 +1,7 @@
 <?php include_once 'components/header.php';?>
     <!-- Main Content -->
     <div class="main-content">
+        <div class="clearfix"></div>
         <!-- Easy Steps -->
         <section class="overview-block-ptb easy-step grey-bg">
             <div class="container mt-5">

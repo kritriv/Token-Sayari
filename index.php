@@ -15,9 +15,9 @@
             <div class="row">
                 <div class="col-sm-12 text-center">
                     <!-- <a class="button button-icon" href="#"><span class="text-btn">Login Account</span> </a> -->
-                    <a class="button button-icon bt-lg iq-mr-15" href="# ">Get Started</a>
-                    <a class="button button-icon bt-lg iq-mr-15 iq-r3-mt-30" href="# ">Buy Token</a>
-                    <a class="button button-icon bt-lg re7-mt-30" href="# ">Letter Of Credit</a>
+                    <a class="button button-icon bt-lg iq-mr-15 mb-2" href="#" style="width: 240px;">Get Started</a>
+                    <a class="button button-icon bt-lg iq-mr-15 mb-2" href="#" style="width: 240px;">Buy Token</a>
+                    <a class="button button-icon bt-lg iq-mr-15 mb-2" href="# " style="width: 240px;">Letter Of Credit</a>
                 </div>
             </div>
         </div>
