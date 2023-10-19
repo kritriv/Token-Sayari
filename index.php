@@ -8,7 +8,7 @@
                 <div class="col-sm-12">
                     <div class="heading-title ">
                         <h2 class="title iq-mb-25">Best Crypto Coin in the world <br>Token Sayari</h2>
-                        <p>Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
+                        <p class="fs-4">Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@
                 <div class="col-lg-5 col-sm-12 iq-r-mt-40">
                     <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/home/tokens graphs.png" alt="#">
                 </div>
-            </div>            
+            </div>
         </div>
     </section>
     <!-- Our Crypto Tokens -->
@@ -88,11 +88,11 @@
                 <div class="col-sm-12">
                     <div class="heading-title">
                         <h5 class="title iq-mb-10">Tokens</h5>
-                        <h3 class="">Uses of Out Tokens</h3>                        
+                        <h3 class="">Uses of Out Tokens</h3>
                     </div>
                 </div>
             </div>
-            <div class="row">               
+            <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="animation-img">
                         <img data-gif_src="images/home/animation-frame01.gif" src="images/home/Rotation.gif" />
@@ -119,7 +119,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-mtb-15">
+                <div class="col-lg-4 col-md-12  iq-mtb-15">
                     <div class="team-blog iq-pall-40 text-center">
                         <img alt="" class="img-responsive text-center" src="images/home/Michele.png">
                         <div class="iq-font-yellow iq-mt-25 mb-5">
@@ -130,7 +130,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-mtb-15">
+                <div class="col-lg-4 col-md-12 iq-mtb-15">
                     <div class="team-blog iq-pall-40 text-center">
                         <img alt="" class="img-responsive text-center" src="images/home/Madalina.png">
                         <div class="iq-font-yellow iq-mt-20 mb-5">
@@ -146,7 +146,7 @@
                             </ul> -->
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-mtb-15">
+                <div class="col-lg-4 col-md-12  iq-mtb-15">
                     <div class="team-blog iq-pall-40 text-center">
                         <img alt="" class="img-responsive text-center" src="images/home/Dorin.png">
                         <div class="iq-font-yellow iq-mt-20 mb-5">
@@ -160,55 +160,47 @@
         </div>
     </section>
 
-    
+
 
     <section id="product" class="overview-block-pb">
         <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
+                <div class="row">                
                     <div class="heading-title">
                         <small class="iq-font-green"></small>
                         <h5 class="title iq-tw-6">Sayari Token</h5>
                         <h3 class="iq-tw-6">Banks Authorized with Sayari Token</h3>
                     </div>
-                </div>
-            </div>
-            <div class="col-sm-12">
+                </div>            
+            
                 <div class="row">
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/barclays-1.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Safe &amp; Secure</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/bdo-2.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Excerpt Tokens</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2 ">
                             <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Easy Payment</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/Color-Deutsche-4.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Daily Cash Out</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/Credit_Suisse.png" alt="icon" class="img-fluid">
-                            <!-- <h6>No Dilution</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/DBS-Bank.png" alt="icon" class="img-fluid">
-                            <!-- <h6>No Dilution</h6> -->
                         </div>
                     </div>
                 </div>
@@ -216,37 +208,31 @@
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/hanaBank.png" alt="icon" class="img-fluid">
-                            <!-- <h6>No Dilution</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/HDFC_Bank.png" alt="icon" class="img-fluid">
-                            <!-- <h6>No Dilution</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/hsbc.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Smart App</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/ingBank.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Easy Payment</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/jpMorgan.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Excerpt Tokens</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/kcb.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Safe &amp; Secure</h6> -->
                         </div>
                     </div>
                 </div>
@@ -308,7 +294,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            
         </div>
     </section>
 
@@ -324,7 +310,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6 wow fadeInLeft" data-wow-duration="1s">
+                <div class="col-md-6 col-sm-12 wow fadeInLeft" data-wow-duration="1s">
                     <div class="iq-clients-blog iq-mtb-15 rounded">
                         <div class="d-flex align-items-center flex-wrap iq-pall-20">
                             <img class="client-img img-fluid mb-4" src="images/home/icon/SHAIL-LOGO.png" alt="">
@@ -337,8 +323,8 @@
                         </div>
                     </div>
                 </div>
-                
-                <div class="col-sm-6 wow fadeInRight" data-wow-duration="1s">
+
+                <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-duration="1s">
                     <div class="iq-clients-blog iq-mtb-15 rounded">
                         <div class="d-flex align-items-center flex-wrap iq-pall-20">
                             <img class="client-img img-fluid mb-4" src="images/home/icon/AVTAR-LOGO.png" alt="">
@@ -374,193 +360,118 @@
                     <!-- <div class="btcwdgt-chart btcwdgt btcwdgt-headlines btcwdgt-clean">    <div class="btcwdgt-header">      <h2 title="Bitcoin price">        <span>$</span><span>26857.25</span>      </h2>      <h4>BTC/USD</h4>      <div class="stats">        <div>MktCap<span class="mkt-cap">—.–</span></div>        <div>High<span class="high">$46457.20</span></div>        <div>Low<span class="low">$18489.15</span></div>        <div>Supply<span class="supply">—.–</span></div>        <div>Blocks<span class="blocks">—</span></div>      </div>      <p class="changes up">        <strong class="arrow up"></strong><span class="pct">32.1%</span><span class="amt">$6526.04</span>      </p>      <p class="date-wrap"><span class="date">Oct 5, 2022 5:30 AM</span></p>    </div>    <div class="btcwdgt-body" style="width: 640px !important;       height:360px !important">      <canvas class="c" style="width: 640px; height: 360px;" width="640" height="360"></canvas>      <canvas class="i" style="width: 640px; height: 360px;" width="640" height="360"></canvas>    </div>    <div class="btcwdgt-footer">      <a href="https://www.bitcoin.com/widgets/?utm_source=templates.iqonic.design&amp;utm_medium=widget&amp;utm_campaign=Chart%20Widget" class="embed" title="Embed this widget">&lt;/&gt;</a>      <a href="https://www.bitcoin.com/?utm_source=templates.iqonic.design&amp;utm_medium=widget&amp;utm_campaign=Chart%20Widget" class="logo" title="Powered by bitcoin.com"><span>bitcoin.com</span></a>    </div></div> -->
                 </div>
             </div>
-                       
-            <div class="row my-3">  
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon">
-                        <img src="images/home/India.png" alt="icon" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon">
-                        <img src="images/home/Bank (2).png" alt="icon" class="img-fluid">
-                    </div>
-                </div>                  
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon">
-                        <img src="images/home/Bank (3).png" alt="icon" class="img-fluid">
-                    </div>
-                </div>                
-            </div>            
-            <!-- <div class="row my-3">  
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon">
-                        <img src="images/home/Bank (4).png" alt="icon" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon">
-                        <img src="images/home/Bank (5).png" alt="icon" class="img-fluid">
-                    </div>
-                </div>                  
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon">
-                        <img src="images/home/Bank (6).png" alt="icon" class="img-fluid">
-                    </div>
-                </div>                
-            </div>             -->
-            <!-- <div class="row my-3">  
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon back-bg p-2">
-                        <img src="images/home/icon/bdo-2.png" alt="icon" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon back-bg p-2 ">
-                        <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
-                    </div>
-                </div>                  
-                <div class="col-lg-4 col-md-4 col-sm-6 iq-r-mt-40">
-                    <div class="iq-small-icon back-bg p-2 ">
-                        <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
-                    </div>
-                </div>                
-            </div>             -->
-                       
-            <div class="row mb-3">
-                <div class="col">
-                    <div class="d-flex align-items-center">
-                        <div class="item" >
-                            <div class="d-flex align-items-center">
-                                <!-- <div class="media-body">
-                                    <h4 class="iq-font-black">India</h4>
-                                </div> -->
-                                <div class="">
-                                    <img src="images/home/Bank (2).png" alt="icon" class="img-fluid">
-                                </div>
-                            </div>
+
+            <div class="office_section_wrapper">
+                <div class="office_add_card india_card">
+                    <div class="hover_add_card_india">
+                        <div class="content_hover_add">
+                            <h4>India</h4>
+                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
                         </div>
                     </div>
-                </div>
-                <div class="col mx-1 text-end ">
-                    <div class="d-flex align-items-center">
-                        <div class="item" >
-                            <div class="d-flex align-items-center">
-                                <!-- <div class="media-body">
-                                    <h4 class="iq-font-black">Kenya</h4>
-                                </div> -->
-                                <div class="">
-                                 <img src="images/home/Bank (3).png" alt="icon" class="img-fluid">
-                                </div>
-                            </div>
-                        </div>
+                    <div class="card_office_content">
+                        <h3>India</h3>
+                        <img src="images/home/India.png" alt="India">
                     </div>
                 </div>
-                <div class="col mx-1 text-end ">
-                    <div class="d-flex align-items-center">
-                        <div class="item">
-                            <div class="d-flex align-items-center">
-                                <!-- <div class="media-body">
-                                    <h4 class="iq-font-black">Itally</h4>
-                                </div> -->
-                                <div class="">
-                                 <img src="images/home/Bank (1).png" alt="icon" class="img-fluid">
-                                </div>
-                            </div>
+                <div class="office_add_card london_card">
+                    <div class="hover_add_card_london">
+                        <div class="content_hover_add">
+                            <h4>London</h4>
+                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
                         </div>
                     </div>
-                </div>
-                <div class="col mx-1 text-end">
-                    <div class="d-flex align-items-center">
-                        <div class="item">
-                            <div class="d-flex align-items-center">
-                                <!-- <div class="media-body">
-                                    <h4 class="iq-font-black">Singapore</h4>
-                                </div> -->
-                                <div class="">
-                                 <img src="images/home/Bank (6).png" alt="icon" class="img-fluid">
-                                </div>
-                            </div>
-                        </div>
+                    <div class="card_office_content">
+                        <h3>London</h3>
+                        <img src="images/home/London.png" alt="India">
                     </div>
                 </div>
-                <div class="col mx-1  text-end ">
-                    <div class="d-flex align-items-center">
-                        <div class="item">
-                            <div class="d-flex align-items-center">
-                                <!-- <div class="media-body">
-                                    <h4 class="iq-font-black">South Africa</h4>
-                                </div> -->
-                                <div class="">
-                                    <img class="me-2 " src="images/home/Bank (7).png" alt="#" style="width: 80%;">
-                                </div>
-                            </div>
+                <div class="office_add_card singapore_card">
+                    <div class="hover_add_card_singapore">
+                        <div class="content_hover_add">
+                            <h4>Singapore</h4>
+                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
                         </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Singapore</h3>
+                        <img src="images/home/Singapore.png" alt="India">
+                    </div>
+                </div>
+                <div class="office_add_card switzerland_card">
+                    <div class="hover_add_card_switzerland">
+                        <div class="content_hover_add">
+                            <h4>Switzerland</h4>
+                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Switzerland</h3>
+                        <img src="images/home/Switzerland.png" alt="India">
+                    </div>
+                </div>
+                <div class="office_add_card south_africa_card">
+                    <div class="hover_add_card_south_africa">
+                        <div class="content_hover_add">
+                            <h4>South&nbsp;Africa</h4>
+                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>South&nbsp;Africa</h3>
+                        <img src="images/home/South Africa.png" alt="India">
+                    </div>
+                </div>
+                <div class="office_add_card romania_card">
+                    <div class="hover_add_card_romania">
+                        <div class="content_hover_add">
+                            <h4>Romania</h4>
+                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Romania</h3>
+                        <img src="images/home/Romania.png" alt="India">
+                    </div>
+                </div>
+
+                <div class="office_add_card kenya_card">
+                    <div class="hover_add_card_kenya">
+                        <div class="content_hover_add">
+                            <h4>Kenya</h4>
+                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Kenya</h3>
+                        <img src="images/home/Kenya.png" alt="India">
+                    </div>
+                </div>
+                <div class="office_add_card itally_card">
+                    <div class="hover_add_card_itally">
+                        <div class="content_hover_add">
+                            <h4>Itally</h4>
+                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Itally</h3>
+                        <img src="images/home/Itally.png" alt="India">
+                    </div>
+                </div>
+                <div class="office_add_card usa_card">
+                    <div class="hover_add_card_usa">
+                        <div class="content_hover_add">
+                            <h4>USA</h4>
+                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>USA</h3>
+                        <img src="images/home/USA.png" alt="India">
                     </div>
                 </div>
             </div>
-            <!-- <div class="row mt-3">
-                <div class="col mx-1 text-end ">
-                    <div class="d-flex align-items-center back-bg" style="height: 100px;">
-                        <div class="item">
-                            <div class="d-flex align-items-center p-3">
-                                <div class="media-body">
-                                    <h4 class="iq-font-black">Romania</h4>
-                                </div>
-                                <div class="ms-4">
-                                    <img class="me-2 " src="images/home/Romania.png" alt="#" style="width: 80%;">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col mx-1 text-end ">
-                    <div class="d-flex align-items-center back-bg" style="height: 100px;">
-                        <div class="item">
-                            <div class="d-flex align-items-center p-3">
-                                <div class="media-body">
-                                    <h4 class="iq-font-black">Switzerland</h4>
-                                </div>
-                                <div class="ms-4">
-                                    <img class="me-2 " src="images/home/Switzerland.png" alt="#" style="width: 80%;">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col mx-1 text-end">
-                    <div class="d-flex align-items-center back-bg" style="height: 100px;">
-                        <div class="item">
-                            <div class="d-flex align-items-center p-3">
-                                <div class="media-body">
-                                    <h4 class="iq-font-black">USA</h4>
-                                </div>
-                                <div class="ms-4">
-                                    <img class="me-2 " src="images/home/USA.png" alt="#" style="width: 80%;">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col mx-1 text-end ">
-                    <div class="d-flex align-items-center back-bg" style="height: 100px;">
-                        <div class="item">
-                            <div class="d-flex align-items-center p-3">
-                                <div class="media-body">
-                                    <h4 class="iq-font-black">London</h4>
-                                </div>
-                                <div class="ms-4">
-                                    <img class="me-2 " src="images/home/London.png" alt="#" style="width: 80%;">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col mx-1 text-end ">
-
-                </div>
-            </div> -->
         </div>
     </div>
 </div>
@@ -569,15 +480,14 @@
 <script>
     const imgElement = document.querySelector('.animation-img img');
 
-    imgElement.addEventListener('mouseenter', function () {
+    imgElement.addEventListener('mouseenter', function() {
         imgElement.dataset.imgSrc = imgElement.src;
         imgElement.src = imgElement.dataset.gif_src;
     });
 
-    imgElement.addEventListener('mouseleave', function () {
+    imgElement.addEventListener('mouseleave', function() {
         imgElement.src = imgElement.dataset.imgSrc;
     });
-
 </script>
 
 <?php include_once 'components/footer.php' ?>

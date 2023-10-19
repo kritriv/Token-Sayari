@@ -21,7 +21,7 @@
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
     <!-- Style customizer (Remove these two lines please) -->
-    <link rel="stylesheet" href="javascript:void(0)" data-style="styles">
+    <!-- <link rel="stylesheet" href="javascript:void(0)" data-style="styles"> -->
     <link rel="stylesheet" href="css/style-customizer.css" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113778816-1"></script>

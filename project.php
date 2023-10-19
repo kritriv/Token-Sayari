@@ -1,6 +1,7 @@
 <?php include_once 'components/header.php';?>
 
 <!-- Main Content -->
+<div class="clearfix"></div>
 <section class="overview-block-ptb bg-primary">
     <div class="container mt-5">
         <div class="row">
@@ -30,18 +31,17 @@
 </section>
 
 <div class="main-content">
-    <section class="overview-block-ptb">
-        
+    <section class="overview-block">        
         <div class="container">
-            <div class="row ">
+            <div class="row">
                 <div class="col-md-12">
                     <div class="iq-timeline">
-                        <div class="timeline">
+                        <div class="timeline mt-5">
                             <span class="timeline-icon text-white">
                                 <p class="NewText">1</p>
                             </span>
                             <!-- <span class="year">2017 - 2016</span> -->
-                            <div class="timeline-content fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft;">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">SKA RENT (ITALY)</h4>
                                 <!-- <span>Web Developer</span> -->
                                 <p class="iq-mt-10">
@@ -64,7 +64,7 @@
                                 <p class="NewText">2</p>
                             </span>
                             <!-- <span class="year">2016 - 2015</span> -->
-                            <div class="timeline-content fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInRight;">
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">AGL LOG IT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
@@ -85,22 +85,13 @@
                             <span class="timeline-icon text-white">
                                 <p class="NewText">3</p>
                             </span>
-                            <!-- <span class="year">2015 - 2014</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
-                                <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div>     
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.bekyhouse.website</p>
-                                </div> -->
+                                </div>  
                             </div>
                         </div>
                         <div class="timeline">
@@ -108,18 +99,10 @@
                                 <p class="NewText">4</p>
                             </span>
                             <!-- <span class="year">2014 - 2013</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
-                                <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.agllogit.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.agllogit.website</h6>                               
                                 </div>                                
@@ -130,18 +113,11 @@
                                 <p class="NewText">5</p>
                             </span>
                             <!-- <span class="year">2013 - 2012</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">SKA RENT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.bekyhouse.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.bekyhouse.website</h6>                               
                                 </div> 
@@ -152,18 +128,11 @@
                                 <p class="NewText">6</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">AGL LOG IT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.bekyhouse.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.bekyhouse.website</h6>                               
                                 </div> 
@@ -174,18 +143,11 @@
                                 <p class="NewText">7</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.skarent.site</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.skarent.website</h6>                               
                                 </div> 
@@ -196,18 +158,11 @@
                                 <p class="NewText">8</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT</p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.agllogit.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.agllogit.website</h6>                               
                                 </div> 
@@ -218,18 +173,11 @@
                                 <p class="NewText">9</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">SKA RENT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.bekyhouse.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.bekyhouse.website</h6>                               
                                 </div> 
@@ -240,18 +188,11 @@
                                 <p class="NewText">10</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">AGL LOG IT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                        height: 49px;
-                                        flex-shrink: 0; border-radius: 10px;
-                                        background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                        ">www.skarent.site</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.skarent.website</h6>                               
                                 </div> 
@@ -262,18 +203,11 @@
                                 <p class="NewText">11</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.agllogit.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.agllogit.website</h6>                               
                                 </div> 
@@ -284,18 +218,11 @@
                                 <p class="NewText">15</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.bekyhouse.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.bekyhouse.website</h6>                               
                                 </div> 
@@ -306,18 +233,11 @@
                                 <p class="NewText">17</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.bekyhouse.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.bekyhouse.website</h6>                               
                                 </div> 
@@ -328,18 +248,11 @@
                                 <p class="NewText">17</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">SKA RENT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.skarent.site</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.skarent.website</h6>                               
                                 </div> 
@@ -350,18 +263,11 @@
                                 <p class="NewText">18</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">AGL LOG IT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.agllogit.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.agllogit.website</h6>                               
                                 </div> 
@@ -372,7 +278,7 @@
                                 <p class="NewText">19</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
@@ -381,33 +287,19 @@
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.bekyhouse.website</h6>                               
                                 </div> 
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                        height: 49px;
-                                        flex-shrink: 0; border-radius: 10px;
-                                        background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                        ">www.bekyhouse.website</p>
-                                </div> -->
                             </div>
                         </div>
-                        <div class="timeline">
+                        <div class="timeline mb-5">
                             <span class="timeline-icon text-white">
                                 <p class="NewText">20</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY
                                 </p>
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                        height: 49px;
-                                        flex-shrink: 0; border-radius: 10px;
-                                        background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                        ">www.bekyhouse.website</p>
-                                </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
                                     <h6 class="text-white">www.bekyhouse.website</h6>                               
                                 </div> 
