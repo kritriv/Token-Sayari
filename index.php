@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="heading-title ">
-                        <h2 class="title iq-mb-25">Best Crypto Coin in the world <br>Token Sayari</h2>
+                        <h2 class="title iq-mb-25">Best Crypto Coin in the world Token Sayari</h2>
                         <p class="fs-4">Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
                     </div>
                 </div>
@@ -168,43 +168,119 @@
                     <div class="heading-title">
                         <small class="iq-font-green"></small>
                         <h5 class="title iq-tw-6">Sayari Token</h5>
-                        <h3 class="iq-tw-6">Banks Authorized with Sayari Token</h3>
+                        <h3 class="iq-tw-6 mb-4">Banks Authorized with Sayari Token</h3>
                     </div>
                 </div>            
             
                 <div class="row">
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/barclays-1.png" alt="icon" class="img-fluid">
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/bdo-2.png" alt="icon" class="img-fluid">
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
                         <div class="iq-small-icon back-bg p-2 ">
                             <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/Color-Deutsche-4.png" alt="icon" class="img-fluid">
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/Credit_Suisse.png" alt="icon" class="img-fluid">
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/DBS-Bank.png" alt="icon" class="img-fluid">
                         </div>
                     </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/hanaBank.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/HDFC_Bank.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/hsbc.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/ingBank.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/jpMorgan.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/kcb.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/kookmin.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/lloydsBank.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/maya.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/mufg.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/ocbcBank.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/Revolut.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/ubs.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/uniCredit.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                        <div class="iq-small-icon back-bg p-2">
+                            <img src="images/home/icon/uob.png" alt="icon" class="img-fluid">
+                        </div>
+                    </div>
+
                 </div>
-                <div class="row mt-4">
+                <!-- <div class="row mt-4">
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/hanaBank.png" alt="icon" class="img-fluid">
@@ -235,65 +311,56 @@
                             <img src="images/home/icon/kcb.png" alt="icon" class="img-fluid">
                         </div>
                     </div>
-                </div>
-                <div class="row mt-4">
+                </div> -->
+                <!-- <div class="row mt-4">
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/kookmin.png" alt="icon" class="img-fluid">
-                            <!-- <h6>No Dilution</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/lloydsBank.png" alt="icon" class="img-fluid">
-                            <!-- <h6>No Dilution</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/maya.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Smart App</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/mufg.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Easy Payment</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/ocbcBank.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Excerpt Tokens</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/Revolut.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Safe &amp; Secure</h6> -->
                         </div>
                     </div>
-                </div>
-                <div class="row mt-4">
+                </div> -->
+                <!-- <div class="row mt-4">
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/ubs.png" alt="icon" class="img-fluid">
-                            <!-- <h6>No Dilution</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/uniCredit.png" alt="icon" class="img-fluid">
-                            <!-- <h6>No Dilution</h6> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
                         <div class="iq-small-icon back-bg p-2">
                             <img src="images/home/icon/uob.png" alt="icon" class="img-fluid">
-                            <!-- <h6>Smart App</h6> -->
                         </div>
                     </div>
-                </div>
+                </div> -->
             
         </div>
     </section>

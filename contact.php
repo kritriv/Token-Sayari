@@ -1,4 +1,4 @@
-<?php include_once 'components/header.php';?>
+<?php $title="Contact - Token Sayari"; include_once 'components/header.php';?>
 
 <div class="clearfix"></div>
 
@@ -15,8 +15,7 @@
                     
                 </div>
             </div>
-        </div>
-        
+        </div>        
         <div id="stars"></div>
         <div id="stars2"></div>
         <div id="stars3"></div>        

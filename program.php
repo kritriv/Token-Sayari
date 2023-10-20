@@ -1,6 +1,4 @@
-<?php include_once 'components/header.php';?>
-
-   <!--======= Breadcrumb Inner Page =======-->
+<?php $title="Our Programs - Token Sayari"; include_once 'components/header.php';?>
    <section class="iq-bg iq-bg-fixed iq-over-black-70 jarallax iq-breadcrumb text-center text-white">
       <div class="container mt-5">
          <div class="row">

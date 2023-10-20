@@ -1,9 +1,9 @@
-<?php include_once 'components/header.php';?>
+<?php $title="Letter of Credit - Token Sayari"; include_once 'components/header.php';?>
     <!-- Main Content -->
     <div class="main-content">
         <!-- Feature -->
         <div class="col-lg-12">
-            <img src="images/letter-credit/logistics.png" alt="" style="width:100vw;">
+            <img src="images/letter-credit/logistics.webp" alt="" style="width:100vw;">
         </div>        
         <section class="overview-block-ptb">
             <div class="container">
@@ -41,7 +41,8 @@
                         </ul>                                               
                     </div>
                 </div>
-                <a class="button mt-4" href="javascript:void(0)"> <span class="button-inner-box">
+                <a class="button mt-4" href="#"> 
+                    <span class="button-inner-box">
                         <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas"
                                 data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 448 512" data-fa-i2svg="">
@@ -56,7 +57,8 @@
                                 <path fill="currentColor"
                                     d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                                 </path>
-                            </svg></span>
+                            </svg>
+                        </span>
                     </span>
                 </a>
             </div>

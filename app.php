@@ -1,7 +1,7 @@
-<?php include_once 'components/header.php';?>
+<?php $title="App - Token Sayari"; include_once 'components/header.php';?>
+
 
 <div class="clearfix"></div>
-
 <!-- Main Content -->
 <div class="main-content">
     <section class="overview-block-ptb6 banner-stars action-box dark-bg text-center">

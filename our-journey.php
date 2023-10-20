@@ -1,4 +1,4 @@
-<?php include_once 'components/header.php'; ?>
+<?php $title="Our Journey - Token Sayari"; include_once 'components/header.php'; ?>
 
 <!-- Main Content -->
 <div class="clearfix"></div>

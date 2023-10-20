@@ -680,6 +680,7 @@ header .iq-header {
   width: 100%;
   float: left;
   box-shadow: 0px 5.33333px 5.33333px 0px rgba(82, 116, 202, 0.10);
+  /* padding: 15px 0px; */
 }
 
 .menu li {
@@ -693,9 +694,9 @@ header .iq-header {
 .menu li a {
   margin: 16px 0px;
   text-decoration: none;
-  padding: 16px 24px;
+  padding: 16px 18px;
   display: block;
-  color: var(--iq-title-text);
+  color: var(--iq-white);
   text-transform: uppercase;
   font-size: 16px;
   transition: all 0.2s ease-in-out 0s;
@@ -818,7 +819,7 @@ header.menu-sticky .logo {
 }
 
 header.menu-sticky .iq-header .menu li a {
-  padding: 16px 24px;
+  padding: 16px 18px;
 }
 
 header.menu-sticky .iq-header .menu li .sub-menu li a {
@@ -1084,10 +1085,12 @@ header.fancy.menu-sticky .iq-header .row {
 
 
 @media (max-width:992px) {
-
   .topbar li,
   .topbar li a {
     font-size: 14px;
+  }
+  header .iq-header {
+    padding: 15px 0px;
   }
 
   header .logo a img {
@@ -1095,12 +1098,12 @@ header.fancy.menu-sticky .iq-header .row {
   }
 
   header .logo {
-    margin-top: 10px;
+    margin-top: 15px;
   }
 
   .menu li a {
-    padding: 18px 20px;
-    font-size: 14px;
+    padding: 18px 10px;
+    font-size: 13px;
     margin: 0;
   }
 
@@ -1122,7 +1125,9 @@ header.fancy.menu-sticky .iq-header .row {
 
 }
 
-@media (max-width:979px) {}
+@media (max-width:979px) {
+
+}
 
 @media (max-width:767px) {
 
@@ -3889,7 +3894,7 @@ header.fancy.menu-sticky .iq-header .row {
 
 .iq-timeline .timeline-content:after {
   content: "";
-  border-left: 20px solid var(--iq-primary);
+  border-left: 20px solid var(--iq-dard-gray);
   border-top: 20px solid transparent;
   border-bottom: 20px solid transparent;
   position: absolute;
@@ -5996,10 +6001,12 @@ ul.footer-nav-menu {
   header.transparent .iq-header {
     padding: 10px 24px;
   }
-
   header .logo a img {
+    height: 50px;
+  } 
+  /* header .logo a img {
     height: 23px;
-  }
+  } */
 }
 
 @media(max-width:991px) {
@@ -6019,10 +6026,12 @@ ul.footer-nav-menu {
   header.transparent .iq-header {
     padding: 10px 0px;
   }
+  header .logo a img {
+    height: 30px;
+  }
 }
 
 @media (min-width: 1400px) {
-
   .container,
   .container-lg,
   .container-md,
@@ -6034,15 +6043,21 @@ ul.footer-nav-menu {
 }
 
 
-
-
-
-
 /* My Css */
 .animation-img {
   text-align: center;
 }
 
 .animation-img img {
-  width: 60%;
+  width: 50%;
+}
+@media(max-width:1024px){
+  .animation-img img {
+    width: 70%;
+  }
+}
+@media(max-width:768px){
+  .animation-img img {
+    width: 100%;
+  }
 }

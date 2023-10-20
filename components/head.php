@@ -1,7 +1,10 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Token Sayari - Best Crypto Coin in the world</title>
+    <title><?php if(isset($title)){
+        echo $title;}else{
+            echo "Token Sayari - Best Crypto Coin in the world";
+        } ?></title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

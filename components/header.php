@@ -38,7 +38,7 @@
                         <div class="logo">
                             <a href="index.php"><img id="logo_dark" class="img-fluid" src="images/logo.png" alt="logo"></a>
                         </div>
-                        <nav> <a id="resp-menu" class="responsive-menu" href="javascript:void(0)"><i class="fa fa-reorder"></i> Menu</a>
+                        <nav> <a id="resp-menu" class="responsive-menu" href="javascript:void(0)"><i class="fa fa-reorder"></i> </a>
                             <ul class="menu text-end">
                                 <li><a class="active" href="index.php">HOME</a></li>
                                 <li><a href="javascript:void(0)">About Us</a>
@@ -61,12 +61,13 @@
                                 <li><a href="app.php">Sayari App</a></li>                                
                                 <li><a href="contact.php">Contact</a></li>                                
                                 <li>
-                                    <a class="button" href="javascript:void(0)">
-                                        <span class="button-inner-box">
+                                    <!-- <a class="button button-icon bt-lg iq-mr-15 mb-2" href="#">Login Account</a> -->
+                                    <a class="button" href="javascript:void(0)" style="color: var(--bs-white);">Login Account
+                                        <!-- <span class="button-inner-box">
                                             <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path></svg></span>
-                                            <span class="text-btn" >Login Account</span>
+                                            <span class="text-btn">Login Account</span>
                                             <span class="icon-two icon" style="color: var(--bs-white);" ><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path></svg></span>
-                                        </span>
+                                        </span> -->
                                     </a>                                    
                                 </li>
                             </ul>
