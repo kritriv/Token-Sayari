@@ -1,8 +1,8 @@
-<?php $title="Our Journey - Token Sayari"; include_once 'components/header.php'; ?>
+<?php $active = "journey"; $page ="about"; $title="Our Journey - Token Sayari"; include_once 'components/header.php'; ?>
 
 <!-- Main Content -->
 <div class="clearfix"></div>
-<section class="overview-block-ptb bg-primary" ;>
+<section class="overview-block-ptb7 bg-primary" ;>
     <div class="container mt-5">
         <div class="row">
             <div class="col-sm-12">

@@ -1,8 +1,9 @@
-<?php $title="Project - Token Sayari"; include_once 'components/header.php';?>
+<?php $page = 'protfolio'; $active = 'prject'; $title = "Project - Token Sayari";
+include_once 'components/header.php'; ?>
 
 <!-- Main Content -->
 <div class="clearfix"></div>
-<section class="overview-block-ptb bg-primary">
+<section class="overview-block-ptb7 bg-primary">
     <div class="container mt-5">
         <div class="row">
             <div class="col-sm-12">
@@ -12,18 +13,18 @@
                     <a class="button btn-secondary mt-3" href="javascript:void(0)">
                         <span class="button-inner-box">
                             <span class="icon-one icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
-                                </path>
+                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                                    </path>
                                 </svg>
                             </span>
                             <span class="text-btn text-btn-new">Get a Free Consultantion</span>
                             <span class="icon-two icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
-                                </path>
+                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                                    </path>
                                 </svg>
                             </span>
                         </span>
-                    </a>                    
+                    </a>
                 </div>
             </div>
         </div>
@@ -31,7 +32,7 @@
 </section>
 
 <div class="main-content">
-    <section class="overview-block">        
+    <section class="overview-block">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -55,8 +56,10 @@
                                     ">www.agllogit.website</p>
                                 </div> -->
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.agllogit.website</h6>                               
-                                </div> 
+                                    <a href="https://www.skarent.site/" target="_blank">
+                                        <h6 class="text-white">www.skarent.site</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -70,15 +73,10 @@
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC</p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div>    
-                                <!-- <div class="row text-center text-white mt-5">
-                                    <p style="width: 584px;
-                                            height: 49px;
-                                            flex-shrink: 0; border-radius: 10px;
-                                            background: var(--token-sayari-colors-token-sayari-primary-2, #002145);
-                                            ">www.bekyhouse.website</p>
-                                </div> -->
+                                    <a href="https://www.agllogit.website" target="_blank">
+                                        <h6 class="text-white">www.agllogit.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -88,10 +86,12 @@
                             <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <p class="iq-mt-10">
-                                    Activity: COUNTRY CLUB, HOSPITALITY </p>
+                                    Activity: B&B, HOSPITALITY</p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div>  
+                                    <a href="https://www.bekyhouse.website" target="_blank">
+                                        <h6 class="text-white">www.bekyhouse.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -102,10 +102,12 @@
                             <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
                                 <p class="iq-mt-10">
-                                    Activity: AUTOMOTIVE RANT </p>
+                                    Activity: COUNTRY CLUB, HOSPITALITY</p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.agllogit.website</h6>                               
-                                </div>                                
+                                    <a href="https://www.bekyhouse.website" target="_blank">
+                                        <h6 class="text-white">www.bekyhouse.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -117,10 +119,12 @@
                                 <h4 class="mb-3">SKA RENT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: LOGISTIC </p>
+                                    Activity: AUTOMOTIVE RANT </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div> 
+                                    <a href="https://www.skarent.site" target="_blank">
+                                        <h6 class="text-white">www.skarent.site</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -132,10 +136,12 @@
                                 <h4 class="mb-3">AGL LOG IT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: B&B, HOSPITALITY </p>
+                                    Activity: LOGISTIC </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div> 
+                                    <a href="https://www.agllogit.website" target="_blank">
+                                        <h6 class="text-white">www.agllogit.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -147,10 +153,12 @@
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: COUNTRY CLUB, HOSPITALITY </p>
+                                    Activity: B&B, HOSPITALITY</p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.skarent.website</h6>                               
-                                </div> 
+                                    <a href="https://www.bekyhouse.website" target="_blank">
+                                        <h6 class="text-white">www.bekyhouse.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -162,10 +170,12 @@
                                 <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: AUTOMOTIVE RANT</p>
+                                    Activity: COUNTRY CLUB, HOSPITALITY</p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.agllogit.website</h6>                               
-                                </div> 
+                                    <a href="https://www.bekyhouse.website" target="_blank">
+                                        <h6 class="text-white">www.bekyhouse.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -177,10 +187,12 @@
                                 <h4 class="mb-3">SKA RENT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: LOGISTIC </p>
+                                    Activity: AUTOMOTIVE RANT</p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div> 
+                                    <a href="https://www.skarent.site" target="_blank">
+                                        <h6 class="text-white">www.skarent.site</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -192,10 +204,12 @@
                                 <h4 class="mb-3">AGL LOG IT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: B&B, HOSPITALITY </p>
+                                    Activity: LOGISTIC </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.skarent.website</h6>                               
-                                </div> 
+                                    <a href="https://www.agllogit.website" target="_blank">
+                                        <h6 class="text-white">www.agllogit.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -207,10 +221,63 @@
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
+                                    Activity: B&B, HOSPITALITY</p>
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <a href="https://www.bekyhouse.website" target="_blank">
+                                        <h6 class="text-white">www.bekyhouse.website</h6>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline">
+                            <span class="timeline-icon text-white">
+                                <p class="NewText">12</p>
+                            </span>
+                            <!-- <span class="year">2012 - 2011</span> -->
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
+                                <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
+                                <!-- <span>CoinEx</span> -->
+                                <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.agllogit.website</h6>                               
-                                </div> 
+                                    <a href="https://www.bekyhouse.website" target="_blank">
+                                        <h6 class="text-white">www.bekyhouse.website</h6>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline">
+                            <span class="timeline-icon text-white">
+                                <p class="NewText">13</p>
+                            </span>
+                            <!-- <span class="year">2012 - 2011</span> -->
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
+                                <h4 class="mb-3">SKA RENT (ITALY)</h4>
+                                <!-- <span>CoinEx</span> -->
+                                <p class="iq-mt-10">
+                                    Activity: AUTOMOTIVE RANT</p>
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <a href="https://www.skarent.site" target="_blank">
+                                        <h6 class="text-white">www.skarent.site</h6>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline">
+                            <span class="timeline-icon text-white">
+                                <p class="NewText">14</p>
+                            </span>
+                            <!-- <span class="year">2012 - 2011</span> -->
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
+                                <h4 class="mb-3">AGL LOG IT (ITALY)</h4>
+                                <!-- <span>CoinEx</span> -->
+                                <p class="iq-mt-10">
+                                    Activity: LOGISTIC </p>
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <a href="https://>www.agllogit.website" target="_blank">
+                                        <h6 class="text-white">www.agllogit.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
@@ -218,47 +285,55 @@
                                 <p class="NewText">15</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
-                                <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
+                                <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: AUTOMOTIVE RANT </p>
+                                    Activity: B&B, HOSPITALITY </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div> 
+                                    <a href="https://www.bekyhouse.website" target="_blank">
+                                        <h6 class="text-white">www.bekyhouse.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline">
+                            <span class="timeline-icon text-white">
+                                <p class="NewText">16</p>
+                            </span>
+                            <!-- <span class="year">2012 - 2011</span> -->
+                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
+                                <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
+                                <!-- <span>CoinEx</span> -->
+                                <p class="iq-mt-10">
+                                    Activity: COUNTRY CLUB, HOSPITALITY
+                                </p>
+                                <div class="text-center bg-primary py-3 rounded mt-5">
+                                    <a href="https://www.bekyhouse.website" target="_blank">
+                                        <h6 class="text-white">www.bekyhouse.website</h6>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline mb-5">
                             <span class="timeline-icon text-white">
                                 <p class="NewText">17</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
                             <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
-                                <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
-                                <!-- <span>CoinEx</span> -->
-                                <p class="iq-mt-10">
-                                    Activity: LOGISTIC </p>
-                                <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div> 
-                            </div>
-                        </div>
-                        <div class="timeline">
-                            <span class="timeline-icon text-white">
-                                <p class="NewText">17</p>
-                            </span>
-                            <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
                                 <h4 class="mb-3">SKA RENT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: B&B, HOSPITALITY </p>
+                                    Activity: AUTOMOTIVE RANT
+                                </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.skarent.website</h6>                               
-                                </div> 
+                                    <a href="https://www.skarent.site" target="_blank">
+                                        <h6 class="text-white">www.skarent.site</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
-                        <div class="timeline">
+                        <div class="timeline mb-5">
                             <span class="timeline-icon text-white">
                                 <p class="NewText">18</p>
                             </span>
@@ -267,26 +342,31 @@
                                 <h4 class="mb-3">AGL LOG IT (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: COUNTRY CLUB, HOSPITALITY </p>
+                                    Activity: LOGISTIC
+                                </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.agllogit.website</h6>                               
-                                </div> 
+                                    <a href="https://www.agllogit.website" target="_blank">
+                                        <h6 class="text-white">www.agllogit.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
-                        <div class="timeline">
+                        <div class="timeline mb-5">
                             <span class="timeline-icon text-white">
                                 <p class="NewText">19</p>
                             </span>
                             <!-- <span class="year">2012 - 2011</span> -->
-                            <div class="timeline-content rounded fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; border:1px solid">
+                            <div class="timeline-content rounded fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft; border:1px solid">
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
-                                    Activity: AUTOMOTIVE RANT
+                                    Activity: B&B, HOSPITALITY
                                 </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div> 
+                                    <a href="https://www.bekyhouse.website" target="_blank">
+                                        <h6 class="text-white">www.bekyhouse.website</h6>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="timeline mb-5">
@@ -301,8 +381,8 @@
                                     Activity: COUNTRY CLUB, HOSPITALITY
                                 </p>
                                 <div class="text-center bg-primary py-3 rounded mt-5">
-                                    <h6 class="text-white">www.bekyhouse.website</h6>                               
-                                </div> 
+                                    <h6 class="text-white">www.bekyhouse.website</h6>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -313,4 +393,4 @@
 
 </div>
 <!-- Main Content End -->
-<?php include_once 'components/footer.php'?>
+<?php include_once 'components/footer.php' ?>

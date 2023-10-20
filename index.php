@@ -1,4 +1,4 @@
-<?php include_once 'components/header.php'; ?>
+<?php $page="home"; include_once 'components/header.php'; ?>
 <!-- Main Content -->
 <div class="main-content">
     <div class="clearfix"></div>
@@ -159,8 +159,6 @@
             </div>
         </div>
     </section>
-
-
 
     <section id="product" class="overview-block-pb">
         <div class="container">

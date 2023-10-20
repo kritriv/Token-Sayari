@@ -1,4 +1,4 @@
-<?php $title="Mission - Token Sayari"; include_once 'components/header.php';?>
+<?php $page ="about"; $active='mission'; $title="Mission - Token Sayari"; include_once 'components/header.php';?>
 
    <!--======= Breadcrumb Inner Page =======-->
     <section class="iq-bg iq-bg-fixed iq-over-black-70 jarallax iq-breadcrumb text-center text-white">

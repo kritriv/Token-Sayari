@@ -1,4 +1,6 @@
-<?php $title="App - Token Sayari"; include_once 'components/header.php';?>
+<?php $page = 'sayari app';
+$title = "App - Token Sayari";
+include_once 'components/header.php'; ?>
 
 
 <div class="clearfix"></div>
@@ -15,19 +17,13 @@
                         PlanetSayari.</p>
                     <a class="button btn-secondary my-4" href="javascript:void(0)">
                         <span class="button-inner-box">
-                            <span class="icon-one icon icon-new"><svg aria-hidden="true" focusable="false"
-                                    data-prefix="fas" data-icon="long-arrow-alt-right" role="img"
-                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor"
-                                        d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                            <span class="icon-one icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                                     </path>
                                 </svg></span>
                             <span class="text-btn text-btn-new">Sayari App</span>
-                            <span class="icon-two icon icon-new"><svg aria-hidden="true" focusable="false"
-                                    data-prefix="fas" data-icon="long-arrow-alt-right" role="img"
-                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor"
-                                        d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                            <span class="icon-two icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                                     </path>
                                 </svg></span>
                         </span>
@@ -40,24 +36,26 @@
         <div id="stars3"></div>
     </section>
 
-    <section class="overview-block-pt bitcoin-app">
+    <section class="overview-block-ptb8 bitcoin-app">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-12 align-self-center">
-                    <p><b>Our blockchain based program offers a unique combination of security, transparency and
-                            decentralization. It provides substantial rewards for consumers and significant earning
-                            opportunities for investors.</b></p>
                     <div class="heading-left">
-                        <h2 class="title ">What is the Sayari Loyalty Program?</h2>
+                        <h2 class="mb-4 ">What is the Sayari Loyalty Program?</h2>
                     </div>
+                    <p>Our blockchain based program offers a unique combination of security, transparency and
+                        decentralization. It provides substantial rewards for consumers and significant earning
+                        opportunities for investors.</p>
                     <p>It is a program where by the buyer receives a discount from Planet Sayari’s partner stores in the
                         form of a token called SAYT. This token is stored in the Sayari wallet application and can later
-                        be exchanged in the application’s exchanger for other tokens or fiat.</p>                    
+                        be exchanged in the application’s exchanger for other tokens or fiat.</p>
                 </div>
                 <div class="col-lg-6 col-md-12 text-center iq-r-mt-40">
-                    <h2 class="">Building Loyalty on the Blockchain</h2>                           
-                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/app/Frame 6.png" alt="#"
-                        style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight;">
+                    <div class="heading-left">
+                        <!-- <h2 class="mb-4 ">What is the Sayari Loyalty Program?</h2> -->
+                        <h3 class="mb-4 p-4">Building Loyalty on the Blockchain</h3>
+                    </div>
+                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/app/Frame 6.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight;">
                 </div>
             </div>
         </div>
@@ -148,7 +146,7 @@
                             <img class="img-fluid" src="images/services/icon/04.png" alt="">
                         </div>
                     </div>
-                    <div class="d-flex align-items-center">                        
+                    <div class="d-flex align-items-center">
                         <div class="iq-feature2 iq-mtb-20">
                             <!-- <h4 class="iq-font-black "><a href="services-details.html"> Instant Exchange</a></h4> -->
                             <p>All purchases and tokens received as discounts will be recorded in the application.</p>
@@ -157,7 +155,7 @@
                             <img class="img-fluid" src="images/services/icon/03.png" alt="">
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-lg-4 col-md-12 align-self-center text-center">
                     <img class="img-fluid" src="images/app/iPhone 13 Pro.png" alt="">
@@ -172,7 +170,7 @@
                             <p>The application will list all SAYARI’s commercial partners with their discounts.</p>
                         </div>
                     </div>
-                    
+
                     <div class="d-flex align-items-center">
                         <div class="ms-3">
                             <img class="img-fluid" src="images/services/icon/02.png" alt="">
@@ -183,7 +181,7 @@
                                 partner shops can be exchanged into the SAYT token and SAYT can be exchanged into EURO
                                 once launched on an external exchanger.</p>
                         </div>
-                        
+
                     </div>
                     <div class="d-flex align-items-center">
                         <div class="me-3">
@@ -214,101 +212,74 @@
             </div>
             <div class="row">
                 <div class="col-sm-12">
-                    <div class="owl-carousel popup-gallery owl-loaded owl-drag" data-autoplay="true" data-loop="true"
-                        data-nav="false" data-dots="true" data-items="4" data-items-laptop="3" data-items-tab="2"
-                        data-items-mobile="1" data-items-mobile-sm="1" data-margin="30">
+                    <div class="owl-carousel popup-gallery owl-loaded owl-drag" data-autoplay="true" data-loop="true" data-nav="false" data-dots="true" data-items="4" data-items-laptop="3" data-items-tab="2" data-items-mobile="1" data-items-mobile-sm="1" data-margin="30">
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-3866px, 0px, 0px); transition: all 0.25s ease 0s; width: 7030px;">
+                            <div class="owl-stage" style="transform: translate3d(-3866px, 0px, 0px); transition: all 0.25s ease 0s; width: 7030px;">
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/01.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img class="img-responsive" src="images/app/sc/01.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/02.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img class="img-responsive" src="images/app/sc/02.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/03.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img class="img-responsive" src="images/app/sc/03.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/04.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img class="img-responsive" src="images/app/sc/04.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/05.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img class="img-responsive" src="images/app/sc/05.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/02.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/06.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/02.png" class="popup-img"><img class="img-responsive" src="images/app/sc/06.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/07.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img class="img-responsive" src="images/app/sc/07.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/08.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img class="img-responsive" src="images/app/sc/08.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/02.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/06.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/02.png" class="popup-img"><img class="img-responsive" src="images/app/sc/06.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/05.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img class="img-responsive" src="images/app/sc/05.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/04.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img class="img-responsive" src="images/app/sc/04.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item active" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/01.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img class="img-responsive" src="images/app/sc/01.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item active" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/02.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img class="img-responsive" src="images/app/sc/02.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item active" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/03.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img class="img-responsive" src="images/app/sc/03.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item active" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/05.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img class="img-responsive" src="images/app/sc/05.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/02.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/05.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/02.png" class="popup-img"><img class="img-responsive" src="images/app/sc/05.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/06.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img class="img-responsive" src="images/app/sc/06.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/07.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/01.png" class="popup-img"><img class="img-responsive" src="images/app/sc/07.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/02.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/08.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/02.png" class="popup-img"><img class="img-responsive" src="images/app/sc/08.png" alt="#"></a></div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 321.5px; margin-right: 30px;">
-                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img
-                                                class="img-responsive" src="images/app/sc/03.png" alt="#"></a></div>
+                                    <div class="item"><a href="images/app/sc/03.png" class="popup-img"><img class="img-responsive" src="images/app/sc/03.png" alt="#"></a></div>
                                 </div>
                             </div>
                         </div>
-                        <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i
-                                    class="fa fa-angle-left fa-2x"></i></button><button type="button"
-                                role="presentation" class="owl-next"><i class="fa fa-angle-right fa-2x"></i></button>
+                        <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-angle-left fa-2x"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-angle-right fa-2x"></i></button>
                         </div>
-                        <div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button
-                                role="button" class="owl-dot active"><span></span></button><button role="button"
-                                class="owl-dot"><span></span></button></div>
+                        <div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div>
                     </div>
                 </div>
             </div>
@@ -322,59 +293,67 @@
                     <div class="heading-title iq-mb-0">
                         <h6>Sayari Token</h6>
                         <h2 class="iq-mb-25">Our Sayari Application</h2>
-                        
+
                     </div>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-3 mt-4">
-                <div class="col" >
+                <div class="col">
                     <div class="iq-feature5 rounded" style="height:620px">
-                      <img src="images/app/01-app.png" alt="icon1" class="img-fluid">
-                      <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Security and Transparency</a></h4> -->
-                      <p class="iq-mb-0">The app wallet will contain all Sayari ecosystem tokens plus some of the top 10 crypto currencies like BTC or ETH.</p>
+                        <img src="images/app/01-app.png" alt="icon1" class="img-fluid">
+                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Security and Transparency</a></h4> -->
+                        <p class="iq-mb-0">The app wallet will contain all Sayari ecosystem tokens plus some of the top
+                            10 crypto currencies like BTC or ETH.</p>
                     </div>
                 </div>
                 <div class="col">
                     <div class="iq-feature5 rounded" style="height:620px">
-                      <img src="images/app/02-app.png" alt="icon1" class="img-fluid">
-                      <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">High Earning Potential  -->
+                        <img src="images/app/02-app.png" alt="icon1" class="img-fluid">
+                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">High Earning Potential  -->
                         <!-- for Investors</a></h4> -->
-                      <p class="iq-mb-0">Moreover, in the application you will be able to view loyalty points from other commercial partners as well as the level of consumption reached in that month, based on which you will get subtantial bonuses in SAYT tokens.</p>
+                        <p class="iq-mb-0">Moreover, in the application you will be able to view loyalty points from
+                            other commercial partners as well as the level of consumption reached in that month, based
+                            on which you will get subtantial bonuses in SAYT tokens.</p>
                     </div>
                 </div>
                 <div class="col">
-                   <div class="iq-feature5 rounded" style="height:620px">
-                      <img src="images/app/03-app.png" alt="icon1" class="img-fluid">
-                      <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Substantial discounts and 
+                    <div class="iq-feature5 rounded" style="height:620px">
+                        <img src="images/app/03-app.png" alt="icon1" class="img-fluid">
+                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Substantial discounts and 
                         rewards for consumers</a></h4> -->
-                      <p class="iq-mb-0">In the application there will be an exchanger with which all loyalty points from other partner shops can be exchanged into the SAYT token and SAYT can be exchanged into EURO once launched on an external exchanger.</p>
-                   </div>
-                </div>                
-             </div>
-            <div class="row row-cols-1 row-cols-lg-3 mt-4">                
+                        <p class="iq-mb-0">In the application there will be an exchanger with which all loyalty points
+                            from other partner shops can be exchanged into the SAYT token and SAYT can be exchanged into
+                            EURO once launched on an external exchanger.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-lg-3 mt-4">
                 <div class="col">
-                   <div class="iq-feature5 rounded"style="height:620px">
-                      <img src="images/app/04-app.png" alt="icon1" class="img-fluid">
-                      <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Mobile Apps</a></h4> -->The application will list all SAYARI’s commercial partners with their discounts.</p>
-                   </div>
+                    <div class="iq-feature5 rounded" style="height:620px">
+                        <img src="images/app/04-app.png" alt="icon1" class="img-fluid">
+                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Mobile Apps</a></h4> -->The
+                        application will list all SAYARI’s commercial partners with their discounts.</p>
+                    </div>
                 </div>
                 <div class="col">
-                   <div class="iq-feature5 rounded"style="height:620px">
-                      <img src="images/app/05-app.png" alt="icon1" class="img-fluid">
-                      <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">24/7 Trading</a></h4> -->
-                      <p class="iq-mb-0">All purchases and tokens received as discounts will be recorded in the application.</p>
-                   </div>
+                    <div class="iq-feature5 rounded" style="height:620px">
+                        <img src="images/app/05-app.png" alt="icon1" class="img-fluid">
+                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">24/7 Trading</a></h4> -->
+                        <p class="iq-mb-0">All purchases and tokens received as discounts will be recorded in the
+                            application.</p>
+                    </div>
                 </div>
                 <div class="col">
-                   <div class="iq-feature5 rounded"style="height:620px">
-                      <div class="feature7 text-center">
-                         <img src="images/app/06-app.png" alt="icon1" class="img-fluid">
-                         <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Free Consulting</a></h4> -->
-                         <p class="iq-mb-0">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
-                      </div>
-                   </div>
+                    <div class="iq-feature5 rounded" style="height:620px">
+                        <div class="feature7 text-center">
+                            <img src="images/app/06-app.png" alt="icon1" class="img-fluid">
+                            <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Free Consulting</a></h4> -->
+                            <p class="iq-mb-0">Lorem Ipsum has been the industry's standard dummy text ever since the
+                                1500s, when an unknown printer took.</p>
+                        </div>
+                    </div>
                 </div>
-             </div>
+            </div>
         </div>
     </section>
 
@@ -384,4 +363,4 @@
 </div>
 <!-- Main Content End -->
 <!--============Footer==============-->
-<?php include_once 'components/app-footer.php'?>
+<?php include_once 'components/app-footer.php' ?>

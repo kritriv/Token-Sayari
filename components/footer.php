@@ -7,7 +7,6 @@ Footer -->
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="logo">
                         <img id="logo_img_2" class="img-fluid" src="images/logo-white.png" alt="# ">
-                        <!-- <div class="text-white iq-mt-15">Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industry's standard dummy.</div> -->
                         <ul class="iq-media-blog iq-mt-20">
                             <li><a href="# "><i class="fa fa-twitter "></i></a></li>
                             <li><a href="# "><i class="fa fa-facebook "></i></a></li>
@@ -16,45 +15,16 @@ Footer -->
                         </ul>
                     </div>
                 </div>
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12 iq-contact iq-r4-mt-40">
-                        <div class="heading-left">
-                            <h5 class="title  text-white">Important</h5>
-                        </div>
-                        <ul class="iq-pl-0">
-                            <li><a href="# ">Funds & Assets</a></li>
-                            <li><a href="# ">Programs</a></li>
-                            <li><a href="# ">Services</a></li>
-                            <li><a href="# ">Instruments</a></li>
-                            <li><a href="# ">Projects</a></li>
-                        </ul>
-                        <div class="iq-mb-20">
-                            <div class="blog"><i class="ion-ios-telephone-outline"></i>
-                                <div class="content">
-                                    <div class=" title ">Phone</div> +0123 456 789</div>
-                            </div>
-                        </div>
-                        <div class="iq-mb-20">
-                            <div class="blog "><i class="ion-ios-email-outline"></i>
-                                <div class="content">
-                                    <div class=" title ">Mail</div> mail@coinex.com</div>
-                            </div>
-                        </div>
-                        <div class="blog"><i class="ion-ios-location-outline"></i>
-                            <div class="content">
-                                <div class=" title ">Address</div> 1234 North Luke Lane, South Bend,IN 360001</div>
-                        </div>
-                    </div> -->
                 <div class="col-lg-3 col-md-6 col-sm-12 iq-r-mt-40">
                     <div class="footer-menu">
                         <div class="heading-left">
                             <h5 class="title  text-white">Important</h5>
                         </div>
                         <ul class="iq-pl-0">
-                            <li><a href="# ">Mission</a></li>
-                            <li><a href="# ">Strategy</a></li>
-                            <li><a href="# ">Sayari App</a></li>
-                            <li><a href="# ">Letter of Credit</a></li>
-                            <!-- <li><a href="# ">Projects</a></li> -->
+                            <li><a href="mission.php">Mission</a></li>
+                            <li><a href="strategy.php">Strategy</a></li>
+                            <li><a href="app.php">Sayari App</a></li>
+                            <li><a href="letter-of-credit.php">Letter of Credit</a></li>
                         </ul>
                     </div>
                 </div>
@@ -64,11 +34,10 @@ Footer -->
                             <h5 class="title  text-white">Portfolio</h5>
                         </div>
                         <ul class="iq-pl-0">
-                            <li><a href="# ">Funds & Assets</a></li>
-                            <li><a href="# ">Programs</a></li>
-                            <!-- <li><a href="# ">Services</a></li> -->
-                            <li><a href="# ">Instruments</a></li>
-                            <li><a href="# ">Projects</a></li>
+                            <li><a href="funds-assets.php">Funds & Assets</a></li>
+                            <li><a href="program.php">Programs</a></li>
+                            <li><a href="instrument.php">Instruments</a></li>
+                            <li><a href="project.php">Projects</a></li>
                         </ul>
                     </div>
                 </div>
@@ -82,28 +51,7 @@ Footer -->
                             <li><a href="# ">Lite Paper</a></li>
                         </ul>
                     </div>
-                </div>
-
-                <!-- <div class="col-lg-3 col-md-6 col-sm-12 iq-r-mt-40">
-                        <div class=" heading-left">
-                            <h5 class="title  text-white">Others</h5>
-                        </div>
-                        <p class="text-white">Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
-                        <form class="form-inline iq-subscribe mt-2">
-                            <div class="form-group">
-                                <div class="input-group mb-3 mt-4 rounded"> 
-                                    <input type="text" class="form-control" placeholder="Enter your Email">
-                                    <a class="button rounded-end" href="javascript:void(0)">                                            
-                                        <span class="button-inner-box">                                             
-                                            <span class="icon-one icon"><svg  aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path></svg></span>
-                                            <span class="text-btn">Go</span>                                              
-                                            <span class="icon-two icon"><svg  aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path></svg></span>                                         
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </form>
-                    </div> -->
+                </div>                
             </div>
         </div>
     </div>

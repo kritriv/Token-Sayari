@@ -1,9 +1,9 @@
-<?php $title="Funds And Assets - Token Sayari"; include_once 'components/header.php';?>
+<?php $active="funds"; $page = 'protfolio'; $title="Funds And Assets - Token Sayari"; include_once 'components/header.php';?>
     <!-- Main Content -->
     <div class="main-content">
         <div class="clearfix"></div>
         <!-- Easy Steps -->
-        <section class="overview-block-ptb easy-step grey-bg">
+        <section class="overview-block-ptb7 easy-step grey-bg">
             <div class="container mt-5">
                 <div class="row">
                     <div class="col-sm-12 ">                        

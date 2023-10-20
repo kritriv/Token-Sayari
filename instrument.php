@@ -1,4 +1,4 @@
-<?php $title="Instrument - Token Sayari"; include_once 'components/header.php';?>
+<?php $active="instrument"; $page = 'protfolio'; $title="Instrument - Token Sayari"; include_once 'components/header.php';?>
 <!-- Main Content -->
 <div class="main-content">
     <section class="overview-block-ptb grey-bg">

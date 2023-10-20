@@ -40,25 +40,29 @@
                         </div>
                         <nav> <a id="resp-menu" class="responsive-menu" href="javascript:void(0)"><i class="fa fa-reorder"></i> </a>
                             <ul class="menu text-end">
-                                <li><a class="active" href="index.php">HOME</a></li>
-                                <li><a href="javascript:void(0)">About Us</a>
+                                <li><a class="<?php if($page=='home'){
+                                    echo 'active'; }?>" href="index.php">HOME</a></li>
+                                <li><a href="javascript:void(0)" class="<?php if($page == 'about'){
+                                    echo 'active';}?>">About Us</a>
                                     <ul class="sub-menu">
-                                        <li><a href="mission.php">Mission</a></li>
-                                        <li><a href="strategy.php">Strategy</a></li>
-                                        <li><a href="our-journey.php">Our Journey</a></li>
-                                        <li><a href="letter-of-credit.php">Letter of Credit</a></li>
-                                        <li><a href="breadcrumb-left.html">Lite Paper</a></li>                                   
+                                        <li><a href="mission.php" class="<?php if($active == 'mission'){echo 'active';}?>">Mission</a></li>
+                                        <li><a href="strategy.php" class="<?php if($active == 'strategy'){echo 'active';}?>">Strategy</a></li>
+                                        <li><a href="our-journey.php" class="<?php if($active == 'journey'){echo 'active';}?>">Our Journey</a></li>
+                                        <li><a href="letter-of-credit.php" class="<?php if($active == 'credit'){echo 'active';}?>">Letter of Credit</a></li>
+                                        <li><a href="breadcrumb-left.html" class="<?php if($active == 'paper'){echo 'active';}?>">Lite Paper</a></li>                                   
                                     </ul>
                                 </li>
-                                <li><a href="javascript:void(0)">Portfolio</a>
+                                <li><a href="javascript:void(0)" class="<?php if($page == 'protfolio'){
+                                    echo 'active';
+                                }?>">Portfolio</a>
                                     <ul class="sub-menu">
-                                        <li><a href="funds-assets.php">Funds & Assets</a></li>
-                                        <li><a href="program.php">Our Program</a></li>
-                                        <li><a href="instrument.php">Instruments</a></li>
-                                        <li><a href="project.php">Projects</a></li>
+                                        <li><a href="funds-assets.php" class="<?php if($active == 'funds'){echo 'active';}?>">Funds & Assets</a></li>
+                                        <li><a href="program.php" class="<?php if($active == 'program'){echo 'active';}?>">Our Program</a></li>
+                                        <li><a href="instrument.php" class="<?php if($active == 'instrument'){echo 'active';}?>">Instruments</a></li>
+                                        <li><a href="project.php" class="<?php if($active == 'prject'){echo 'active';}?>">Projects</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="app.php">Sayari App</a></li>                                
+                                <li><a href="app.php" class="<?php if($page == 'sayari app'){echo 'active';}?>">Sayari App</a></li>                                
                                 <li><a href="contact.php">Contact</a></li>                                
                                 <li>
                                     <!-- <a class="button button-icon bt-lg iq-mr-15 mb-2" href="#">Login Account</a> -->
