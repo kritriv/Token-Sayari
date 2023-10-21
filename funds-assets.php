@@ -3,22 +3,22 @@
     <div class="main-content">
         <div class="clearfix"></div>
         <!-- Easy Steps -->
-        <section class="overview-block-ptb7 easy-step grey-bg">
+        <section class="overview-block-ptb7 easy-step ">
             <div class="container mt-5">
                 <div class="row">
                     <div class="col-sm-12 ">                        
                         <div class=" iq-mb-70">
                             <h2 class="title iq-mb-25 heading-title">Funds & Assets</h2>
-                            <p>Project Sayari’s funds are designed to support its mission of providing financial
-                                services to companies in the development of their investment projects while<br>
+                            <p class="fs-4 lh-base">Project Sayari’s funds are designed to support its mission of providing financial
+                                services to companies in the development of their investment projects while
                                 promoting sustainable economic development. </p>
-                            <p>Sayari offers its tokens as a unique investment opportunity for those who share the
+                            <p class="fs-4 lh-base">Sayari offers its tokens as a unique investment opportunity for those who share the
                                 vision. The enterprise is rooted and backed up by bonds, guarantees, real estate and
                                 financial assets from various countries, including Italy, Canada, Monaco, Germany,
                                 Romania and several African nations such as Kenya,Namibia, and Nigeria. The assets,
                                 represented by tokens, currently amount to a value exceeding 2 B dollars and are set to
                                 expand in the weeks to come.</p><br>
-                            <p>Sayari manage large trade programs that are set up by large banks and large
+                            <p class="fs-4 lh-base">Sayari manage large trade programs that are set up by large banks and large
                                 organizations. Our Organization handle everything from fund blocking to admin holds and
                                 cash trades via Swift MT 799/MT760. ( Ledger to Ledger/ Internal Block) SIG is a static
                                 partner of Sayari. Which is the most important part of TOKEN Sayari. SIG accept banking

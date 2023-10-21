@@ -1,6 +1,6 @@
 <!--=================================
 Footer -->
-<footer class="iq-footer-3 bg-primary radius-top">
+<footer class="iq-footer-3 radius-top">
     <div class="footer-top overview-block-pt iq-pb-60">
         <div class="container">
             <div class="row">
@@ -8,17 +8,17 @@ Footer -->
                     <div class="logo">
                         <img id="logo_img_2" class="img-fluid" src="images/logo-white.png" alt="# ">
                         <ul class="iq-media-blog iq-mt-20">
-                            <li><a href="# "><i class="fa fa-twitter "></i></a></li>
-                            <li><a href="# "><i class="fa fa-facebook "></i></a></li>
-                            <li><a href="# "><i class="fa fa-google "></i></a></li>
-                            <li><a href="# "><i class="fa fa-github "></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter "></i></a></li>
+                            <li><a href="#"><i class="fa fa-facebook "></i></a></li>
+                            <li><a href="#"><i class="fa fa-google "></i></a></li>
+                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 iq-r-mt-40">
                     <div class="footer-menu">
                         <div class="heading-left">
-                            <h5 class="title  text-white">Important</h5>
+                            <h5 class="title">Important</h5>
                         </div>
                         <ul class="iq-pl-0">
                             <li><a href="mission.php">Mission</a></li>
@@ -31,7 +31,7 @@ Footer -->
                 <div class="col-lg-3 col-md-6 col-sm-12 iq-r-mt-40">
                     <div class="footer-menu">
                         <div class="heading-left">
-                            <h5 class="title  text-white">Portfolio</h5>
+                            <h5 class="title">Portfolio</h5>
                         </div>
                         <ul class="iq-pl-0">
                             <li><a href="funds-assets.php">Funds & Assets</a></li>
@@ -44,22 +44,27 @@ Footer -->
                 <div class="col-lg-3 col-md-6 col-sm-12 iq-r-mt-40">
                     <div class="footer-menu">
                         <div class="heading-left">
-                            <h5 class="title  text-white">Others</h5>
+                            <h5 class="title">Others</h5>
                         </div>
                         <ul class="iq-pl-0">
                             <li><a href="# ">Privacy Policy</a></li>
                             <li><a href="# ">Lite Paper</a></li>
                         </ul>
                     </div>
-                </div>                
+                </div>
             </div>
         </div>
     </div>
     <div class="footer-bottom iq-ptb-20 ">
         <div class="container">
             <div class="row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-sm-12 text-center">
-                    <div class="iq-copyright iq-mt-10 text-white">© 2023 Planet Sayari. All rights reserved.</div>
+                    <div class="iq-copyright iq-mt-10">© 2023 Planet Sayari. All rights reserved.</div>
                 </div>
             </div>
         </div>
@@ -86,19 +91,13 @@ Login -->
                     </div>
                     <a class="button iq-mtb-10" href="javascript:void(0)">
                         <span class="button-inner-box">
-                            <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas"
-                                    data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg"
-                                    viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor"
-                                        d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                            <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                                     </path>
                                 </svg></span>
                             <span class="text-btn">Sign In</span>
-                            <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas"
-                                    data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg"
-                                    viewBox="0 0 448 512" data-fa-i2svg="">
-                                    <path fill="currentColor"
-                                        d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                            <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                                    <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                                     </path>
                                 </svg></span>
                         </span>
@@ -212,68 +211,68 @@ Register -->
 <!-- Custom JavaScript -->
 <script src="js/custom.js"></script>
 <script>
-var revapi4,
-    tpj = jQuery;
-tpj(document).ready(function() {
-    if (tpj("#rev_slider_4_1").revolution == undefined) {
-        revslider_showDoubleJqueryError("#rev_slider_4_1");
-    } else {
-        revapi4 = tpj("#rev_slider_4_1").show().revolution({
-            sliderType: "standard",
-            sliderLayout: "fullwidth",
-            dottedOverlay: "none",
-            delay: 9000,
-            navigation: {
-                keyboardNavigation: "off",
-                keyboard_direction: "horizontal",
-                mouseScrollNavigation: "off",
-                mouseScrollReverse: "default",
-                onHoverStop: "off",
-                arrows: {
-                    style: "zeus",
-                    enable: true,
-                    hide_onmobile: false,
-                    hide_onleave: false,
-                    tmp: '<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div> </div>',
-                    left: {
-                        h_align: "left",
-                        v_align: "center",
-                        h_offset: 20,
-                        v_offset: 0
-                    },
-                    right: {
-                        h_align: "right",
-                        v_align: "center",
-                        h_offset: 20,
-                        v_offset: 0
+    var revapi4,
+        tpj = jQuery;
+    tpj(document).ready(function() {
+        if (tpj("#rev_slider_4_1").revolution == undefined) {
+            revslider_showDoubleJqueryError("#rev_slider_4_1");
+        } else {
+            revapi4 = tpj("#rev_slider_4_1").show().revolution({
+                sliderType: "standard",
+                sliderLayout: "fullwidth",
+                dottedOverlay: "none",
+                delay: 9000,
+                navigation: {
+                    keyboardNavigation: "off",
+                    keyboard_direction: "horizontal",
+                    mouseScrollNavigation: "off",
+                    mouseScrollReverse: "default",
+                    onHoverStop: "off",
+                    arrows: {
+                        style: "zeus",
+                        enable: true,
+                        hide_onmobile: false,
+                        hide_onleave: false,
+                        tmp: '<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div> </div>',
+                        left: {
+                            h_align: "left",
+                            v_align: "center",
+                            h_offset: 20,
+                            v_offset: 0
+                        },
+                        right: {
+                            h_align: "right",
+                            v_align: "center",
+                            h_offset: 20,
+                            v_offset: 0
+                        }
                     }
+                },
+                visibilityLevels: [1240, 1024, 778, 480],
+                gridwidth: 1170,
+                gridheight: 790,
+                lazyType: "none",
+                shadow: 0,
+                spinner: "spinner0",
+                stopLoop: "off",
+                stopAfterLoops: -1,
+                stopAtSlide: -1,
+                shuffle: "off",
+                autoHeight: "off",
+                disableProgressBar: "on",
+                hideThumbsOnMobile: "off",
+                hideSliderAtLimit: 0,
+                hideCaptionAtLimit: 0,
+                hideAllCaptionAtLilmit: 0,
+                debugMode: false,
+                fallbacks: {
+                    simplifyAll: "off",
+                    nextSlideOnWindowFocus: "off",
+                    disableFocusListener: false,
                 }
-            },
-            visibilityLevels: [1240, 1024, 778, 480],
-            gridwidth: 1170,
-            gridheight: 790,
-            lazyType: "none",
-            shadow: 0,
-            spinner: "spinner0",
-            stopLoop: "off",
-            stopAfterLoops: -1,
-            stopAtSlide: -1,
-            shuffle: "off",
-            autoHeight: "off",
-            disableProgressBar: "on",
-            hideThumbsOnMobile: "off",
-            hideSliderAtLimit: 0,
-            hideCaptionAtLimit: 0,
-            hideAllCaptionAtLilmit: 0,
-            debugMode: false,
-            fallbacks: {
-                simplifyAll: "off",
-                nextSlideOnWindowFocus: "off",
-                disableFocusListener: false,
-            }
-        });
-    }
-}); /*ready*/
+            });
+        }
+    }); /*ready*/
 </script>
 </body>
 

@@ -2,15 +2,17 @@
 <!-- Main Content -->
 <div class="main-content">
     <div class="clearfix"></div>
-    <section class="overview-block-ptb iq-bg iq-bg-fixed ">
+    <section class="overview-block-ptb">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12">
-                    <div class="heading-title ">
-                        <h2 class="title iq-mb-25">Best Crypto Coin in the world Token Sayari</h2>
-                        <p class="fs-4">Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
+                <div class="col-md-1"></div>    
+                <div class="col-md-10">
+                    <div class="heading-title">
+                        <h2 class="title iq-mb-25 titillium-font">Best Crypto Coin in the world Token Sayari</h2>
+                        <p class="fs-4 lh-base">Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
                     </div>
                 </div>
+                <div class="col-md-1"></div>
             </div>
             <div class="row">
                 <div class="col-sm-12 text-center">
@@ -23,13 +25,13 @@
         </div>
     </section>
     <!-- Action Box -->
-    <section class="overview-block-ptb9 banner-stars action-box dark-bg">
+    <section class="overview-block-ptb9 banner-stars action-box iq-bg">
         <div class="container">
             <div class="row h-100">
-                <div class="col-lg-6 col-md-12 align-self-center">
-                    <h6 class="text-white mb-2">Presentation</h6 class>
-                    <h3 class="text-white">The Most Valuable</h3>
-                    <h3 class="text-white mb-3 ">Cryptocurrency Platform</h3>
+                <div class="col-lg-5 col-md-12 align-self-center">
+                    <h6 class=" mb-2 fs-5">Presentation</h6 class>
+                    <h3 class="letter-space-3 fs-1 text-uppercase">The Most Valuable</h3>
+                    <h3 class="mb-3 letter-space-3 fw-bold fs-1 text-uppercase">Cryptocurrency Platform</h3>
                     <a class="button mt-4" href="javascript:void(0)">
                         <span class="button-inner-box">
                             <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
@@ -42,10 +44,11 @@
                         </span>
                     </a>
                 </div>
-                <div class="col-lg-6 col-md-12 text-white">
+                <div class="col-lg-1"></div>
+                <div class="col-lg-6 col-md-12">
                     <!-- <h3 class="text-white mb-3 ">Do You Need a Consultant?</h3> -->
                     <div>
-                        <p>Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization. By leveraging the power of blockchain technology and combining it with innovative financial instruments, Planet Sayari offers a unique solution to help companies and projects develop and achieve their goals. Overall, Planet Sayari aims to facilitate global business opportunities, foster economic growth, and shape the future of finance.</p>
+                        <p class="fs-5 lh-base text-justify">Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization. By leveraging the power of blockchain technology and combining it with innovative financial instruments, Planet Sayari offers a unique solution to help companies and projects develop and achieve their goals. Overall, Planet Sayari aims to facilitate global business opportunities, foster economic growth, and shape the future of finance.</p>
                     </div>
                     <div class="triangle1"></div>
                 </div>
@@ -70,8 +73,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-sm-12 iq-mt-30 align-self-center">
-                    <p>Planet Sayari has created an ecosystem of tokens to fulfill a variety of roles within its platform. The tokens provide utility, security, liquidity and incentive features that support the diverse needs of users, investors, retailers and other partners. the tokens provide incentives and rewards that drive engagement.</p>
-                    <p>The diverse yet interconnected token ecosystem allows Planet Sayari to fulfill the full spectrum of monetization, security, efficiency and engagement needs required to power its expanding services and user community. The unique but complementary utilities of the different tokens work together to form a holistic value proposition.</p>
+                    <p class="fs-5 lh-base text-justify mb-5">Planet Sayari has created an ecosystem of tokens to fulfill a variety of roles within its platform. The tokens provide utility, security, liquidity and incentive features that support the diverse needs of users, investors, retailers and other partners. the tokens provide incentives and rewards that drive engagement.</p>
+                    <p class="fs-5 lh-base text-justify">The diverse yet interconnected token ecosystem allows Planet Sayari to fulfill the full spectrum of monetization, security, efficiency and engagement needs required to power its expanding services and user community. The unique but complementary utilities of the different tokens work together to form a holistic value proposition.</p>
                 </div>
                 <div class="col-lg-1 col-sm-12 iq-r-mt-40"></div>
                 <div class="col-lg-5 col-sm-12 iq-r-mt-40">
@@ -138,12 +141,6 @@
                             <small>Chief Communication Officer</small>
                         </div>
                         <p class="mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-                        <!-- <ul class="iq-media-blog ">
-                                <li><a href="# "><i class="fa fa-twitter "></i></a></li>
-                                <li><a href="# "><i class="fa fa-facebook "></i></a></li>
-                                <li><a href="# "><i class="fa fa-google "></i></a></li>
-                                <li><a href="# "><i class="fa fa-github "></i></a></li>
-                            </ul> -->
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12  iq-mtb-15">
@@ -162,203 +159,121 @@
 
     <section id="product" class="overview-block-pb">
         <div class="container">
-                <div class="row">                
-                    <div class="heading-title">
-                        <small class="iq-font-green"></small>
-                        <h5 class="title iq-tw-6">Sayari Token</h5>
-                        <h3 class="iq-tw-6 mb-4">Banks Authorized with Sayari Token</h3>
-                    </div>
-                </div>            
-            
-                <div class="row">
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/barclays-1.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/bdo-2.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2 ">
-                            <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/Color-Deutsche-4.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/Credit_Suisse.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/DBS-Bank.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/hanaBank.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/HDFC_Bank.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/hsbc.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/ingBank.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/jpMorgan.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/kcb.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/kookmin.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/lloydsBank.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/maya.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/mufg.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/ocbcBank.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/Revolut.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/ubs.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/uniCredit.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/uob.png" alt="icon" class="img-fluid">
-                        </div>
-                    </div>
-
+            <div class="row">                
+                <div class="heading-title">
+                    <small class="iq-font-green"></small>
+                    <h5 class="title iq-tw-6">Sayari Token</h5>
+                    <h3 class="iq-tw-6 mb-4">Banks Authorized with Sayari Token</h3>
                 </div>
-                <!-- <div class="row mt-4">
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/hanaBank.png" alt="icon" class="img-fluid">
-                        </div>
+            </div>            
+            
+            <div class="row">
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/barclays-1.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/HDFC_Bank.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/bdo-2.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/hsbc.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2 ">
+                        <img src="images/home/icon/bnp-3.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/ingBank.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/Color-Deutsche-4.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/jpMorgan.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/Credit_Suisse.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/kcb.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/DBS-Bank.png" alt="icon" class="img-fluid">
                     </div>
-                </div> -->
-                <!-- <div class="row mt-4">
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/kookmin.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/hanaBank.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/lloydsBank.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/HDFC_Bank.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/maya.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/hsbc.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/mufg.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/ingBank.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/ocbcBank.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/jpMorgan.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/Revolut.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/kcb.png" alt="icon" class="img-fluid">
                     </div>
-                </div> -->
-                <!-- <div class="row mt-4">
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/ubs.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/kookmin.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/uniCredit.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/lloydsBank.png" alt="icon" class="img-fluid">
                     </div>
-                    <div class="col-lg-2 col-md-4 col-sm-6 iq-r-mt-40">
-                        <div class="iq-small-icon back-bg p-2">
-                            <img src="images/home/icon/uob.png" alt="icon" class="img-fluid">
-                        </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/maya.png" alt="icon" class="img-fluid">
                     </div>
-                </div> -->
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/mufg.png" alt="icon" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/ocbcBank.png" alt="icon" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/Revolut.png" alt="icon" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/ubs.png" alt="icon" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/uniCredit.png" alt="icon" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-3">
+                    <div class="iq-small-icon back-bg p-2">
+                        <img src="images/home/icon/uob.png" alt="icon" class="img-fluid">
+                    </div>
+                </div>
+            </div>                
             
         </div>
     </section>
@@ -404,7 +319,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-12 iq-mtb-100">
+                <div class="col-sm-12 iq-mtb-50">
                     <hr>
                 </div>
             </div>
@@ -417,7 +332,7 @@
                 <div class="col-lg-7 col-md-12">
                     <div class="heading-left">
                         <h3 class="mb-3">Sayari Offices</h3>
-                        <p>PLANET SAYARI began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
+                        <p class="fs-5 lh-base text-justify mb-5">PLANET SAYARI began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
                         <!-- <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> -->
                     </div>
                 </div>

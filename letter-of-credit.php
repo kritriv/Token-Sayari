@@ -64,7 +64,7 @@ include_once 'components/header.php'; ?>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="animation-img">
-                        <img data-gif_src="images/home/animation-frame01.gif" src="images/home/Rotation.gif" />
+                        <img class="img-animation" data-gif_src="imagess/letter-credit/trade-finance-1.gif" src="images/letter-credit/trade finance.gif"/>
                     </div>
                 </div>
             </div>
@@ -79,14 +79,14 @@ include_once 'components/header.php'; ?>
 
 
     <div class="col-lg-12">
-        <img src="images/letter-credit/future-vission.png" alt="" style="width:90vw;">
+        <img src="images/letter-credit/future-vission.svg" alt="" style="width:90vw;">
     </div>
 
-    <div class="row justify-content-center">
+    <!-- <div class="row justify-content-center">
         <div class="col-lg-10 col-md-8 text-center">
             <img src="images/Asset 2 2.png" alt="" class="width:50% center">
         </div>
-    </div>
+    </div> -->
 
 </div>
 <!-- Main Content End -->
@@ -110,7 +110,19 @@ include_once 'components/header.php'; ?>
     </div>
   </div>
 </div>
-
 <!-- End Modal -->
+
+<script>
+    const imgElement = document.querySelector('.animation-img .img-animation');
+
+    imgElement.addEventListener('mouseenter', function() {
+        imgElement.dataset.imgSrc = imgElement.src;
+        imgElement.src = imgElement.dataset.gif_src;
+    });
+
+    imgElement.addEventListener('mouseleave', function() {
+        imgElement.src = imgElement.dataset.imgSrc;
+    });
+</script>
 
 <?php include_once 'components/footer.php' ?>
