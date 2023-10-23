@@ -6,23 +6,23 @@ include_once 'components/header.php'; ?>
 <div class="clearfix"></div>
 <!-- Main Content -->
 <div class="main-content">
-    <section class="overview-block-ptb6 banner-stars action-box dark-bg text-center">
+    <section class="overview-block-ptb7 iq-bg text-center">
         <div class="container">
             <div class="row h-100">
-                <div class="col-lg-8 offset-lg-2 mb-5">
+                <div class="col-lg-8 offset-lg-2  mb-5">
                     <div class="program py-4">
-                        <h3 class="title text-uppercase text-white">Planet Sayari</h3>
+                        <h3 class="title text-uppercase ">Planet Sayari</h3>
                     </div>
-                    <p class="text-white">The Next Frontier of Loyalty:How Blockchain MakesRewards Better with
+                    <p class="">The Next Frontier of Loyalty:How Blockchain MakesRewards Better with
                         PlanetSayari.</p>
-                    <a class="button btn-secondary my-4" href="javascript:void(0)">
+                    <a class="button my-4" href="#">
                         <span class="button-inner-box">
-                            <span class="icon-one icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                            <span class="icon-one icon" style="color: var(--iq-primary);"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
                                     <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                                     </path>
                                 </svg></span>
-                            <span class="text-btn text-btn-new">Sayari App</span>
-                            <span class="icon-two icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                            <span class="text-btn">Sayari App</span>
+                            <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
                                     <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
                                     </path>
                                 </svg></span>
@@ -31,31 +31,24 @@ include_once 'components/header.php'; ?>
                 </div>
             </div>
         </div>
-        <div id="stars"></div>
-        <div id="stars2"></div>
-        <div id="stars3"></div>
     </section>
 
     <section class="overview-block-ptb8 bitcoin-app">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6 col-md-12 align-self-center">
+                <div class="col-lg-5 offset-lg-1 col-md-12 align-self-center p-4">
                     <div class="heading-left">
-                        <h2 class="mb-4 ">What is the Sayari Loyalty Program?</h2>
+                        <h2 class="mb-4">What is the Sayari Loyalty Program?</h2>
                     </div>
-                    <p>Our blockchain based program offers a unique combination of security, transparency and
+                    <p class="fs-4 lh-base">Our blockchain based program offers a unique combination of security, transparency and
                         decentralization. It provides substantial rewards for consumers and significant earning
                         opportunities for investors.</p>
-                    <p>It is a program where by the buyer receives a discount from Planet Sayari’s partner stores in the
+                    <p class="fs-4 lh-base">It is a program where by the buyer receives a discount from Planet Sayari’s partner stores in the
                         form of a token called SAYT. This token is stored in the Sayari wallet application and can later
                         be exchanged in the application’s exchanger for other tokens or fiat.</p>
                 </div>
                 <div class="col-lg-6 col-md-12 text-center iq-r-mt-40">
-                    <div class="heading-left">
-                        <!-- <h2 class="mb-4 ">What is the Sayari Loyalty Program?</h2> -->
-                        <h3 class="mb-4 p-4">Building Loyalty on the Blockchain</h3>
-                    </div>
-                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/app/Frame 6.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight;">
+                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/app/Frame 6.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight; width:90%">
                 </div>
             </div>
         </div>
@@ -68,15 +61,13 @@ include_once 'components/header.php'; ?>
                     <div class="heading-title">
                         <h6 class="iq-mb-10">Sayari Token</h6>
                         <h2 class="title  iq-mb-25">Reasons to Enroll</h2>
-                        <!-- <p>We've been working really hard to improve the CoinEx with this amazing new features that you aked for! Check out the CoinEx’s new amazing features.</p> -->
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
-                    <div class="iq-feature9 text-left" style="height: 470px;">
-                        <!-- <i aria-hidden="true" class="ion-ios-pie-outline iq-font-yellow"></i> -->
-                        <img src="images/app/Frame.png" alt="" width="20%">
+                    <div class="iq-feature9 text-left">
+                        <img src="images/app/Frame.svg" alt="" width="20%">
                         <h4 class="mb-2 mt-4">Security and Transparency</h4>
                         <div class="info-03">
                             <p>All transactions and rewards are recorded on a secure, transparent ledger, providing
@@ -85,9 +76,8 @@ include_once 'components/header.php'; ?>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4 iq-r-mt-40">
-                    <div class="iq-feature9 text-left" style="height: 470px;">
-                        <!-- <i aria-hidden="true" class="ion-ios-color-filter-outline iq-font-yellow"></i> -->
-                        <img src="images/app/Layer_1.png" alt="" width="20%">
+                    <div class="iq-feature9 text-left">
+                        <img src="images/app/Layer_1.svg" alt="" width="20%">
                         <h4 class="mb-2 mt-4">High Earning Potential for Investors</h4>
                         <div class="info-03">
                             <p>Our offering is a digital token linked to a virtual loyalty card available online. Upon
@@ -97,9 +87,8 @@ include_once 'components/header.php'; ?>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4 iq-r-mt-40">
-                    <div class="iq-feature9 text-left" style="height: 470px;">
-                        <!-- <i aria-hidden="true" class="ion-ios-gear-outline iq-font-yellow"></i> -->
-                        <img src="images/app/Frame (1).png" alt="" width="20%">
+                    <div class="iq-feature9 text-left">
+                        <img src="images/app/Frame (1).svg" alt="" width="20%">
                         <h4 class="mb-2 mt-4">Substantial discounts and rewards for consumers</h4>
                         <div class="info-03">
                             <p>Members of the Sayari loyalty program are eligible to receive discounts from merchants or
@@ -112,13 +101,13 @@ include_once 'components/header.php'; ?>
         </div>
     </section>
 
-    <section class="overview-block-ptb iq-feature-aria  grey-bg">
+    <!-- <section class="overview-block-ptb iq-feature-aria  grey-bg">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
                     <div class="heading-title">
                         <h2 class="title  iq-mb-25">Sayari Features</h2>
-                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
+                        <p class="fs-5 lh-base">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
                             printer took a galley of type and scrambled it to make a type specimen book. </p>
                     </div>
                 </div>
@@ -127,7 +116,6 @@ include_once 'components/header.php'; ?>
                 <div class="col-lg-4 col-md-12 text-end iq-mt-40">
                     <div class="d-flex align-items-center">
                         <div class="iq-feature2 iq-mtb-20">
-                            <!-- <h4 class="iq-font-black "><a href="services-details.html">Safe &amp; Secure</a></h4> -->
                             <p>The app wallet will contain all Sayari ecosystem tokens plus some of the top 10 crypto
                                 currencies like BTC or ETH.</p>
                         </div>
@@ -137,7 +125,6 @@ include_once 'components/header.php'; ?>
                     </div>
                     <div class="d-flex align-items-center">
                         <div class="iq-feature2 iq-mtb-20">
-                            <!-- <h4 class="iq-font-black "><a href="services-details.html">Mobile Apps</a></h4> -->
                             <p>Moreover, in the application you will be able to view loyalty points from other
                                 commercial partners as well as the level of consumption reached in that month, based on
                                 which you will get subtantial bonuses in SAYT tokens.</p>
@@ -148,14 +135,12 @@ include_once 'components/header.php'; ?>
                     </div>
                     <div class="d-flex align-items-center">
                         <div class="iq-feature2 iq-mtb-20">
-                            <!-- <h4 class="iq-font-black "><a href="services-details.html"> Instant Exchange</a></h4> -->
                             <p>All purchases and tokens received as discounts will be recorded in the application.</p>
                         </div>
                         <div class="me-3">
                             <img class="img-fluid" src="images/services/icon/03.png" alt="">
                         </div>
                     </div>
-
                 </div>
                 <div class="col-lg-4 col-md-12 align-self-center text-center">
                     <img class="img-fluid" src="images/app/iPhone 13 Pro.png" alt="">
@@ -166,7 +151,6 @@ include_once 'components/header.php'; ?>
                             <img class="img-fluid" src="images/services/icon/05.png" alt="">
                         </div>
                         <div class="iq-feature2 iq-mtb-20">
-                            <!-- <h4 class="iq-font-black "><a href="services-details.html">Recuring Buysg</a></h4> -->
                             <p>The application will list all SAYARI’s commercial partners with their discounts.</p>
                         </div>
                     </div>
@@ -176,7 +160,6 @@ include_once 'components/header.php'; ?>
                             <img class="img-fluid" src="images/services/icon/02.png" alt="">
                         </div>
                         <div class="iq-feature2 iq-mtb-20">
-                            <!-- <h4 class="iq-font-black "><a href="services-details.html">Wallet</a></h4> -->
                             <p>In the application there will be an exchanger with which all loyalty points from other
                                 partner shops can be exchanged into the SAYT token and SAYT can be exchanged into EURO
                                 once launched on an external exchanger.</p>
@@ -188,7 +171,6 @@ include_once 'components/header.php'; ?>
                             <img class="img-fluid" src="images/services/icon/06.png" alt="">
                         </div>
                         <div class="iq-feature2 iq-mtb-20">
-                            <!-- <h4 class="iq-font-black "><a href="services-details.html">Free Consulting</a></h4> -->
                             <p>The safety and security of the application is maximum, in accordance with the European
                                 standards. Each user will have to fill in their KYC (Know Your Customer), choose a
                                 password and save a security phrase.</p>
@@ -197,9 +179,74 @@ include_once 'components/header.php'; ?>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <section class="overview-block-ptb iq-screenshots">
+
+
+    <section class="overview-block-pb">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="heading-title iq-mb-0">
+                        <h6>Sayari Token</h6>
+                        <h2 class="iq-mb-25">Our Sayari Application</h2>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 offset-lg-4 col-md-12 hidden-xs align-self-center text-center">
+                    <img class="img-fluid" src="images/app/iPhone 13 Pro.png" alt="">
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-lg-3 mt-4">
+                <div class="col">
+                    <div class="iq-feature5 border-0 rounded">
+                        <img src="images/app/04-app.png" alt="icon1" class="img-fluid">
+                        <p class="iq-mb-0" style="padding-bottom: 4.8rem;">The app wallet will contain all Sayari ecosystem tokens plus some of the top 10 crypto currencies like BTC or ETH.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="iq-feature5 border-0 rounded">
+                        <img src="images/app/01-app.png" alt="icon1" class="img-fluid">
+                        <p class="iq-mb-0">Moreover, in the application you will be able to view loyalty points from other commercial partners as well as the level of consumption reached in that month, based on which you will get subtantial bonuses in SAYT tokens.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="iq-feature5 border-0 rounded">
+                        <img src="images/app/02-app.png" alt="icon1" class="img-fluid">
+                        <p class="iq-mb-0">In the application there will be an exchanger with which all loyalty points
+                            from other partner shops can be exchanged into the SAYT token and SAYT can be exchanged into
+                            EURO once launched on an external exchanger.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-lg-3 mt-4">
+                <div class="col">
+                    <div class="iq-feature5 border-0 rounded">
+                        <img src="images/app/03-app.png" alt="icon1" class="img-fluid">
+                        <p class="" style="padding-bottom: 3rem;">The application will list all SAYARI’s commercial partners with their discounts.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="iq-feature5 border-0 rounded">
+                        <img src="images/app/04-app.png" alt="icon1" class="img-fluid">
+                        <p class="" style="padding-bottom: 1.5rem;">All purchases and tokens received as discounts will be recorded in the
+                            application.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="iq-feature5 border-0 rounded">
+                        <div class="feature7 text-center">
+                            <img src="images/app/05-app.png" alt="icon1" class="img-fluid">
+                            <p class="iq-mb-0">The safety & security of the application is maximum, in accordance with the European standards. Each user will have to fill in their KYC, choose a password & save a security phrase.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="overview-block-pb iq-screenshots">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -285,81 +332,6 @@ include_once 'components/header.php'; ?>
             </div>
         </div>
     </section>
-
-    <section class="overview-block-pb">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="heading-title iq-mb-0">
-                        <h6>Sayari Token</h6>
-                        <h2 class="iq-mb-25">Our Sayari Application</h2>
-
-                    </div>
-                </div>
-            </div>
-            <div class="row row-cols-1 row-cols-lg-3 mt-4">
-                <div class="col">
-                    <div class="iq-feature5 rounded" style="height:620px">
-                        <img src="images/app/01-app.png" alt="icon1" class="img-fluid">
-                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Security and Transparency</a></h4> -->
-                        <p class="iq-mb-0">The app wallet will contain all Sayari ecosystem tokens plus some of the top
-                            10 crypto currencies like BTC or ETH.</p>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="iq-feature5 rounded" style="height:620px">
-                        <img src="images/app/02-app.png" alt="icon1" class="img-fluid">
-                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">High Earning Potential  -->
-                        <!-- for Investors</a></h4> -->
-                        <p class="iq-mb-0">Moreover, in the application you will be able to view loyalty points from
-                            other commercial partners as well as the level of consumption reached in that month, based
-                            on which you will get subtantial bonuses in SAYT tokens.</p>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="iq-feature5 rounded" style="height:620px">
-                        <img src="images/app/03-app.png" alt="icon1" class="img-fluid">
-                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Substantial discounts and 
-                        rewards for consumers</a></h4> -->
-                        <p class="iq-mb-0">In the application there will be an exchanger with which all loyalty points
-                            from other partner shops can be exchanged into the SAYT token and SAYT can be exchanged into
-                            EURO once launched on an external exchanger.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row row-cols-1 row-cols-lg-3 mt-4">
-                <div class="col">
-                    <div class="iq-feature5 rounded" style="height:620px">
-                        <img src="images/app/04-app.png" alt="icon1" class="img-fluid">
-                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Mobile Apps</a></h4> -->The
-                        application will list all SAYARI’s commercial partners with their discounts.</p>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="iq-feature5 rounded" style="height:620px">
-                        <img src="images/app/05-app.png" alt="icon1" class="img-fluid">
-                        <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">24/7 Trading</a></h4> -->
-                        <p class="iq-mb-0">All purchases and tokens received as discounts will be recorded in the
-                            application.</p>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="iq-feature5 rounded" style="height:620px">
-                        <div class="feature7 text-center">
-                            <img src="images/app/06-app.png" alt="icon1" class="img-fluid">
-                            <!-- <h4 class="text-black  iq-pt-40 mb-3"><a href="services-details.html">Free Consulting</a></h4> -->
-                            <p class="iq-mb-0">Lorem Ipsum has been the industry's standard dummy text ever since the
-                                1500s, when an unknown printer took.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-
 </div>
 <!-- Main Content End -->
 <!--============Footer==============-->

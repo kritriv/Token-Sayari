@@ -2,13 +2,13 @@
 
 <!-- Main Content -->
 <div class="clearfix"></div>
-<section class="overview-block-ptb7 bg-primary" ;>
+<section class="overview-block-ptb7 iq-bg">
     <div class="container mt-5">
         <div class="row">
-            <div class="col-sm-12">
+            <div class="col-sm-10 offset-sm-1">
                 <div class="heading-title iq-mb-0">
-                    <h2 class="title iq-mb-20 text-white">Our Journey</h2>
-                    <p class="text-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <h2 class="title iq-mb-20 ">Our Journey</h2>
+                    <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                     <a class="button my-4" href="javascript:void(0)">
                         <span class="button-inner-box">
                             <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">

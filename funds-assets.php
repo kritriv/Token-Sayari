@@ -3,7 +3,7 @@
     <div class="main-content">
         <div class="clearfix"></div>
         <!-- Easy Steps -->
-        <section class="overview-block-ptb7 easy-step ">
+        <section class="overview-block-ptb4 easy-step ">
             <div class="container mt-5">
                 <div class="row">
                     <div class="col-sm-12 ">                        

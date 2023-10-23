@@ -1,14 +1,17 @@
 <?php $active="program"; $page = 'protfolio'; $title = "Our Programs - Token Sayari";
 include_once 'components/header.php'; ?>
-<section class="iq-bg iq-bg-fixed iq-over-black-70 jarallax iq-breadcrumb text-center text-white">
-   <div class="container mt-5">
+
+<div class="clearfix"></div>
+
+<section class="overview-block-ptb7 iq-bg text-center">
+   <div class="container">
       <div class="row">
          <div class="col-lg-8 offset-lg-2 mb-5">
             <div class="program py-4">
-               <h3 class="title text-uppercase text-white ">Our Programs</h3>
+               <h3 class="title text-uppercase">Our Programs</h3>
             </div>
-            <p>Planet Sayari offers a lucrative high yield program through its Sayari Deluxe token, providing<br>
-               high returns per year to large investors. Planet Sayari is also launching a loyalty program in<br>
+            <p class="lh-base">Planet Sayari offers a lucrative high yield program through its Sayari Deluxe token, providing
+               high returns per year to large investors. Planet Sayari is also launching a loyalty program in
                2023 that will reward shoppers at retail partners with Sayt Tokens as a discount</p>
             <a class="button btn-secondary my-4" href="app.php">
                <span class="button-inner-box">
@@ -46,8 +49,8 @@ include_once 'components/header.php'; ?>
 <section class="overview-block-ptb device-blog">
    <div class="container">
       <div class="row mb-5 gx-5">
-         <div class="col-lg-6 col-md-12 about-box align-self-center">
-            <h4>High Yields Program</h4>
+         <div class="col-lg-6 col-md-12 about-box align-self-center mb-5">
+            <h4 class="mb-3">High Yields Program</h4>
             <p class="iq-mt-10 font-weight-bold text-justify">Project Sayari LTD will establish a $10,000,000 investment pool,
                offering investors security tokens (Deluxe Token, SDX) at an exchange rate of 1 SDX = $10. A minimum
                investment of $100,000 is required, with a smart contract on the advanced PROTON blockchain managing
@@ -63,22 +66,16 @@ include_once 'components/header.php'; ?>
                technology and smart contracts ensure transparency and security, with a weekly profit and flexible
                options for reinvestment or token buyback.</p>
          </div>
-         <div class="col-lg-6 col-md-12">
-            <!-- <img class="img-fluid mx-auto d-block iq-mt-10" src="images/humanphoto.png" alt="icon1"> -->
+         <div class="col-lg-6 col-md-12 mb-5">
             <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/humanphoto.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight;">
          </div>
       </div>
-      <div class="iq-blog-meta">
-
-      </div>
-
-      <div class="row mt-5">
-         <div class="col-lg-6 col-md-12">
+      <div class="row">
+         <div class="col-lg-6 col-md-12 hidden-xs ">
             <img class="img-fluid wow fadeInLeft" data-wow-duration="1s" src="images/human2.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft;">
-            <!-- <img class="img-fluid mx-auto d-block iq-mt-10" src="images/human2.png" alt="icon1"> -->
          </div>
-         <div class="col-lg-6 col-md-12 about-box  align-self-center">
-            <h4>Loyalty Program </h4>
+         <div class="col-lg-6 col-md-12 about-box align-self-center">
+            <h4 class="mb-3">Loyalty Program </h4>
             <p class="iq-mt-10 font-weight-bold text-justify">This blockchain based loyalty program, is a smart contracts based
                program whereby the buyer receives the SAYT token as a discount on purchases or transactions made with
                Planet Sayari’s partners, using the Sayari loyalty card. All other loyalty programs on the market can
@@ -95,14 +92,7 @@ include_once 'components/header.php'; ?>
    </div>
 </section>
 
-<!-- <div class="bg-primary p-5 my-5 container rounded">
-   <div class="row text-white">
-      <h3 class="text-white mb-3">Other programs</h3>
-      <p>Within the Sayari ecosystem we will offer rewards and airdrops in Sayari tokens (SAYT). Also, we will<br> offer various bonuses and promotions. Stay tunned!</p>
-   </div>
-</div> -->
-
-<section class="overview-block-ptb9 banner-stars action-box dark-bg container rounded p-5 my-5">
+<section class="overview-block-pt banner-stars action-box bg-primary container rounded p-5 mb-5">
    <div class=" ">
       <div class="row text-white">
          <h3 class="text-white mb-3">Other programs</h3>
