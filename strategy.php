@@ -7,8 +7,8 @@ include_once 'components/header.php'; ?>
     <div class="clearfix"></div>
     <section class="overview-block-ptb bitcoin-app">
         <div class="container">
-            <div class="row ">                
-                <div class="col-lg-4 col-md-12 mb-5" style="border-radius: 30px; background: rgba(255, 255, 255, 0.20); box-shadow: 0px 3px 4px 0px rgba(0, 33, 69, 0.05), 0px -3px 4px 0px rgba(0, 33, 69, 0.05); padding: 3rem">
+            <div class="row responsive_pad">                
+                <div class="col-lg-5 col-md-12 mb-5" style="border-radius: 30px; background: rgba(255, 255, 255, 0.20); box-shadow: 0px 3px 4px 0px rgba(0, 33, 69, 0.05), 0px -3px 4px 0px rgba(0, 33, 69, 0.05); padding: 3rem">
                     <h3 class="mb-4">Our Strategy to make
                         Sayari Token Best</h3>
                     <p>Planet Sayari’s approach takes a prudent, risk-averse stance within the volatile crypto industry,
@@ -21,7 +21,7 @@ include_once 'components/header.php'; ?>
 
                 </div>
                 <div class="col-lg-1"></div>
-                <div class="col-lg-7 col-md-12">
+                <div class="col-lg-6 col-md-12">
                     <div class="d-flex align-items-center">
                         <div class="me-3">
                             <img class="img-fluid" src="images/strategy/Focus.svg" alt="">

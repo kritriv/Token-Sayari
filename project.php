@@ -48,7 +48,7 @@ include_once 'components/header.php'; ?>
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT
                                 </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.skarent.site/" target="_blank">
                                         <h6 class="text-white">www.skarent.site</h6>
                                     </a>
@@ -65,7 +65,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC</p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.agllogit.website" target="_blank">
                                         <h6 class="text-white">www.agllogit.website</h6>
                                     </a>
@@ -80,7 +80,7 @@ include_once 'components/header.php'; ?>
                                 <h4 class="mb-3">BEKY'S HOUSE (ITALY)</h4>
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY</p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.bekyhouse.website" target="_blank">
                                         <h6 class="text-white">www.bekyhouse.website</h6>
                                     </a>
@@ -96,7 +96,7 @@ include_once 'components/header.php'; ?>
                                 <h4 class="mb-3">BEKY'S COUNTRY HOUSE</h4>
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY</p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.bekyhouse.website" target="_blank">
                                         <h6 class="text-white">www.bekyhouse.website</h6>
                                     </a>
@@ -113,7 +113,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.skarent.site" target="_blank">
                                         <h6 class="text-white">www.skarent.site</h6>
                                     </a>
@@ -130,7 +130,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.agllogit.website" target="_blank">
                                         <h6 class="text-white">www.agllogit.website</h6>
                                     </a>
@@ -147,7 +147,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY</p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.bekyhouse.website" target="_blank">
                                         <h6 class="text-white">www.bekyhouse.website</h6>
                                     </a>
@@ -164,7 +164,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY</p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.bekyhouse.website" target="_blank">
                                         <h6 class="text-white">www.bekyhouse.website</h6>
                                     </a>
@@ -181,7 +181,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT</p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.skarent.site" target="_blank">
                                         <h6 class="text-white">www.skarent.site</h6>
                                     </a>
@@ -198,7 +198,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.agllogit.website" target="_blank">
                                         <h6 class="text-white">www.agllogit.website</h6>
                                     </a>
@@ -215,7 +215,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY</p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.bekyhouse.website" target="_blank">
                                         <h6 class="text-white">www.bekyhouse.website</h6>
                                     </a>
@@ -232,7 +232,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.bekyhouse.website" target="_blank">
                                         <h6 class="text-white">www.bekyhouse.website</h6>
                                     </a>
@@ -249,7 +249,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT</p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.skarent.site" target="_blank">
                                         <h6 class="text-white">www.skarent.site</h6>
                                     </a>
@@ -266,7 +266,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://>www.agllogit.website" target="_blank">
                                         <h6 class="text-white">www.agllogit.website</h6>
                                     </a>
@@ -283,7 +283,7 @@ include_once 'components/header.php'; ?>
                                 <!-- <span>CoinEx</span> -->
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.bekyhouse.website" target="_blank">
                                         <h6 class="text-white">www.bekyhouse.website</h6>
                                     </a>
@@ -301,7 +301,7 @@ include_once 'components/header.php'; ?>
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY
                                 </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.bekyhouse.website" target="_blank">
                                         <h6 class="text-white">www.bekyhouse.website</h6>
                                     </a>
@@ -319,7 +319,7 @@ include_once 'components/header.php'; ?>
                                 <p class="iq-mt-10">
                                     Activity: AUTOMOTIVE RANT
                                 </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.skarent.site" target="_blank">
                                         <h6 class="text-white">www.skarent.site</h6>
                                     </a>
@@ -337,7 +337,7 @@ include_once 'components/header.php'; ?>
                                 <p class="iq-mt-10">
                                     Activity: LOGISTIC
                                 </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.agllogit.website" target="_blank">
                                         <h6 class="text-white">www.agllogit.website</h6>
                                     </a>
@@ -355,7 +355,7 @@ include_once 'components/header.php'; ?>
                                 <p class="iq-mt-10">
                                     Activity: B&B, HOSPITALITY
                                 </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <a href="https://www.bekyhouse.website" target="_blank">
                                         <h6 class="text-white">www.bekyhouse.website</h6>
                                     </a>
@@ -373,7 +373,7 @@ include_once 'components/header.php'; ?>
                                 <p class="iq-mt-10">
                                     Activity: COUNTRY CLUB, HOSPITALITY
                                 </p>
-                                <div class="text-center bg-black py-3 rounded mt-5">
+                                <div class="text-center bg-black py-3 rounded mt-5 projects_card">
                                     <h6 class="text-white">www.bekyhouse.website</h6>
                                 </div>
                             </div>

@@ -6,7 +6,7 @@ include_once 'components/header.php'; ?>
     <div class="col-lg-12">
         <img src="images/letter-credit/logistics.webp" alt="" style="width:100vw;">
     </div>
-    <section class="overview-block-pt7">
+    <section class="overview-block-pt7 responsive_pad">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -64,7 +64,7 @@ include_once 'components/header.php'; ?>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="animation-img">
-                        <img class="img-animation" data-gif_src="imagess/letter-credit/trade-finance-1.gif" src="images/letter-credit/trade finance.gif"/>
+                        <img class="img-animation" data-gif_src="images/letter-credit/trade-finance-1.gif" src="images/letter-credit/trade finance.gif"/>
                     </div>
                 </div>
             </div>
@@ -79,7 +79,7 @@ include_once 'components/header.php'; ?>
 
 
     <div class="col-lg-12">
-        <img src="images/letter-credit/future-vission.svg" alt="" style="width:90vw;">
+        <img src="images/letter-credit/future-vission.webp" alt="" style="width:90vw;">
     </div>
 
     <!-- <div class="row justify-content-center">
@@ -113,7 +113,7 @@ include_once 'components/header.php'; ?>
 <!-- End Modal -->
 
 <script>
-    const imgElement = document.querySelector('.animation-img .img-animation');
+    const imgElement = document.querySelector('.img-animation');
 
     imgElement.addEventListener('mouseenter', function() {
         imgElement.dataset.imgSrc = imgElement.src;
@@ -124,5 +124,4 @@ include_once 'components/header.php'; ?>
         imgElement.src = imgElement.dataset.imgSrc;
     });
 </script>
-
 <?php include_once 'components/footer.php' ?>

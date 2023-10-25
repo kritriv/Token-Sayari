@@ -1,12 +1,12 @@
 <?php $active="funds"; $page = 'protfolio'; $title="Funds And Assets - Token Sayari"; include_once 'components/header.php';?>
     <!-- Main Content -->
-    <div class="main-content">
+    <div class="main-content ">
         <div class="clearfix"></div>
         <!-- Easy Steps -->
         <section class="overview-block-ptb4 easy-step ">
             <div class="container mt-5">
                 <div class="row">
-                    <div class="col-sm-12 ">                        
+                    <div class="col-sm-12 responsive_pad">                        
                         <div class=" iq-mb-70">
                             <h2 class="title iq-mb-25 heading-title">Funds & Assets</h2>
                             <p class="fs-4 lh-base">Project Sayari’s funds are designed to support its mission of providing financial

@@ -1,6 +1,6 @@
 <!--=================================
 Footer -->
-<footer class="iq-footer-3 radius-top">
+<footer class="iq-footer-3 radius-top responsive_pad">
     <div class="footer-top overview-block-pt iq-pb-60">
         <div class="container">
             <div class="row">
@@ -8,10 +8,11 @@ Footer -->
                     <div class="logo">
                         <img id="logo_img_2" class="img-fluid" src="images/logo-white.png" alt="# ">
                         <ul class="iq-media-blog iq-mt-20">
-                            <li><a href="#"><i class="fa fa-twitter "></i></a></li>
-                            <li><a href="#"><i class="fa fa-facebook "></i></a></li>
-                            <li><a href="#"><i class="fa fa-google "></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://twitter.com/TokenSayari" target="_blank"><i class="fa fa-twitter "></i></a></li>
+                            <li><a href="https://www.facebook.com/profile.php?id=100090091656693" target="_blank"><i class="fa fa-facebook "></i></a></li>
+                            <li><a href="https://m.youtube.com/watch?v=MB73HjuhUtQ&fbclid=PAAaYv4TYulyBBfby2Vwe6J8d0PqgG0e1HY9v2jf2OabXBsdmMw3cYRxWUEl8https://www.tiktok.com/@planetsayari" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                            <li><a href="https://www.instagram.com/planet_sayari/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://t.me/+katj3AYArktjMThi" target="_blank"><i class="fa fa-telegram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -48,7 +49,7 @@ Footer -->
                         </div>
                         <ul class="iq-pl-0">
                             <li><a href="# ">Privacy Policy</a></li>
-                            <li><a href="# ">Lite Paper</a></li>
+                            <li><a href="Sayari-Lite-Paper.pdf" target="_blank">Lite Paper</a></li>
                         </ul>
                     </div>
                 </div>
@@ -175,7 +176,7 @@ Register -->
 Register -->
 <!-- back-to-top -->
 <div id="back-to-top">
-    <a class="top" id="top" href="#top"> <i class="ion-ios-upload-outline"></i> </a>
+    <a class="top" id="top" href="#top"> <i class="ion-arrow-up-c"></i> </a>
 </div>
 <!-- back-to-top End -->
 

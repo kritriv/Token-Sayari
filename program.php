@@ -46,7 +46,7 @@ include_once 'components/header.php'; ?>
 <!--======= Breadcrumb Inner Page =======-->
 
 <!-- About Us -->
-<section class="overview-block-ptb device-blog">
+<section class="overview-block-ptb device-blog responsive_pad">
    <div class="container">
       <div class="row mb-5 gx-5">
          <div class="col-lg-6 col-md-12 about-box align-self-center mb-5">

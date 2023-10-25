@@ -1476,7 +1476,7 @@ hr {
 .button:hover,
 .button:focus {
       color: var(--iq-primary);
-      background: var(--iq-title-text);
+      background: var(--iq-primary);
 }
 
 .button.dark {

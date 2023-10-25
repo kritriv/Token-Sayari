@@ -17,22 +17,24 @@
             <div class="row">
                 <div class="col-sm-12 text-center">
                     <!-- <a class="button button-icon" href="#"><span class="text-btn">Login Account</span> </a> -->
-                    <a class="button button-icon bt-lg iq-mr-15 mb-2" href="#" style="width: 240px;">Get Started</a>
-                    <a class="button button-icon bt-lg iq-mr-15 mb-2" href="#" style="width: 240px;">Buy Token</a>
-                    <a class="button button-icon bt-lg iq-mr-15 mb-2" href="# " style="width: 240px;">Letter Of Credit</a>
+                    <a class="button button-icon bt-lg iq-mr-15 mb-2" href="javascript:void(0)" data-bs-toggle="modal"
+                                            data-bs-target=".iq-register" data-bs-whatever="@fat" style="width: 240px;">Get Started</a>
+                    <a class="button button-icon bt-lg iq-mr-15 mb-2" href="javascript:void(0)" data-bs-toggle="modal"
+                                            data-bs-target=".iq-login" data-bs-whatever="@mdo" style="width: 240px;">Buy Token</a>
+                    <a class="button button-icon bt-lg iq-mr-15 mb-2" href="letter-of-credit.php" style="width: 240px;">Letter Of Credit</a>
                 </div>
             </div>
         </div>
     </section>
     <!-- Action Box -->
-    <section class="overview-block-ptb9 banner-stars action-box iq-bg">
+    <section class="overview-block-ptb9 banner-stars action-box iq-bg ">
         <div class="container">
             <div class="row h-100">
                 <div class="col-lg-5 col-md-12 align-self-center">
                     <h6 class=" mb-2 fs-5">Presentation</h6 class>
                     <h3 class="letter-space-3 fs-1 text-uppercase">The Most Valuable</h3>
                     <h3 class="mb-3 letter-space-3 fw-bold fs-1 text-uppercase">Cryptocurrency Platform</h3>
-                    <a class="button mt-4" href="javascript:void(0)">
+                    <a class="button mt-4" href="strategy.php">
                         <span class="button-inner-box">
                             <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
                                     <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
@@ -45,9 +47,9 @@
                     </a>
                 </div>
                 <div class="col-lg-1"></div>
-                <div class="col-lg-6 col-md-12">
+                <div class="col-lg-6 col-md-12 responsive_pad">
                     <!-- <h3 class="text-white mb-3 ">Do You Need a Consultant?</h3> -->
-                    <div>
+                    <div >
                         <p class="fs-5 lh-base text-justify">Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization. By leveraging the power of blockchain technology and combining it with innovative financial instruments, Planet Sayari offers a unique solution to help companies and projects develop and achieve their goals. Overall, Planet Sayari aims to facilitate global business opportunities, foster economic growth, and shape the future of finance.</p>
                     </div>
                     <div class="triangle1"></div>
@@ -290,9 +292,9 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 col-sm-12 wow fadeInLeft" data-wow-duration="1s">
+                <div class="col-lg-6 col-md-12 col-sm-12 wow fadeInLeft" data-wow-duration="1s">
                     <div class="iq-clients-blog iq-mtb-15 rounded">
-                        <div class="d-flex align-items-center flex-wrap iq-pall-20">
+                        <div class="d-flex align-items-center flex-wrap p-5">
                             <img class="client-img img-fluid mb-4" src="images/home/icon/SHAIL-LOGO.png" alt="">
                             <div class="media-body">
                                 <h4 class="mt-0 mb-3">Shail International Group</h4>
@@ -304,10 +306,10 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-duration="1s">
+                <div class="col-lg-6 col-md-12 col-sm-12 wow fadeInRight" data-wow-duration="1s">
                     <div class="iq-clients-blog iq-mtb-15 rounded">
-                        <div class="d-flex align-items-center flex-wrap iq-pall-20">
-                            <img class="client-img img-fluid mb-4" src="images/home/icon/AVTAR-LOGO.png" alt="">
+                        <div class="d-flex align-items-center flex-wrap p-5">
+                            <img class="client-img img-fluid mb-4" src="images/home/icon/Avtar_logo.png" alt="">
                             <div class="media-body">
                                 <h4 class="mt-0 mb-3">Avtar Space Technology</h4>
                                 <p class="text-justify">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
@@ -332,7 +334,7 @@
                 <div class="col-lg-7 col-md-12">
                     <div class="heading-left">
                         <h3 class="mb-3">Sayari Offices</h3>
-                        <p class="fs-5 lh-base text-justify mb-5">PLANET SAYARI began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
+                        <p class="lh-base text-justify mb-5">PLANET SAYARI began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
                         <!-- <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> -->
                     </div>
                 </div>
@@ -375,43 +377,43 @@
                     </div>
                     <div class="card_office_content">
                         <h3>Singapore</h3>
-                        <img src="images/home/Singapore.png" alt="India">
+                        <img src="images/home/Singapore.png" alt="Singapore">
                     </div>
                 </div>
                 <div class="office_add_card switzerland_card">
                     <div class="hover_add_card_switzerland">
                         <div class="content_hover_add">
                             <h4>Switzerland</h4>
-                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                            <p><b>Director:</b> Agim Pjetra<br>Via Nassa n.296900 Lugano</p>
                         </div>
                     </div>
                     <div class="card_office_content">
                         <h3>Switzerland</h3>
-                        <img src="images/home/Switzerland.png" alt="India">
+                        <img src="images/home/Switzerland.png" alt="Switzerland">
                     </div>
                 </div>
                 <div class="office_add_card south_africa_card">
                     <div class="hover_add_card_south_africa">
                         <div class="content_hover_add">
                             <h4>South&nbsp;Africa</h4>
-                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                            <p><b>Representatives :</b>Michael Lunwabo Mokoena & Nthabiseng Sharon Xaba <br> 76 Southern Klipriverberg Road, the Hill, Johannesburg, 2197</p>
                         </div>
                     </div>
                     <div class="card_office_content">
                         <h3>South&nbsp;Africa</h3>
-                        <img src="images/home/South Africa.png" alt="India">
+                        <img src="images/home/South Africa.png" alt="South Africa">
                     </div>
                 </div>
                 <div class="office_add_card romania_card">
                     <div class="hover_add_card_romania">
                         <div class="content_hover_add">
                             <h4>Romania</h4>
-                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                            <p><b>Director:</b> Michele Cucchierato <br> Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
                         </div>
                     </div>
                     <div class="card_office_content">
                         <h3>Romania</h3>
-                        <img src="images/home/Romania.png" alt="India">
+                        <img src="images/home/Romania.png" alt="Romania">
                     </div>
                 </div>
 
@@ -424,31 +426,31 @@
                     </div>
                     <div class="card_office_content">
                         <h3>Kenya</h3>
-                        <img src="images/home/Kenya.png" alt="India">
+                        <img src="images/home/Kenya.png" alt="Kenya">
                     </div>
                 </div>
                 <div class="office_add_card itally_card">
                     <div class="hover_add_card_itally">
                         <div class="content_hover_add">
                             <h4>Itally</h4>
-                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                            <p><b>Director:</b> Michele Cucchierato <br> Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
                         </div>
                     </div>
                     <div class="card_office_content">
                         <h3>Itally</h3>
-                        <img src="images/home/Itally.png" alt="India">
+                        <img src="images/home/Itally.png" alt="Itally">
                     </div>
                 </div>
                 <div class="office_add_card usa_card">
                     <div class="hover_add_card_usa">
                         <div class="content_hover_add">
                             <h4>USA</h4>
-                            <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                            <p><b>Director:</b> Michael Carter <br> Commercial Cash and Credit LLC16192 Coastal HwyLewes, Delaware 19958</p>
                         </div>
                     </div>
                     <div class="card_office_content">
                         <h3>USA</h3>
-                        <img src="images/home/USA.png" alt="India">
+                        <img src="images/home/USA.png" alt="USA">
                     </div>
                 </div>
             </div>

@@ -23,7 +23,7 @@ include_once 'components/header.php'; ?>
 </section>
 <!--======= Breadcrumb Inner Page =======-->
 
-<section class="overview-block-ptb bitcoin-app">
+<section class="overview-block-ptb bitcoin-app responsive_pad">
     <div class="container">
         <div class="row">
             <!-- <div class="col-lg-6 col-md-12 text-center iq-r-mt-40">

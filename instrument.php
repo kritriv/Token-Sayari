@@ -4,7 +4,7 @@ $title = "Instrument - Token Sayari";
 include_once 'components/header.php'; ?>
 <!-- Main Content -->
 <div class="clearfix"></div>
-<div class="main-content">
+<div class="main-content responsive_pad">
     <section class="overview-block-pb">
         <div class="container">
             <div class="row my-5">
