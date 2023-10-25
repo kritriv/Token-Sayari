@@ -6123,7 +6123,9 @@ ul.footer-nav-menu {
 }
 
 /* ========Multilang Sytle ==== */
-
+.goog-te-gadget .goog-te-combo {
+  margin: 0px !important;
+}
 #google_translate_element select{
   color: var(--iq-primary);
   border: none;
@@ -6137,9 +6139,9 @@ ul.footer-nav-menu {
 #google_translate_element {
     top: calc(1rem - 30px);
     /* right: 5%; */
-    position: absolute;
+    /* position: absolute;
     display: flex;
-    align-items: center;
+    align-items: center; */
     justify-content: center;
     color: white;
     /* 
@@ -6166,13 +6168,13 @@ ul.footer-nav-menu {
   }
 .VIpgJd-ZVi9od-ORHb-OEVmcd{
   display: none;
-  position: absolute;
+  /* position: absolute; */
     visibility: hidden !important;
     z-index: -10;
 }
 .goog-te-combo {
   /* margin-left: 61px; */
-  margin-right: -166px !important;
+  /* margin-right: -166px !important; */
   vertical-align: baseline;
   margin-top: 0px !important;
 }

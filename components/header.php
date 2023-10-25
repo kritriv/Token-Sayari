@@ -1,6 +1,6 @@
 <?php include_once 'head.php' ?>
 
-<script type="text/javascript" src="./js/MultiLang.js">
+<script type="text/javascript" src="js/MultiLang.js">
 </script>
 
 <script type="text/javascript">
@@ -42,7 +42,7 @@
                                     <li class="list-inline-item"><a href="https://t.me/+katj3AYArktjMThi" target="_blank"><i class="fa fa-telegram"></i></a></li>
                                 </ul>
                             </li>
-                            <li class="list-inline-item"><p id="google_translate_element"></p></li>
+                            <li class="list-inline-item"><span id="google_translate_element"></span></li>
                             <!-- <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-comments-o ms-3"></i>Free Consulting</a></li> -->
                         </ul>
                     </div>

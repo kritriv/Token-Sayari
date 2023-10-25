@@ -33,6 +33,7 @@ import Css
                                General
 -----------------------------------------------------------------------*/
 body {
+      top: 0px !important;
       font-family: 'Poppins', sans-serif;
       font-weight: normal;
       font-style: normal;
