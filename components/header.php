@@ -1,4 +1,20 @@
 <?php include_once 'head.php' ?>
+
+<script type="text/javascript" src="./js/MultiLang.js">
+</script>
+
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+                pageLanguage: 'en'
+            },
+            'google_translate_element'
+        );
+        //   document.getElementById('google_translate_element').style.background="#00A0EB";
+    }
+</script>
+
+
 <!-- Header -->
 <header class="simpal-yellow ">
     <div class="topbar banner-stars">
@@ -26,6 +42,7 @@
                                     <li class="list-inline-item"><a href="https://t.me/+katj3AYArktjMThi" target="_blank"><i class="fa fa-telegram"></i></a></li>
                                 </ul>
                             </li>
+                            <li class="list-inline-item"><p id="google_translate_element"></p></li>
                             <!-- <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-comments-o ms-3"></i>Free Consulting</a></li> -->
                         </ul>
                     </div>
@@ -36,6 +53,8 @@
         <div id='stars2'></div>
         <div id='stars3'></div>
     </div>
+    <!-- <div id="google_translate_element"></div> -->
+
     <div class="iq-header">
         <div class="container-fluid">
             <div class="row">
@@ -65,8 +84,8 @@
                                                                                     echo 'active';
                                                                                 } ?>">Letter of Credit</a></li>
                                     <li><a href="Sayari-Lite-Paper.pdf" target="_blank" class="<?php if ($active == 'paper') {
-                                                                                    echo 'active';
-                                                                                } ?>">Lite Paper</a></li>
+                                                                                                    echo 'active';
+                                                                                                } ?>">Lite Paper</a></li>
                                 </ul>
                             </li>
                             <li><a href="javascript:void(0)" class="<?php if ($page == 'protfolio') {
@@ -96,6 +115,8 @@
 
                                 </a>
 
+                            </li>
+                            <li>
                             </li>
                         </ul>
 

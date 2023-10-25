@@ -1,5 +1,7 @@
 <?php $page="home"; include_once 'components/header.php'; ?>
 <!-- Main Content -->
+ 
+
 <div class="main-content">
     <div class="clearfix"></div>
     <section class="overview-block-ptb">
@@ -8,6 +10,7 @@
                 <div class="col-md-1"></div>    
                 <div class="col-md-10">
                     <div class="heading-title">
+
                         <h2 class="title iq-mb-25 titillium-font">Best Crypto Coin in the world Token Sayari</h2>
                         <p class="fs-4 lh-base">Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
                     </div>
@@ -70,6 +73,7 @@
                     <div class="heading-title">
                         <h5 class="title">Tokens</h5>
                         <h2>Our Crypto Tokens</h2>
+                        <div id="google_translate_element"></div>
                     </div>
                 </div>
             </div>

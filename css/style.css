@@ -6121,3 +6121,62 @@ ul.footer-nav-menu {
     display: none !important;
   }
 }
+
+/* ========Multilang Sytle ==== */
+
+#google_translate_element select{
+  color: var(--iq-primary);
+  border: none;
+  padding: 3px;
+  border-radius: 3px;
+}
+#google_translate_element select option{
+    background: #fff;
+}
+
+#google_translate_element {
+    top: calc(1rem - 30px);
+    /* right: 5%; */
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    /* 
+    width: 5rem;
+    height: 2.5rem;
+    background-color: red; */
+    border-radius: 0.5rem;
+    cursor: pointer;
+    box-shadow: var(--box-shadow);
+    z-index: 100 !important;
+}
+
+  #google_translate_element span{
+    display: none;
+  }
+  .goog-te-banner-frame {
+    display: none;
+  }
+  .goog-logo-link{
+    display: none !important;
+  }
+  .goog-te-gadget{
+    color: transparent !important;
+  }
+.VIpgJd-ZVi9od-ORHb-OEVmcd{
+  display: none;
+  position: absolute;
+    visibility: hidden !important;
+    z-index: -10;
+}
+.goog-te-combo {
+  /* margin-left: 61px; */
+  margin-right: -166px !important;
+  vertical-align: baseline;
+  margin-top: 0px !important;
+}
+
+.goog-te-gadget{
+  /* display: none; */
+}
