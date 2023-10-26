@@ -53,7 +53,7 @@
                 <div class="col-lg-6 col-md-12 responsive_pad">
                     <!-- <h3 class="text-white mb-3 ">Do You Need a Consultant?</h3> -->
                     <div >
-                        <p class="fs-5 lh-base text-justify">Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization. By leveraging the power of blockchain technology and combining it with innovative financial instruments, Planet Sayari offers a unique solution to help companies and projects develop and achieve their goals. Overall, Planet Sayari aims to facilitate global business opportunities, foster economic growth, and shape the future of finance.</p>
+                        <p class="fs-5 lh-base text-justify responsive_para_size">Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization. By leveraging the power of blockchain technology and combining it with innovative financial instruments, Planet Sayari offers a unique solution to help companies and projects develop and achieve their goals. Overall, Planet Sayari aims to facilitate global business opportunities, foster economic growth, and shape the future of finance.</p>
                     </div>
                     <div class="triangle1"></div>
                 </div>
@@ -79,8 +79,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-sm-12 iq-mt-30 align-self-center">
-                    <p class="fs-5 lh-base text-justify mb-5">Planet Sayari has created an ecosystem of tokens to fulfill a variety of roles within its platform. The tokens provide utility, security, liquidity and incentive features that support the diverse needs of users, investors, retailers and other partners. the tokens provide incentives and rewards that drive engagement.</p>
-                    <p class="fs-5 lh-base text-justify">The diverse yet interconnected token ecosystem allows Planet Sayari to fulfill the full spectrum of monetization, security, efficiency and engagement needs required to power its expanding services and user community. The unique but complementary utilities of the different tokens work together to form a holistic value proposition.</p>
+                    <p class="fs-5 lh-base text-justify  responsive_para_size ">Planet Sayari has created an ecosystem of tokens to fulfill a variety of roles within its platform. The tokens provide utility, security, liquidity and incentive features that support the diverse needs of users, investors, retailers and other partners. the tokens provide incentives and rewards that drive engagement.</p>
+                    <p class="fs-5 lh-base text-justify responsive_para_size ">The diverse yet interconnected token ecosystem allows Planet Sayari to fulfill the full spectrum of monetization, security, efficiency and engagement needs required to power its expanding services and user community. The unique but complementary utilities of the different tokens work together to form a holistic value proposition.</p>
                 </div>
                 <div class="col-lg-1 col-sm-12 iq-r-mt-40"></div>
                 <div class="col-lg-5 col-sm-12 iq-r-mt-40">
@@ -298,13 +298,13 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 wow fadeInLeft" data-wow-duration="1s">
                     <div class="iq-clients-blog iq-mtb-15 rounded">
-                        <div class="d-flex align-items-center flex-wrap p-5">
+                        <div class="d-flex align-items-center flex-wrap response_pad">
                             <img class="client-img img-fluid mb-4" src="images/home/icon/SHAIL-LOGO.png" alt="">
                             <div class="media-body">
                                 <h4 class="mt-0 mb-3">Shail International Group</h4>
-                                <p class="text-justify">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
-                                <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i>Info@shailinternationalgroup.com</p>
-                                <p><i class="fa fa-globe iq-font-yellow me-2"> </i>shailinternationalgroup.com</a></p>
+                                <p class="text-justify responsive_para_size">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
+                                <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i><a href="mailto:Info@shailinternationalgroup.com">Info@shailinternationalgroup.com</a></p>
+                                <p><i class="fa fa-globe iq-font-yellow me-2"> </i><a target="_blank" href="https://www.shailinternationalgroup.com/">Shailinternationalgroup.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -312,13 +312,13 @@
 
                 <div class="col-lg-6 col-md-12 col-sm-12 wow fadeInRight" data-wow-duration="1s">
                     <div class="iq-clients-blog iq-mtb-15 rounded">
-                        <div class="d-flex align-items-center flex-wrap p-5">
+                        <div class="d-flex align-items-center flex-wrap response_pad">
                             <img class="client-img img-fluid mb-4" src="images/home/icon/Avtar_logo.png" alt="">
                             <div class="media-body">
                                 <h4 class="mt-0 mb-3">Avtar Space Technology</h4>
-                                <p class="text-justify">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
-                                <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i>Info@avtarspace.com</p>
-                                <p><i class="fa fa-globe iq-font-yellow me-2"> </i>avtarspace.com</a></p>
+                                <p class="text-justify responsive_para_size">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
+                                <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i><a href="mailto:Info@avtarspace.com">Info@avtarspace.com</a></p>
+                                <p><i class="fa fa-globe iq-font-yellow me-2"> </i><a target="_blank" href="https://avtarspace.com">avtarspace.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -333,7 +333,7 @@
     </section>
 
     <div class="" style="background-image: url('images/home/map.svg'); background-position: center center; background-size: contain;background-repeat: no-repeat;">
-        <div class="container px-5 py-5">
+        <div class="container response_pad">
             <div class="row mb-4">
                 <div class="col-lg-7 col-md-12">
                     <div class="heading-left">
