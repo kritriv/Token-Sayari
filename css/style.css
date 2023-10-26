@@ -5894,7 +5894,7 @@ ul.footer-nav-menu {
   background-color: var(--iq-dark);
 } */
 
-
+/* Office sayari css */
 .india_card:hover .hover_add_card_india {
   display: block;
 }
@@ -5955,8 +5955,6 @@ ul.footer-nav-menu {
   position: absolute;
 }
 
-
-
 .office_section_wrapper {
   display: flex;
   gap: 2rem;
@@ -5990,6 +5988,11 @@ ul.footer-nav-menu {
 }
 .projects_card:hover{
   background: var(--iq-primary) !important;
+}
+@media(max-width:1024px){
+  .office_section_wrapper{
+    gap: 1rem;
+  } 
 }
 @media(max-width:768px) {
 
@@ -6029,7 +6032,7 @@ ul.footer-nav-menu {
     width: auto;
   }
 }
-
+/*End Office sayari css */
 @media(max-width:1024px) {
   .pricing-btn {
     position: absolute;
