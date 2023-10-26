@@ -3,7 +3,7 @@ $page = "about";
 $title = "Strategy - Token Sayari";
 include_once 'components/header.php'; ?>
 <!-- Main Content -->
-<div class="main-content">
+<div class="main-content" onmousedown="return false" onselectstart="return false">
     <div class="clearfix"></div>
     <section class="overview-block-ptb bitcoin-app">
         <div class="container">
@@ -76,5 +76,6 @@ include_once 'components/header.php'; ?>
         </div>
     </section>
     <!-- Main Content End -->
+</div>    
 
-    <?php include_once 'components/footer.php' ?>
+<?php include_once 'components/footer.php' ?>

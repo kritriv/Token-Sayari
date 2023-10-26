@@ -8,14 +8,14 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <style>
-        .timeline {}
+        .journey {}
 
-        .iq-timeline {
+        .iq-journey {
             overflow: hidden;
             position: relative;
         }
 
-        .iq-timeline:before {
+        .iq-journey:before {
             content: "";
             width: 3px;
             height: 100%;
@@ -25,21 +25,21 @@
             left: 50%;
         }
 
-        .iq-timeline .timeline {
+        .iq-journey .journey {
             padding-right: 30px;
             position: relative;
         }
 
-        .iq-timeline .timeline:before,
-        .iq-timeline .timeline:after {
+        .iq-journey .journey:before,
+        .iq-journey .journey:after {
             content: "";
             display: block;
             width: 100%;
             clear: both;
         }
 
-        .iq-timeline .timeline:first-child:before,
-        .iq-timeline .timeline:last-child:before {
+        .iq-journey .journey:first-child:before,
+        .iq-journey .journey:last-child:before {
             content: "";
             width: 13px;
             height: 13px;
@@ -51,12 +51,12 @@
             right: -3px;
         }
 
-        .iq-timeline .timeline:last-child:before {
+        .iq-journey .journey:last-child:before {
             top: auto;
             bottom: 0;
         }
 
-        .iq-timeline .timeline-icon {
+        .iq-journey .journey-icon {
             vertical-align: middle;
             width: 50px;
             height: 50px;
@@ -73,7 +73,7 @@
             text-align: center;
         }
 
-        .iq-timeline .timeline-icon-new {
+        .iq-journey .year-icon-new {
             width: 70px;
             height: 70px;
             border-radius: 50%;
@@ -89,7 +89,7 @@
             text-align: center;
         }
 
-        .iq-timeline .timeline-icon-new:before {
+        .iq-journey .year-icon-new:before {
             content: "";
             text-align: center;
             display: block;
@@ -104,7 +104,7 @@
             right: 0;
         }
 
-        .iq-timeline .timeline-icon:before {
+        .iq-journey .journey-icon:before {
             content: "";
             text-align: center;
             display: block;
@@ -119,7 +119,7 @@
             right: 0;
         }
 
-        .iq-timeline .year {
+        .iq-journey .invester {
             font-weight: 500 !important;
             display: inline-block;
             padding: 30px;
@@ -137,7 +137,7 @@
             transform: translateY(-50%);
         }
 
-        .timeline .timeline-numbers_1 {
+        .journey .investor_numbers_1 {
             font-size: 2rem !important;
             font-weight: 500 !important;
             display: inline-block;
@@ -155,7 +155,7 @@
             transform: translateY(-50%);
         }
 
-        .timeline .timeline-numbers_2 {
+        .journey .journey-numbers_2 {
             font-size: 2rem !important;
             font-weight: 500 !important;
             display: inline-block;
@@ -173,7 +173,7 @@
             transform: translateY(-50%);
         }
 
-        .iq-timeline .timeline-content {
+        .iq-journey .investor-content {
             border-radius: 3px;
             width: 50%;
             padding: 30px;
@@ -182,7 +182,7 @@
         }
 
 
-        .iq-timeline .timeline-content_line1:after {
+        .iq-journey .investor_content_line1:after {
             content: "";
             position: absolute;
             width: 40%;
@@ -193,7 +193,7 @@
             z-index: -99;
         }
 
-        .iq-timeline .timeline-content_line2:after {
+        .iq-journey .investor-content_line2:after {
             content: "";
             position: absolute;
             width: 40%;
@@ -204,7 +204,7 @@
             z-index: -99;
         }
 
-        .iq-timeline .timeline-content_line1::before {
+        .iq-journey .investor_content_line1::before {
             content: "";
             background: #000;
             position: absolute;
@@ -217,7 +217,7 @@
             transform: translateY(-50%);
         }
 
-        .iq-timeline .timeline-content_line2::before {
+        .iq-journey .investor-content_line2::before {
             content: "";
             background: #000;
             position: absolute;
@@ -235,27 +235,27 @@
                 max-width: 1024px;
             }
 
-            .iq-timeline .timeline-content_line1::before {
+            .iq-journey .investor_content_line1::before {
                 top: 18%;
                 right: 30%;
             }
 
-            .iq-timeline .timeline-content_line2::before {
+            .iq-journey .investor-content_line2::before {
                 top: 18%;
                 left: 30%;
             }
 
-            .iq-timeline .timeline-content_line1::after {
+            .iq-journey .investor_content_line1::after {
                 width: 37%;
             }
 
-            .iq-timeline .timeline-content_line2::after {
+            .iq-journey .investor-content_line2::after {
                 width: 37%;
             }
 
         }
 
-        .iq-timeline .invester_line1::before {
+        .iq-journey .invester_line1::before {
             content: "";
             position: absolute;
             width: 100%;
@@ -266,7 +266,7 @@
             z-index: -99;
         }
 
-        .iq-timeline .invester_line1::after {
+        .iq-journey .invester_line1::after {
             content: "";
             position: absolute;
             height: 33px;
@@ -277,7 +277,7 @@
             z-index: -99;
         }
 
-        .iq-timeline .invester_line2::before {
+        .iq-journey .invester_line2::before {
             content: "";
             position: absolute;
             width: 100%;
@@ -288,7 +288,7 @@
             z-index: -99;
         }
 
-        .iq-timeline .invester_line2::after {
+        .iq-journey .invester_line2::after {
             content: "";
             position: absolute;
             height: 44px;
@@ -300,16 +300,16 @@
         }
 
 
-        .iq-timeline .timeline:nth-child(2n) {
+        .iq-journey .journey:nth-child(2n) {
             padding: 0 0 0 30px;
         }
 
-        .iq-timeline .timeline:nth-child(2n) .year {
+        .iq-journey .journey:nth-child(2n) .invester {
             right: auto;
             left: 35%;
         }
 
-        .iq-timeline .timeline:nth-child(2n) .year:before {
+        .iq-journey .journey:nth-child(2n) .invester:before {
             border: 20px solid transparent;
             /* border-right: none; */
             /* border-left: 18px solid yellow; */
@@ -319,76 +319,76 @@
             right: -18px;
         }
 
-        .iq-timeline .timeline:nth-child(2n) .timeline-content {
+        .iq-journey .journey:nth-child(2n) .investor-content {
             text-align: right;
             float: right;
             margin: 0 0 0 20px;
         }
 
-        .iq-timeline .timeline:nth-child(2n) .timeline-content:after {
+        .iq-journey .journey:nth-child(2n) .investor-content:after {
             border-left: none;
             border-right: 20px solid gray;
             right: auto;
             left: -20px;
         }
 
-        .timeline-content h4 {
+        .investor-content h4 {
             text-align: center;
         }
 
-        .NewText2 {
+        .journey-date {
             text-align: center;
             margin-top: 8px;
         }
 
         @media only screen and (max-width:1200px) {
-            .iq-timeline .year {
+            .iq-journey .invester {
                 right: 30%;
             }
 
-            .iq-timeline .timeline:nth-child(2n) .year {
+            .iq-journey .journey:nth-child(2n) .invester {
                 left: 30%;
             }
         }
 
         @media only screen and (max-width:990px) {
-            .iq-timeline .year {
+            .iq-journey .invester {
                 right: 25%;
             }
 
-            .iq-timeline .timeline:nth-child(2n) .year {
+            .iq-journey .journey:nth-child(2n) .invester {
                 left: 25%;
             }
         }
 
         @media only screen and (max-width:767px) {
-            .iq-timeline:before {
+            .iq-journey:before {
                 left: 10px;
             }
 
-            .iq-timeline .timeline {
+            .iq-journey .journey {
                 padding: 0 0 0 30px;
                 margin-bottom: 20px;
             }
 
-            .iq-timeline .timeline:last-child {
+            .iq-journey .journey:last-child {
                 margin-bottom: 0;
             }
 
-            .iq-timeline .timeline:first-child:before,
-            .iq-timeline .timeline:last-child:before {
+            .iq-journey .journey:first-child:before,
+            .iq-journey .journey:last-child:before {
                 display: none;
             }
 
-            .iq-timeline .timeline-icon {
+            .iq-journey .journey-icon {
                 margin: 0;
                 position: absolute;
                 top: 7px;
                 left: 0;
             }
 
-            .iq-timeline .year,
-            .iq-timeline .timeline:nth-child(2n) .year {
+            .iq-journey .invester,
+            .iq-journey .journey:nth-child(2n) .invester {
                 display: block;
                 font-weight: bold;
                 margin: 0 0 32px 30px;
@@ -400,26 +400,26 @@
                 transform: none;
             }
 
-            .iq-timeline .timeline:nth-child(2n) .year:before {
+            .iq-journey .journey:nth-child(2n) .invester:before {
                 border-left: none;
                 border-right: 18px solid var(--iq-primary);
                 right: auto;
                 left: -18px;
             }
 
-            .iq-timeline .timeline-content {
+            .iq-journey .investor-content {
                 padding: 20px;
             }
 
-            .iq-timeline .timeline-content,
-            .iq-timeline .timeline:nth-child(2n) .timeline-content {
+            .iq-journey .investor-content,
+            .iq-journey .journey:nth-child(2n) .investor-content {
                 width: auto;
                 float: none;
                 margin: 0 0 0 30px;
             }
 
-            .iq-timeline .timeline-content:after,
-            .iq-timeline .timeline:nth-child(2n) .timeline-content:after {
+            .iq-journey .investor-content:after,
+            .iq-journey .journey:nth-child(2n) .investor-content:after {
                 border: none;
                 border-bottom: 20px solid var(--iq-gray);
                 border-left: 20px solid transparent;
@@ -433,33 +433,33 @@
 
         @media only screen and (max-width:700px) {
 
-            .iq-timeline .timeline-content_line1::before,
-            .iq-timeline .timeline-content_line2::before {
+            .iq-journey .investor_content_line1::before,
+            .iq-journey .investor-content_line2::before {
                 display: none;
             }
 
-            .iq-timeline .timeline-content,
-            .iq-timeline .timeline:nth-child(2n) .timeline-content {
+            .iq-journey .investor-content,
+            .iq-journey .journey:nth-child(2n) .investor-content {
                 margin: 0;
             }
 
-            .iq-timeline .timeline:nth-child(2n) .year:before {
+            .iq-journey .journey:nth-child(2n) .invester:before {
                 left: -50px;
             }
 
-            .timeline-content h4 {
+            .investor-content h4 {
                 text-align: left;
             }
 
-            .iq-timeline .timeline:nth-child(2n) .timeline-content {
+            .iq-journey .journey:nth-child(2n) .investor-content {
                 text-align: left;
             }
 
-            .iq-timeline .timeline-icon-new {
+            .iq-journey .year-icon-new {
                 right: 20%;
             }
 
-            .timeline .timeline-numbers_2 {
+            .journey .journey-numbers_2 {
                 font-size: 2rem !important;
                 font-weight: 500 !important;
                 display: inline-block;
@@ -479,39 +479,39 @@
         }
 
         @media only screen and (max-width:480px) {
-            .iq-timeline .timeline-icon-new {
+            .iq-journey .year-icon-new {
                 right: -10%;
             }
-            .iq-timeline .invester_line1::before{
+            .iq-journey .invester_line1::before{
                 width: 88%;
                 left: -35%;
             }
-            .iq-timeline .timeline:nth-child(2n) .year:before{
+            .iq-journey .journey:nth-child(2n) .invester:before{
                 width: 88%;
                 left: -35%;
 
             }
         }
         @media only screen and (max-width:375px) {
-            .iq-timeline .timeline-icon-new{
+            .iq-journey .year-icon-new{
                 top: -70%;
                 right: -25%;
             }
         }
         @media only screen and (max-width:350px) {
-            .iq-timeline .timeline-icon-new{
+            .iq-journey .year-icon-new{
                 right: -55%;
             }
         }
         @media only screen and (max-width:480px) {
 
-            .iq-timeline .year,
-            .iq-timeline .timeline:nth-child(2n) .year {
+            .iq-journey .invester,
+            .iq-journey .journey:nth-child(2n) .invester {
                 margin-left: 20px;
             }
 
-            .iq-timeline .timeline-content,
-            .iq-timeline .timeline:nth-child(2n) .timeline-content {
+            .iq-journey .investor-content,
+            .iq-journey .journey:nth-child(2n) .investor-content {
                 margin-left: 10px;
             }
         }
@@ -523,16 +523,16 @@
         <div class="container Journey_container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="iq-timeline">
-                        <div class="timeline my-5">
-                            <span class="timeline-icon-new text-white">
-                                <p class="NewText2">Jan
+                    <div class="iq-journey">
+                        <div class="journey my-5">
+                            <span class="year-icon-new text-white">
+                                <p class="journey-date">Jan
                                     <br>2022
                                 </p>
                             </span>
-                            <span class="year invester_line1">0 Invester</span>
-                            <div class="timeline-content timeline-content_line1">
-                                <h5 class="timeline-numbers_1">01</h5>
+                            <span class="invester invester_line1">0 Invester</span>
+                            <div class="investor-content investor_content_line1">
+                                <h5 class="investor_numbers_1">01</h5>
                                 <h4 class="mb-3">Begining</h4>
                                 <!-- <h6 class="mb-3">0 Invester</h6> -->
                                 <!-- <span>0 Invester</span> -->
@@ -544,13 +544,13 @@
                                 <h6 class="fs-6">Starting form $0</h6>
                             </div>
                         </div>
-                        <div class="timeline my-5">
-                            <span class="timeline-icon-new text-white">
-                                <p class="NewText2">April <br> 2022</p>
+                        <div class="journey my-5">
+                            <span class="year-icon-new text-white">
+                                <p class="journey-date">April <br> 2022</p>
                             </span>
-                            <span class="year invester_line2">03 Invester</span>
-                            <div class="timeline-content timeline-content_line2">
-                                <h5 class="timeline-numbers_2">02</h5>
+                            <span class="invester invester_line2">03 Invester</span>
+                            <div class="investor-content investor-content_line2">
+                                <h5 class="journey-numbers_2">02</h5>
                                 <h4 class="mb-3">1st Phase</h4>
                                 <!-- <h6 class="mb-3">03 Invester</h6> -->
                                 <!-- <span>03 Invester</span> -->
@@ -562,13 +562,13 @@
                                 <h6 class="fs-6">Closed at 1M $</h6>
                             </div>
                         </div>
-                        <div class="timeline my-5">
-                            <span class="timeline-icon-new text-white">
-                                <p class="NewText2">July <br>2022</p>
+                        <div class="journey my-5">
+                            <span class="year-icon-new text-white">
+                                <p class="journey-date">July <br>2022</p>
                             </span>
-                            <span class="year invester_line1">06 Invester</span>
-                            <div class="timeline-content timeline-content_line1">
-                                <h5 class="timeline-numbers_1">03</h5>
+                            <span class="invester invester_line1">06 Invester</span>
+                            <div class="investor-content investor_content_line1">
+                                <h5 class="investor_numbers_1">03</h5>
                                 <h4 class="mb-3">2nd Phase</h4>
                                 <!-- <h6 class="mb-3">06 Invester</h6> -->
                                 <!-- <span>06 Invester</span> -->
@@ -578,13 +578,13 @@
                                 <h6 class="fs-6">Closed at 1M $</h6>
                             </div>
                         </div>
-                        <div class="timeline my-5">
-                            <span class="timeline-icon-new text-white">
-                                <p class="NewText2">Sept <br>2022</p>
+                        <div class="journey my-5">
+                            <span class="year-icon-new text-white">
+                                <p class="journey-date">Sept <br>2022</p>
                             </span>
-                            <span class="year invester_line2">11 Invester</span>
-                            <div class="timeline-content timeline-content_line2">
-                                <h5 class="timeline-numbers_2">04</h5>
+                            <span class="invester invester_line2">11 Invester</span>
+                            <div class="investor-content investor-content_line2">
+                                <h5 class="journey-numbers_2">04</h5>
                                 <h4 class="mb-3">3rd Phase</h4>
                                 <!-- <h6 class="mb-3">11 Invester</h6> -->
                                 <!-- <span>11 Invester</span> -->
@@ -597,13 +597,13 @@
                                 <h6 class="fs-6">Closed at 2.5M $</h6>
                             </div>
                         </div>
-                        <div class="timeline my-5">
-                            <span class="timeline-icon-new text-white">
-                                <p class="NewText2">Dec <br>2022</p>
+                        <div class="journey my-5">
+                            <span class="year-icon-new text-white">
+                                <p class="journey-date">Dec <br>2022</p>
                             </span>
-                            <span class="year invester_line1">20 Invester</span>
-                            <div class="timeline-content timeline-content_line1">
-                                <h5 class="timeline-numbers_1">05</h5>
+                            <span class="invester invester_line1">20 Invester</span>
+                            <div class="investor-content investor_content_line1">
+                                <h5 class="investor_numbers_1">05</h5>
                                 <h4 class="mb-3">4th Phase</h4>
                                 <!-- <h6 class="mb-3">20 Invester</h6> -->
                                 <!-- <span>20 Invester</span> -->
@@ -615,13 +615,13 @@
                                 <h6 class="fs-6">Closed at 7M $</h6>
                             </div>
                         </div>
-                        <div class="timeline my-5">
-                            <span class="timeline-icon-new text-white">
-                                <p class="NewText2">Mar <br>2023</p>
+                        <div class="journey my-5">
+                            <span class="year-icon-new text-white">
+                                <p class="journey-date">Mar <br>2023</p>
                             </span>
-                            <span class="year invester_line2">32 Invester</span>
-                            <div class="timeline-content timeline-content_line2">
-                                <h5 class="timeline-numbers_2">06</h5>
+                            <span class="invester invester_line2">32 Invester</span>
+                            <div class="investor-content investor-content_line2">
+                                <h5 class="journey-numbers_2">06</h5>
                                 <h4 class="mb-3">5th Phase</h4>
                                 <!-- <h6 class="mb-3">32 Invester</h6> -->
                                 <!-- <span>32 Invester</span> -->
@@ -632,13 +632,13 @@
                                 <h6 class="fs-6">Closed at 10.5M $</h6>
                             </div>
                         </div>
-                        <div class="timeline my-5">
-                            <span class="timeline-icon-new text-white">
-                                <p class="NewText2">July <br>2023</p>
+                        <div class="journey my-5">
+                            <span class="year-icon-new text-white">
+                                <p class="journey-date">July <br>2023</p>
                             </span>
-                            <span class="year invester_line1">44 Invester</span>
-                            <div class="timeline-content timeline-content_line1">
-                                <h5 class="timeline-numbers_1">07</h5>
+                            <span class="invester invester_line1">44 Invester</span>
+                            <div class="investor-content investor_content_line1">
+                                <h5 class="investor_numbers_1">07</h5>
                                 <h4 class="mb-3">6th Phase</h4>
                                 <!-- <h6 class="mb-3">44 Invester</h6> -->
                                 <!-- <span>44 Invester</span> -->
@@ -648,14 +648,14 @@
                                 <h6 class="fs-6">Closed at 15.5M $</h6>
                             </div>
                         </div>
-                        <div class="timeline my-5">
-                            <span class="timeline-icon-new text-white">
-                                <p class="NewText2">Till <br>
+                        <div class="journey my-5">
+                            <span class="year-icon-new text-white">
+                                <p class="journey-date">Till <br>
                                     Now</p>
                             </span>
-                            <span class="year invester_line2">65 Invester</span>
-                            <div class="timeline-content timeline-content_line2">
-                                <h5 class="timeline-numbers_2">08</h5>
+                            <span class="invester invester_line2">65 Invester</span>
+                            <div class="investor-content investor-content_line2">
+                                <h5 class="journey-numbers_2">08</h5>
                                 <h4 class="mb-3">Ongoing</h4>
                                 <!-- <h6 class="mb-3">65 Invester</h6> -->
                                 <!-- <span>65 Invester</span> -->

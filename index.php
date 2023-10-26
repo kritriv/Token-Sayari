@@ -1,8 +1,7 @@
 <?php $page="home"; include_once 'components/header.php'; ?>
-<!-- Main Content -->
- 
+<!-- Main Content --> 
 
-<div class="main-content">
+<div class="main-content" onmousedown="return false" onselectstart="return false">
     <div class="clearfix"></div>
     <section class="overview-block-ptb">
         <div class="container">
@@ -84,7 +83,7 @@
                 </div>
                 <div class="col-lg-1 col-sm-12 iq-r-mt-40"></div>
                 <div class="col-lg-5 col-sm-12 iq-r-mt-40">
-                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/home/tokens graphs.png" alt="#">
+                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/home/tokens graphs.svg" alt="#">
                 </div>
             </div>
         </div>

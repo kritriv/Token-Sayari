@@ -35,8 +35,12 @@
     <link rel="stylesheet" href="css/style-customizer.css" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113778816-1"></script>
- 
-
+            
+    <script>
+      document.addEventListener("contextmenu", (event) => {
+         event.preventDefault();
+      });
+   </script>
 
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -48,7 +52,7 @@
         gtag('config', 'UA-113778816-1');
     </script>
 </head>
-
+<!-- onmousedown="return false" onselectstart="return false" -->
 <body>
     <!-- loading -->
     <!-- <div id="loading">
