@@ -27,7 +27,7 @@ Footer -->
                         </span>
                     </a>
                     <h4 class="text-white my-5">Do you want to become part of the Sayari loyalty program?</h4>
-                    <p class="iq-mt-10 font-weight-bold">Download our Sayari mobile app and start shopping at our partner stores. Earn significant discounts on Sayt tokens. Recommend the program to others and you will earn more tokens. Exceed your monthly shopping level and you will be rewarded with even more tokens!</p>
+                    <p class="iq-mt-10 font-weight-bold responsive_para_size">Download our Sayari mobile app and start shopping at our partner stores. Earn significant discounts on Sayt tokens. Recommend the program to others and you will earn more tokens. Exceed your monthly shopping level and you will be rewarded with even more tokens!</p>
                     <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p> -->
                 </div>
             </div>
@@ -47,7 +47,7 @@ Footer -->
 Footer -->
 <!-- back-to-top -->
 <div id="back-to-top">
-    <a class="top" id="top" href="#top"> <i class="ion-ios-upload-outline"></i> </a>
+    <a class="top" id="top" href="#top"> <i class="ion-arrow-up-c"></i> </a>
 </div>
 <!-- back-to-top End -->
 

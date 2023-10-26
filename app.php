@@ -40,10 +40,10 @@ include_once 'components/header.php'; ?>
                     <div class="heading-left">
                         <h2 class="mb-4">What is the Sayari Loyalty Program?</h2>
                     </div>
-                    <p class="fs-4 lh-base">Our blockchain based program offers a unique combination of security, transparency and
+                    <p class="fs-4 lh-base responsive_para_size">Our blockchain based program offers a unique combination of security, transparency and
                         decentralization. It provides substantial rewards for consumers and significant earning
                         opportunities for investors.</p>
-                    <p class="fs-4 lh-base">It is a program where by the buyer receives a discount from Planet Sayari’s partner stores in the
+                    <p class="fs-4 lh-base responsive_para_size">It is a program where by the buyer receives a discount from Planet Sayari’s partner stores in the
                         form of a token called SAYT. This token is stored in the Sayari wallet application and can later
                         be exchanged in the application’s exchanger for other tokens or fiat.</p>
                 </div>

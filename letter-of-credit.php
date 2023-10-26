@@ -18,7 +18,7 @@ include_once 'components/header.php'; ?>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-10 col-sm-12 iq-mt-10 align-self-center">
+                <div class="col-lg-10 col-sm-12 iq-mt-10 align-self-center responsive_para_size">
                     <h5>Planet Sayari aims to cover more than $ 600 million Letter of credit by 2026. And will
                         connect every country with other countries and will establish its business in every country.
                     </h5>
