@@ -1,4 +1,4 @@
-<?php $active="funds"; $page = 'protfolio'; $title="Funds And Assets - Token Sayari"; include_once 'components/header.php';?>
+<?php $active="funds"; $page = 'Products'; $title="Funds And Assets - Planet Sayari"; $current_page_url="https://www.planetsayari.com/funds-assets"; include_once 'components/header.php';?>
     <!-- Main Content -->
     <div class="main-content ">
         <div class="clearfix"></div>
@@ -21,7 +21,7 @@
                             <p class="fs-4 lh-base responsive_para_size text-justify">Sayari manage large trade programs that are set up by large banks and large
                                 organizations. Our Organization handle everything from fund blocking to admin holds and
                                 cash trades via Swift MT 799/MT760. ( Ledger to Ledger/ Internal Block) SIG is a static
-                                partner of Sayari. Which is the most important part of TOKEN Sayari. SIG accept banking
+                                partner of Sayari. Which is the most important part of Planet Sayari. SIG accept banking
                                 instruments from rated banks or non - rated banks on international platforms and we
                                 monetize instruments from rated banks or non-Rated. SIG monetize million to billions and
                                 use several banks around the world e. g. Singapore, Philippines, Malaysia, Indonesia,

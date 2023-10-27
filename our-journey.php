@@ -1,6 +1,7 @@
 <?php $active = "journey";
 $page = "about";
-$title = "Our Journey - Token Sayari";
+$title = "Our Journey - Planet Sayari";
+$current_page_url="https://www.planetsayari.com/our-journey";
 include_once 'components/header.php'; ?>
 
 <!-- Main Content -->
@@ -12,15 +13,26 @@ include_once 'components/header.php'; ?>
                 <div class="col-sm-10 offset-sm-1">
                     <div class="heading-title iq-mb-0">
                         <h2 class="title iq-mb-20 ">Our Journey</h2>
-                        <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p class="">Our journey at Planet Sayari began with a vision to create a revolutionary crypto
+                            token that would not only be a valuable asset but also contribute to positive change in the
+                            crypto space. We started with a team of passionate individuals who shared a common belief in
+                            blockchain technology's potential</p>
                         <a class="button my-4" href="contact.php">
                             <span class="button-inner-box">
-                                <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                        <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas"
+                                        data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg"
+                                        viewBox="0 0 448 512" data-fa-i2svg="">
+                                        <path fill="currentColor"
+                                            d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                                        </path>
                                     </svg></span>
                                 <span class="text-btn">Get a Free Consultantion</span>
-                                <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                        <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas"
+                                        data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg"
+                                        viewBox="0 0 448 512" data-fa-i2svg="">
+                                        <path fill="currentColor"
+                                            d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                                        </path>
                                     </svg></span>
                             </span>
                         </a>
@@ -48,9 +60,11 @@ include_once 'components/header.php'; ?>
                                 <!-- <h6 class="mb-3">0 Invester</h6> -->
                                 <!-- <span>0 Investor</span> -->
                                 <p class="iq-mt-10 fs-6">
-                                    Token Shayari's quality upgrade in this crucial phase drew investors from around the
-                                    world. They offered security, good returns, a clear roadmap, and, most importantly,
-                                    earned trust.
+                                    Our journey has been amazing, starting with hard work, loyalty, dedication, and a
+                                    positive attitude. We were thrilled to receive our first investment of 50,000 euros,
+                                    a breakthrough for our business. We believe in our product's safety and are
+                                    confident in our ability to deliver huge profits on time and at a high rate of
+                                    return. 
                                 </p>
                                 <h6 class="fs-6">Starting form $0</h6>
                             </div>
@@ -96,10 +110,10 @@ include_once 'components/header.php'; ?>
                                 <!-- <h6 class="mb-3">11 Invester</h6> -->
                                 <!-- <span>11 Investor</span> -->
                                 <p class="iq-mt-10 fs-6">
-                                    Token Sayari, a company that develops gold-backed tokens, has made agreements with
+                                    Planet Sayari, a company that develops gold-backed tokens, has made agreements with
                                     investors of all sizes, from small to large. And recently signed a joint venture
                                     worth
-                                    approximately $300 million. In addition, Token Sayari has received a total of $7
+                                    approximately $300 million. In addition, Planet Sayari has received a total of $7
                                     million from more investors.</p>
                                 <h6 class="fs-6">Closed at 7M $</h6>
                             </div>
@@ -133,7 +147,8 @@ include_once 'components/header.php'; ?>
                                 <!-- <h6 class="mb-3">32 Invester</h6> -->
                                 <!-- <span>32 Investor</span> -->
                                 <p class="iq-mt-10 fs-6">
-                                    Token Shayari's quality upgrade in this crucial phase drew investors from around the
+                                    Planet Shayari's quality upgrade in this crucial phase drew investors from around
+                                    the
                                     world. They offered security, good returns, a clear roadmap, and, most importantly,
                                     earned trust. </p>
                                 <h6 class="fs-6">Closed at 15.5M $</h6>
@@ -179,7 +194,7 @@ include_once 'components/header.php'; ?>
             </div>
         </div>
     </section>
-</div>    
+</div>
 <!-- Main Content End -->
 
 <?php include_once 'components/footer.php' ?>

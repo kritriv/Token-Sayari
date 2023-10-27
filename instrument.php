@@ -1,6 +1,7 @@
 <?php $active = "instrument";
-$page = 'protfolio';
-$title = "Instrument - Token Sayari";
+$page = 'Products';
+$title = "Our Instruments - Planet Sayari";
+$current_page_url="https://www.planetsayari.com/instruments";
 include_once 'components/header.php'; ?>
 <!-- Main Content -->
 <div class="clearfix"></div>
@@ -32,7 +33,7 @@ include_once 'components/header.php'; ?>
             </div>
             <div class="row row-cols-1 row-cols-lg-3 mb-5">
                 <div class="col mb-3">
-                    <div class="iq-feature5 rounded">
+                    <div class="border p-4 text-center rounded">
                         <img src="images/portfolio/commission.svg" alt="">
                         <h4 class="text-black  iq-pt-40 mb-3">COMMISSION AGREEMENT
                         </h4>
@@ -44,7 +45,7 @@ include_once 'components/header.php'; ?>
                     </div>
                 </div>
                 <div class="col mb-3">
-                    <div class="iq-feature5 rounded">
+                    <div class="border p-4 text-center rounded">
                         <img src="images/portfolio/swapping.svg" alt="icon1" class="img-fluid">
                         <h4 class="text-black  iq-pt-40 mb-3">ASSET TOKENIZATION
                         </h4>
@@ -56,17 +57,17 @@ include_once 'components/header.php'; ?>
                     </div>
                 </div>
                 <div class="col mb-3">
-                    <div class="iq-feature5 rounded">
+                    <div class="border p-4 text-center rounded">
                         <img src="images/portfolio//credit.svg" alt="icon1" class="img-fluid">
                         <h4 class="text-black  iq-pt-40 mb-3">LETTER OF CREDIT</h4>
-                        <p class="text-justify" style="padding-bottom: 5.5rem;">A financial instrument issued by Sayari that guarantees the payment owed by a
+                        <p class="text-justify" style="padding-bottom: 7rem;">A financial instrument issued by Sayari that guarantees the payment owed by a
                             seller to a buyer on the platform. It reduces the risk of non-payment for buyers and enables
                             more transactions on the platform.</p>
 
                     </div>
                 </div>
                 <div class="col mb-3">
-                    <div class="iq-feature5 rounded">
+                    <div class="border p-4 text-center rounded">
                         <img src="images/portfolio/staking.svg" alt="icon1" class="img-fluid">
                         <h4 class="text-black  iq-pt-40 mb-3">STAKING/VESTING</h4>
                         <p class="text-justify pb-2">Users can stake their Sayari tokens to support the network and platform. They
@@ -77,10 +78,10 @@ include_once 'components/header.php'; ?>
                     </div>
                 </div>
                 <div class="col mb-3">
-                    <div class="iq-feature5 rounded">
+                    <div class="border p-4 text-center rounded">
                         <img src="images/portfolio//loyalty.svg" alt="icon1" class="img-fluid">
                         <h4 class="text-black  iq-pt-40 mb-3">LOYALTY APP</h4>
-                        <p class="iq-mb-0 text-justify">An app where users can earn loyalty points and tokens by engaging with the
+                        <p class="iq-mb-0 text-justify pb-4">An app where users can earn loyalty points and tokens by engaging with the
                             Sayari platform – doing shopping to Sayari’ commercial partners, listing assets, making
                             transactions, promoting the platform, etc. The loyalty points and tokens can then be
                             redeemed for discounts, special privileges, cashbacks, etc. This encourages more
@@ -88,7 +89,7 @@ include_once 'components/header.php'; ?>
                     </div>
                 </div>
                 <div class="col mb-3">
-                    <div class="iq-feature5 rounded">
+                    <div class="border p-4 text-center rounded">
                         <div class="feature7 text-center">
                             <img src="images/portfolio/swapping.svg" alt="icon1" class="img-fluid">
                             <h4 class="text-black  iq-pt-40 mb-3">SWAPPING</h4>

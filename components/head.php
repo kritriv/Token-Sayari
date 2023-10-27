@@ -2,23 +2,45 @@
 <html lang="en">
 
 <head>
-    <title><?php if (isset($title)) {
+    <title>
+        <?php if (isset($title)) {
                 echo $title;
             } else {
-                echo "Token Sayari - Best Crypto Coin in the world";
-            } ?></title>
+                echo "Planet Sayari - Best Crypto Coin in the world";
+            } ?>
+    </title>
+    <link rel="canonical" href=<?php if(isset($current_page_url)){ echo $current_page_url; }else{ echo
+        "https://www.planetsayari.com"; } ?>>
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0">
+    <meta name="description"
+        content="Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization." />
+    <meta name="allow-search" content="yes" />
+    <meta name="keywords"
+        content="Token Sayari, Planet Sayari, Crypto Coin, Security Token, Investment, Investor, Finance, Best Crypto Token, Cryptocurrency, Sayari Delux">
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico" />
+
+    <!-- og Tags -->
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Planet Sayari - Best Crypto Coin in the world" />
+    <meta property="og:description"
+        content="Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization." />
+    <meta property="og:url" content="https://www.planetsayari.com" />
+    <meta property="og:site_name" content="Planet Sayari" />
+    <meta property="og:image" content="https://planetsayari.com/images/logo.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+
     <!-- Google Fonts -->
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com/">
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.googleapis.com"> -->
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Titillium+Web:wght@400;600&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Titillium+Web:wght@400;600&display=swap"
+        rel="stylesheet">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -30,34 +52,14 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    <!-- Style customizer (Remove these two lines please) -->
-    <!-- <link rel="stylesheet" href="javascript:void(0)" data-style="styles"> -->
     <link rel="stylesheet" href="css/style-customizer.css" />
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113778816-1"></script>
-            
-    <script>
-      document.addEventListener("contextmenu", (event) => {
-         event.preventDefault();
-      });
-   </script>
 
-    <script>
-        window.dataLayer = window.dataLayer || [];
+    <!-- <script>
+        document.addEventListener("contextmenu", (event) => {
+            event.preventDefault();
+        });
+    </script> -->
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'UA-113778816-1');
-    </script>
 </head>
-<!-- onmousedown="return false" onselectstart="return false" -->
+
 <body>
-    <!-- loading -->
-    <!-- <div id="loading">
-        <div id="loading-center">
-            <img src="images/loader.gif" alt="loder">
-        </div>
-    </div> -->
-    <!-- loading End -->

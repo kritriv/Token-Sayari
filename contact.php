@@ -1,5 +1,5 @@
-<?php $title = "Contact - Token Sayari";
-include_once 'components/header.php'; ?>
+<?php $title = "Contact Us - Planet Sayari";
+include_once 'components/header.php'; $current_page_url="https://www.planetsayari.com/contact"; ?>
 
 <div class="clearfix"></div>
 <!-- Main Content -->
