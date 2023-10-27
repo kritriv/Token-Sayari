@@ -6,11 +6,11 @@ Footer -->
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="logo">
-                        <img id="logo_img_2" class="img-fluid" src="images/logo-white.png" alt="# ">
+                        <img id="logo_img_2" class="img-fluid" src="images/logo_verti.svg" alt="# ">
                         <ul class="iq-media-blog iq-mt-20">
                             <li><a href="https://twitter.com/TokenSayari" target="_blank"><i class="fa fa-twitter "></i></a></li>
                             <li><a href="https://www.facebook.com/profile.php?id=100090091656693" target="_blank"><i class="fa fa-facebook "></i></a></li>
-                            <li><a href="https://m.youtube.com/watch?v=MB73HjuhUtQ&fbclid=PAAaYv4TYulyBBfby2Vwe6J8d0PqgG0e1HY9v2jf2OabXBsdmMw3cYRxWUEl8https://www.tiktok.com/@planetsayari" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                            <!-- <li><a href="https://m.youtube.com/watch?v=MB73HjuhUtQ&fbclid=PAAaYv4TYulyBBfby2Vwe6J8d0PqgG0e1HY9v2jf2OabXBsdmMw3cYRxWUEl8https://www.tiktok.com/@planetsayari" target="_blank"><i class="fa fa-youtube"></i></a></li> -->
                             <li><a href="https://www.instagram.com/planet_sayari/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="https://t.me/+katj3AYArktjMThi" target="_blank"><i class="fa fa-telegram"></i></a></li>
                         </ul>
@@ -24,7 +24,7 @@ Footer -->
                         <ul class="iq-pl-0">
                             <li><a href="mission.php">Mission</a></li>
                             <li><a href="strategy.php">Strategy</a></li>
-                            <li><a href="app.php">Sayari App</a></li>
+                            <li><a href="sayari-app.php">Sayari App</a></li>
                             <li><a href="letter-of-credit.php">Letter of Credit</a></li>
                         </ul>
                     </div>
@@ -36,9 +36,9 @@ Footer -->
                         </div>
                         <ul class="iq-pl-0">
                             <li><a href="funds-assets.php">Funds & Assets</a></li>
-                            <li><a href="program.php">Programs</a></li>
+                            <li><a href="programs.php">Programs</a></li>
                             <li><a href="instrument.php">Instruments</a></li>
-                            <li><a href="project.php">Projects</a></li>
+                            <li><a href="projects.php">Projects</a></li>
                         </ul>
                     </div>
                 </div>

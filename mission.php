@@ -1,6 +1,7 @@
 <?php $page = "about";
 $active = 'mission';
-$title = "Mission - Token Sayari";
+$title = "Our Mission - Planet Sayari";
+$current_page_url="https://www.planetsayari.com/mission";
 include_once 'components/header.php'; ?>
 <div class="main-content" onmousedown="return false" onselectstart="return false">
     <div class="clearfix"></div>

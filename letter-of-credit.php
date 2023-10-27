@@ -1,4 +1,4 @@
-<?php $active="credit"; $page ="about"; $title = "Letter of Credit - Token Sayari";
+<?php $active="credit"; $page ="Products"; $title = "Letter of Credit - Planet Sayari"; $current_page_url="https://www.planetsayari.com/letter-of-credit";
 include_once 'components/header.php'; ?>
 <!-- Main Content -->
 <div class="main-content">
@@ -68,11 +68,11 @@ include_once 'components/header.php'; ?>
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-sm-12 iq-mtb-100">
                     <hr>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 

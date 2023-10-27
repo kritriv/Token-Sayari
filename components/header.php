@@ -1,4 +1,4 @@
-<?php include_once 'head.php' ?>
+<?php include_once 'head.php'  ?>
 
 <script type="text/javascript" src="js/MultiLang.js">
 </script>
@@ -6,8 +6,8 @@
 <script type="text/javascript">
     function googleTranslateElementInit() {
         new google.translate.TranslateElement({
-                pageLanguage: 'en'
-            },
+            pageLanguage: 'en'
+        },
             'google_translate_element'
         );
         //   document.getElementById('google_translate_element').style.background="#00A0EB";
@@ -35,11 +35,18 @@
                         <ul class="list-inline">
                             <li class="list-inline-item">
                                 <ul class="list-inline iq-left">
-                                    <li class="list-inline-item"><a href="https://www.instagram.com/planet_sayari/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li class="list-inline-item"><a href="https://m.youtube.com/watch?v=MB73HjuhUtQ&fbclid=PAAaYv4TYulyBBfby2Vwe6J8d0PqgG0e1HY9v2jf2OabXBsdmMw3cYRxWUEl8https://www.tiktok.com/@planetsayari" target="_blank"><i class="fa fa-youtube"></i></a></li>
-                                    <li class="list-inline-item"><a href="https://twitter.com/TokenSayari" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100090091656693" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li class="list-inline-item"><a href="https://t.me/+katj3AYArktjMThi" target="_blank"><i class="fa fa-telegram"></i></a></li>
+                                    <li class="list-inline-item"><a href="https://www.instagram.com/planet_sayari/"
+                                            target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <!-- <li class="list-inline-item"><a
+                                            href="https://m.youtube.com/watch?v=MB73HjuhUtQ&fbclid=PAAaYv4TYulyBBfby2Vwe6J8d0PqgG0e1HY9v2jf2OabXBsdmMw3cYRxWUEl8https://www.tiktok.com/@planetsayari"
+                                            target="_blank"><i class="fa fa-youtube"></i></a></li> -->
+                                    <li class="list-inline-item"><a href="https://twitter.com/TokenSayari"
+                                            target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a
+                                            href="https://www.facebook.com/profile.php?id=100090091656693"
+                                            target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li class="list-inline-item"><a href="https://t.me/+katj3AYArktjMThi"
+                                            target="_blank"><i class="fa fa-telegram"></i></a></li>
                                 </ul>
                             </li>
                             <li class="list-inline-item"><span id="google_translate_element"></span></li>
@@ -60,9 +67,11 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="logo">
-                        <a href="index.php"><img id="logo_dark" class="img-fluid" src="images/logo.png" alt="logo"></a>
+                        <a href="index.php"><img id="logo_dark" class="img-fluid" src="images/logo_hori.svg"
+                                alt="logo"></a>
                     </div>
-                    <nav> <a id="resp-menu" class="responsive-menu" href="javascript:void(0)"><i class="fa fa-reorder"></i> </a>
+                    <nav> <a id="resp-menu" class="responsive-menu" href="javascript:void(0)"><i
+                                class="fa fa-reorder"></i> </a>
                         <ul class="menu text-end">
                             <li><a class="<?php if ($page == 'home') {
                                                 echo 'active';
@@ -80,38 +89,51 @@
                                     <li><a href="our-journey.php" class="<?php if ($active == 'journey') {
                                                                                 echo 'active';
                                                                             } ?>">Our Journey</a></li>
-                                    <li><a href="letter-of-credit.php" class="<?php if ($active == 'credit') {
+                                    <!-- <li><a href="letter-of-credit.php" class="<?php if ($active == 'credit') {
                                                                                     echo 'active';
-                                                                                } ?>">Letter of Credit</a></li>
+                                                                                } ?>">Letter of Credit</a></li> -->
                                     <li><a href="Sayari-Lite-Paper.pdf" target="_blank" class="<?php if ($active == 'paper') {
                                                                                                     echo 'active';
-                                                                                                } ?>">Lite Paper</a></li>
+                                                                                                } ?>">Lite Paper</a>
+                                    </li>
                                 </ul>
                             </li>
-                            <li><a href="javascript:void(0)" class="<?php if ($page == 'protfolio') {
+                            <li><a href="javascript:void(0)" class="<?php if ($page == 'portfolio') {
                                                                         echo 'active';
                                                                     } ?>">Portfolio</a>
                                 <ul class="sub-menu">
-                                    <li><a href="funds-assets.php" class="<?php if ($active == 'funds') {
-                                                                                echo 'active';
-                                                                            } ?>">Funds & Assets</a></li>
-                                    <li><a href="program.php" class="<?php if ($active == 'program') {
+
+                                    <li><a href="programs.php" class="<?php if ($active == 'programs') {
                                                                             echo 'active';
                                                                         } ?>">Our Program</a></li>
-                                    <li><a href="instrument.php" class="<?php if ($active == 'instrument') {
-                                                                            echo 'active';
-                                                                        } ?>">Instruments</a></li>
-                                    <li><a href="project.php" class="<?php if ($active == 'prject') {
+
+                                    <li><a href="projects.php" class="<?php if ($active == 'projects') {
                                                                             echo 'active';
                                                                         } ?>">Projects</a></li>
                                 </ul>
                             </li>
-                            <li><a href="app.php" class="<?php if ($page == 'sayari app') {
+                            <li><a href="javascript:void(0)" class="<?php if ($page == 'Products') {
+                                                                        echo 'active';
+                                                                    } ?>">Products & Solution</a>
+                                <ul class="sub-menu">
+                                    <li><a href="funds-assets.php" class="<?php if ($active == 'funds') {
+                                                                                echo 'active';
+                                                                            } ?>">Funds & Assets</a></li>
+                                    <li><a href="instrument.php" class="<?php if ($active == 'instrument') {
+                                                                            echo 'active';
+                                                                        } ?>">Instruments</a></li>
+                                    <li><a href="letter-of-credit.php" class="<?php if ($active == 'credit') {
+                                                                                echo 'active';
+                                                                            } ?>">Letter of Credit</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="sayari-app.php" class="<?php if ($page == 'sayari app') {
                                                                 echo 'active';
                                                             } ?>">Sayari App</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <!-- <li><a href="contact.php">Contact</a></li> -->
                             <li>
-                                <a class="button" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target=".iq-login" data-bs-whatever="@mdo">Login Account
+                                <a class="button" href="javascript:void(0)" data-bs-toggle="modal"
+                                    data-bs-target=".iq-login" data-bs-whatever="@mdo">Login Account
 
                                 </a>
 
