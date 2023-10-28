@@ -11,7 +11,7 @@
                 <div class="col-md-10">
                     <div class="heading-title">
 
-                        <h2 class="title iq-mb-25 titillium-font">Best Crypto Coin in the world Planet Sayari</h2>
+                        <h1 class="title iq-mb-25 titillium-font" style="font-size:50px">Best Crypto Coin in the world Planet Sayari</h1>
                         <p class="fs-4 lh-base">Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
                 <div class="col-lg-6 col-md-12 responsive_pad">
                     <!-- <h3 class="text-white mb-3 ">Do You Need a Consultant?</h3> -->
                     <div >
-                        <p class="fs-5 lh-base text-justify responsive_para_size">Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization. By leveraging the power of blockchain technology and combining it with innovative financial instruments, Planet Sayari offers a unique solution to help companies and projects develop and achieve their goals. Overall, Planet Sayari aims to facilitate global business opportunities, foster economic growth, and shape the future of finance.</p>
+                        <p class="fs-5 lh-base  responsive_para_size">Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization. By leveraging the power of blockchain technology and combining it with innovative financial instruments, Planet Sayari offers a unique solution to help companies and projects develop and achieve their goals. Overall, Planet Sayari aims to facilitate global business opportunities, foster economic growth, and shape the future of finance.</p>
                     </div>
                     <div class="triangle1"></div>
                 </div>
@@ -79,8 +79,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-sm-12 iq-mt-30 align-self-center">
-                    <p class="fs-5 lh-base text-justify  responsive_para_size ">Planet Sayari has created an ecosystem of tokens to fulfill a variety of roles within its platform. The tokens provide utility, security, liquidity and incentive features that support the diverse needs of users, investors, retailers and other partners. the tokens provide incentives and rewards that drive engagement.</p>
-                    <p class="fs-5 lh-base text-justify responsive_para_size ">The diverse yet interconnected token ecosystem allows Planet Sayari to fulfill the full spectrum of monetization, security, efficiency and engagement needs required to power its expanding services and user community. The unique but complementary utilities of the different tokens work together to form a holistic value proposition.</p>
+                    <p class="fs-5 lh-base   responsive_para_size ">Planet Sayari has created an ecosystem of tokens to fulfill a variety of roles within its platform. The tokens provide utility, security, liquidity and incentive features that support the diverse needs of users, investors, retailers and other partners. the tokens provide incentives and rewards that drive engagement.</p>
+                    <p class="fs-5 lh-base  responsive_para_size ">The diverse yet interconnected token ecosystem allows Planet Sayari to fulfill the full spectrum of monetization, security, efficiency and engagement needs required to power its expanding services and user community. The unique but complementary utilities of the different tokens work together to form a holistic value proposition.</p>
                 </div>
                 <div class="col-lg-1 col-sm-12 iq-r-mt-40"></div>
                 <div class="col-lg-5 col-sm-12 iq-r-mt-40"  style="text-align : center;">
@@ -302,7 +302,7 @@
                             <img class="client-img img-fluid mb-4" src="images/home/icon/SHAIL-LOGO.png" alt="">
                             <div class="media-body">
                                 <h4 class="mt-0 mb-3">Shail International Group</h4>
-                                <p class="text-justify responsive_para_size" style="font-size:1rem">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
+                                <p class=" responsive_para_size" style="font-size:1rem">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
                                 <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i><a href="mailto:Info@shailinternationalgroup.com">Info@shailinternationalgroup.com</a></p>
                                 <p><i class="fa fa-globe iq-font-yellow me-2"> </i><a target="_blank" href="https://www.shailinternationalgroup.com/">Shailinternationalgroup.com</a></p>
                             </div>
@@ -316,7 +316,7 @@
                             <img class="client-img img-fluid mb-4" src="images/home/icon/Avtar_logo.png" alt="">
                             <div class="media-body py-4">
                                 <h4 class="mt-0 mb-3">Avtar Space Technology</h4>
-                                <p class="text-justify responsive_para_size pb-3" style="font-size:1rem">Sayari's partnership with Avtar Space Technology holds immense potential to leverage its unique strengths to deliver cutting-edge solutions. This partnership combines their expertise in advanced technologies and management to address the world's ever-changing needs, and together they have set new industry standards. Avtar Space Technology has benefited the culture of Sayari through continuous growth and innovation. Together, they strengthen their competitive edge and promise to reshape the world by promoting change and driving advancements in the digital world.</p>
+                                <p class=" responsive_para_size pb-3" style="font-size:1rem">Sayari's partnership with Avtar Space Technology holds immense potential to leverage its unique strengths to deliver cutting-edge solutions. This partnership combines their expertise in advanced technologies and management to address the world's ever-changing needs, and together they have set new industry standards. Avtar Space Technology has benefited the culture of Sayari through continuous growth and innovation. Together, they strengthen their competitive edge and promise to reshape the world by promoting change and driving advancements in the digital world.</p>
                                 <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i><a href="mailto:Info@avtarspace.com">Info@avtarspace.com</a></p>
                                 <p><i class="fa fa-globe iq-font-yellow me-2"> </i><a target="_blank" href="https://avtarspace.com">avtarspace.com</a></p>
                             </div>
@@ -338,7 +338,7 @@
                 <div class="col-lg-7 col-md-12">
                     <div class="heading-left">
                         <h3 class="mb-3">Sayari Offices</h3>
-                        <p class="lh-base text-justify mb-5" ><b>Planet Sayari</b> began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
+                        <p class="lh-base  mb-5" ><b>Planet Sayari</b> began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
                         <!-- <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> -->
                     </div>
                 </div>

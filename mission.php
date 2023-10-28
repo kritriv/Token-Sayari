@@ -39,7 +39,7 @@ include_once 'components/header.php'; ?>
                                 <div class="d-flex align-items-center flex-wrap iq-pall-20 ">
                                     <div class="media-body">
                                         <!-- <h4 class="mt-0  mb-3">Shail International Group</h4> -->
-                                        <p class="text-justify lh-base" style="padding-bottom: 5rem;">Allowing everyone to access the services we offer, regardless of their location or financial status. We stand at the forefront of all issues from blockchain to fund management. And we will always stand by and make things the best. The security circle in our roadmap is very long. And we will always maintain this circle.</p>
+                                        <p class="  lh-base" style="padding-bottom: 5rem;">Allowing everyone to access the services we offer, regardless of their location or financial status. We stand at the forefront of all issues from blockchain to fund management. And we will always stand by and make things the best. The security circle in our roadmap is very long. And we will always maintain this circle.</p>
                                         &nbsp;
                                     </div>
                                 </div>
@@ -57,7 +57,7 @@ include_once 'components/header.php'; ?>
                                         <div class="d-flex align-items-center flex-wrap iq-pall-20 ">
                                             <div class="media-body">
                                                 <!-- <h4 class="mt-0  mb-3">Shail International Group</h4> -->
-                                                <p class="text-justify">Driving growth in the Technology sectors and working nonstop to provide cutting-edge goods and services.</p>
+                                                <p class=" ">Driving growth in the Technology sectors and working nonstop to provide cutting-edge goods and services.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -71,7 +71,7 @@ include_once 'components/header.php'; ?>
                                         <div class="d-flex align-items-center flex-wrap iq-pall-20 ">
                                             <div class="media-body">
                                                 <!-- <h4 class="mt-0  mb-3">Shail International Group</h4> -->
-                                                <p class="text-justify">Building trust within the community by going along with the highest standards of security, transparency and trust.</p>
+                                                <p class=" ">Building trust within the community by going along with the highest standards of security, transparency and trust.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -87,7 +87,7 @@ include_once 'components/header.php'; ?>
                                         <div class="d-flex align-items-center flex-wrap iq-pall-20 ">
                                             <div class="media-body">
                                                 <!-- <h4 class="mt-0  mb-3">Shail International Group</h4> -->
-                                                <p class="text-justify">Providing a significant boost to the future of finance on a large scale, while putting priority on the long term & social responsibility.</p>
+                                                <p class=" ">Providing a significant boost to the future of finance on a large scale, while putting priority on the long term & social responsibility.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -101,7 +101,7 @@ include_once 'components/header.php'; ?>
                                         <div class="d-flex align-items-center flex-wrap iq-pall-20 ">
                                             <div class="media-body">
                                                 <!-- <h4 class="mt-0  mb-3">Shail International Group</h4> -->
-                                                <p class="text-justify">The user's demands & security are the primary concern for everything we do, resulting in a satisfied & rewarding experience.</p>
+                                                <p class=" ">The user's demands & security are the primary concern for everything we do, resulting in a satisfied & rewarding experience.</p>
                                             </div>
                                         </div>
                                     </div>

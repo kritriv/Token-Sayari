@@ -32,8 +32,8 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                     </div> -->
                     <div class="col-lg-8 offset-lg-2 col-md-12 iq-help-form">
                         <div class="iq-plr-40 iq-mt-40">
-                            <h2 class="iq-mtb-25">Happy to Help You!</h2>
-                            <p><i>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley. Lorem Ipsum is simply dummy text of the printing and typesetting industry. </i></p>
+                            <h2 class="iq-mtb-25">Drop a message, We will reach you Soon!</h2>
+                            <!-- <p><i>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley. Lorem Ipsum is simply dummy text of the printing and typesetting industry. </i></p> -->
                             <div class="row iq-mt-30">
                                 <div class="col-sm-12">
                                     <div id="formmessage">Success/Error Message Goes Here</div>
@@ -126,7 +126,7 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                     <div class="col-lg-7 col-md-12">
                         <div class="heading-left">
                             <h3 class="mb-3">Sayari Offices</h3>
-                            <p class="fs-5 lh-base text-justify mb-5 responsive_para_size">PLANET SAYARI began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
+                            <p class="fs-5 lh-base mb-5 responsive_para_size">PLANET SAYARI began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
                             <!-- <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> -->
                         </div>
                     </div>

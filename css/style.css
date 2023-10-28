@@ -3831,8 +3831,8 @@ header.fancy.menu-sticky .iq-header .row {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: #090136;
-  border: 2px solid var(--iq-primary);
+  background: #000000;
+  /* border: 2px solid var(--iq-primary); */
   box-sizing: content-box;
   margin: auto;
   position: absolute;
@@ -6109,7 +6109,7 @@ ul.footer-nav-menu {
 }
 
 .animation-img img {
-  width: 50%;
+  width: 60%;
 }
 
 @media(max-width:1024px) {
@@ -6787,4 +6787,9 @@ ul.footer-nav-menu {
   .iq-journey .journey:nth-child(2n) .investor-content {
       margin-left: 10px;
   }
+}
+
+
+.achor_link_pointer:hover{
+  cursor: pointer;
 }

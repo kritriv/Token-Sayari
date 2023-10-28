@@ -76,9 +76,9 @@
                             <li><a class="<?php if ($page == 'home') {
                                                 echo 'active';
                                             } ?>" href="index.php">Home</a></li>
-                            <li><a href="javascript:void(0)" class="<?php if ($page == 'about') {
+                            <li><a class="<?php if ($page == 'about') {
                                                                         echo 'active';
-                                                                    } ?>">About Us</a>
+                                                                    } ?> achor_link_pointer">About Us</a>
                                 <ul class="sub-menu">
                                     <li><a href="mission.php" class="<?php if ($active == 'mission') {
                                                                             echo 'active';
@@ -98,23 +98,23 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="javascript:void(0)" class="<?php if ($page == 'portfolio') {
+                            <li><a  class="<?php if ($page == 'portfolio') {
                                                                         echo 'active';
-                                                                    } ?>">Portfolio</a>
+                                                                    } ?> achor_link_pointer">Portfolio</a>
                                 <ul class="sub-menu">
 
                                     <li><a href="programs.php" class="<?php if ($active == 'programs') {
                                                                             echo 'active';
-                                                                        } ?>">Our Program</a></li>
+                                                                        } ?> achor_link_pointer">Our Program</a></li>
 
                                     <li><a href="projects.php" class="<?php if ($active == 'projects') {
                                                                             echo 'active';
                                                                         } ?>">Projects</a></li>
                                 </ul>
                             </li>
-                            <li><a href="javascript:void(0)" class="<?php if ($page == 'Products') {
+                            <li><a  class="<?php if ($page == 'Products') {
                                                                         echo 'active';
-                                                                    } ?>">Products & Solution</a>
+                                                                    } ?> achor_link_pointer">Products & Solution</a>
                                 <ul class="sub-menu">
                                     <li><a href="funds-assets.php" class="<?php if ($active == 'funds') {
                                                                                 echo 'active';
@@ -132,7 +132,7 @@
                                                             } ?>">Sayari App</a></li>
                             <!-- <li><a href="contact.php">Contact</a></li> -->
                             <li>
-                                <a class="button" href="javascript:void(0)" data-bs-toggle="modal"
+                                <a class="button" data-bs-toggle="modal"
                                     data-bs-target=".iq-login" data-bs-whatever="@mdo">Login Account
 
                                 </a>
