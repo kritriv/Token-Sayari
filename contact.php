@@ -135,7 +135,7 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                     </div>
                 </div>
 
-                <div class="office_section_wrapper">
+                <div class="office_section_wrapper" style="cursor: pointer;">
                     <div class="office_add_card india_card">
                         <div class="hover_add_card_india">
                             <div class="content_hover_add">

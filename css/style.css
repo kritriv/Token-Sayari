@@ -1186,9 +1186,9 @@ header.fancy.menu-sticky .iq-header .row {
     padding: 10px 0;
   }
 
-  header.menu-sticky .responsive-menu {
+  /* header.menu-sticky .responsive-menu {
     padding: 0 15px 12px 0;
-  }
+  } */
 
   header .logo {
     margin-top: 0;
@@ -6792,4 +6792,36 @@ ul.footer-nav-menu {
 
 .achor_link_pointer:hover{
   cursor: pointer;
+}
+.main_heading_banner{
+  font-size: 50px;
+}
+@media only screen and (max-width:480px) {
+  .main_heading_banner{
+    font-size: 30px;
+  }
+  .main_subheading_banner{
+    font-size: 16px;
+  }
+  .overview-block-ptb9 , .journey_banner_res{
+    padding: 45px 0 0 10px !important;
+  }
+  .head_top_Banner_res{
+    margin-bottom:0px !important
+  }
+  .head_top_Sub_Banner_res{
+    padding-top: 0 !important;
+  }
+
+  .Financial_Inclusion_para_res{
+    padding-bottom: 0 !important;
+  }
+  .Financial_Inclusion_card_res{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  .Letter_c_head{
+    text-align: left;
+    font-size: 24px;
+  }
 }

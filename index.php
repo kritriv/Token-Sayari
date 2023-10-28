@@ -11,8 +11,8 @@
                 <div class="col-md-10">
                     <div class="heading-title">
 
-                        <h1 class="title iq-mb-25 titillium-font" style="font-size:50px">Best Crypto Coin in the world Planet Sayari</h1>
-                        <p class="fs-4 lh-base">Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
+                        <h1 class="title iq-mb-25 titillium-font main_heading_banner">Best Crypto Coin in the world Planet Sayari</h1>
+                        <p class="fs-4 lh-base main_subheading_banner">Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
                     </div>
                 </div>
                 <div class="col-md-1"></div>
@@ -347,7 +347,7 @@
                 </div>
             </div>
 
-            <div class="office_section_wrapper">
+            <div class="office_section_wrapper" style="cursor: pointer;">
                 <div class="office_add_card india_card">
                     <div class="hover_add_card_india">
                         <div class="content_hover_add">

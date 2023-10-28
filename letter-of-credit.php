@@ -12,16 +12,16 @@ include_once 'components/header.php'; ?>
                 <div class="col-sm-12">
                     <div class="heading-title">
                         <!-- <h5 class="title  iq-mb-10">Partners</h5> -->
-                        <h2 class="">Trade Finance Using Blockchain Technology</h2>
+                        <h2 class="Letter_c_head">Trade Finance Using Blockchain Technology</h2>
                         <!-- <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p> -->
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-10 col-sm-12 iq-mt-10 align-self-center responsive_para_size">
-                    <h5>Planet Sayari aims to cover more than $ 600 million Letter of credit by 2026. And will
+                    <p>Planet Sayari aims to cover more than $ 600 million Letter of credit by 2026. And will
                         connect every country with other countries and will establish its business in every country.
-                    </h5>
+                    </p>
                     <ul class="listing-hand ">
                         <li class="iq-mt-20">Blockchain LC can be modelled as a smart contract between the bank and
                             the seller to. Proven benefits of a blockchain-based solution for letters of credit.
@@ -64,7 +64,7 @@ include_once 'components/header.php'; ?>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="animation-img">
-                        <img class="img-animation" id="trade_finance_gif" data-gif_src="images/letter-credit/trade-finance-1.gif" src="images/letter-credit/trade finance.gif"/>
+                        <img class="img-animation" id="trade_finance_gif" data-gif_src="images/letter-credit/trade-finance-1.gif" src="images/letter-credit/trade financee.gif"/>
                         <!-- <img class="img-animation" data-gif_src="images/letter-credit/trade-finance-1.gif" src="images/letter-credit/trade finance.gif"/> -->
                     </div>
                 </div>

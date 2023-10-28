@@ -8,8 +8,8 @@ include_once 'components/header.php'; ?>
     <section class="overview-block-ptb7 iq-bg text-center">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 offset-lg-2 mb-5">
-                    <div class="program py-4">
+                <div class="col-lg-8 offset-lg-2 mb-5 head_top_Banner_res">
+                    <div class="program py-4 head_top_Sub_Banner_res">
                         <h3 class="title text-uppercase">Our Mission</h3>
                     </div>
                     <p>Planet Sayari’s mission is to assist business owners and companies in the development of their investments and to enable them to obtain the necessary funding to bring their projects to fruition.</p>
@@ -22,7 +22,7 @@ include_once 'components/header.php'; ?>
             <div id="stars3"></div> -->
     </section>
 
-    <section class="overview-block-ptb bitcoin-app responsive_pad">
+    <section class="overview-block-ptb bitcoin-app ">
         <div class="container">
             <div class="row">
                 <!-- <div class="col-lg-6 col-md-12 text-center iq-r-mt-40">
@@ -31,7 +31,7 @@ include_once 'components/header.php'; ?>
                 <div class="col-lg-12 col-md-12 align-self-center  wow fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft;">
                     <div class="row">
                         <div class="col-sm-4">
-                            <div class="iq-clients-blog iq-mtb-15 border py-5 rounded">
+                            <div class="iq-clients-blog iq-mtb-15 border py-5 rounded Financial_Inclusion_card_res">
                                 <div class="text-center pt-5">
                                     <img class="client-img img-fluid mb-4" src="images/mission/Financial.svg" alt="">
                                     <h5 class="my-3">Financial Inclusion</h5>
@@ -39,7 +39,7 @@ include_once 'components/header.php'; ?>
                                 <div class="d-flex align-items-center flex-wrap iq-pall-20 ">
                                     <div class="media-body">
                                         <!-- <h4 class="mt-0  mb-3">Shail International Group</h4> -->
-                                        <p class="  lh-base" style="padding-bottom: 5rem;">Allowing everyone to access the services we offer, regardless of their location or financial status. We stand at the forefront of all issues from blockchain to fund management. And we will always stand by and make things the best. The security circle in our roadmap is very long. And we will always maintain this circle.</p>
+                                        <p class="Financial_Inclusion_para_res  lh-base" style="padding-bottom: 5rem;">Allowing everyone to access the services we offer, regardless of their location or financial status. We stand at the forefront of all issues from blockchain to fund management. And we will always stand by and make things the best. The security circle in our roadmap is very long. And we will always maintain this circle.</p>
                                         &nbsp;
                                     </div>
                                 </div>

@@ -5,7 +5,7 @@ $current_page_url="https://www.planetsayari.com/instruments";
 include_once 'components/header.php'; ?>
 <!-- Main Content -->
 <div class="clearfix"></div>
-<div class="main-content responsive_pad">
+<div class="main-content">
     <section class="overview-block-pb">
         <div class="container">
             <div class="row my-5">
