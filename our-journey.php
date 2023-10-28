@@ -7,7 +7,7 @@ include_once 'components/header.php'; ?>
 <!-- Main Content -->
 <div class="clearfix"></div>
 <div class="main-content" onmousedown="return false" onselectstart="return false">
-    <section class="overview-block-ptb7 iq-bg">
+    <section class="overview-block-ptb7 iq-bg journey_banner_res ">
         <div class="container mt-5">
             <div class="row">
                 <div class="col-sm-10 offset-sm-1">
@@ -46,7 +46,7 @@ include_once 'components/header.php'; ?>
         <div class="container Journey_container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="iq-journey">
+                    <div class="iq-journey pt-5" >
                         <div class="journey my-5">
                             <span class="year-icon-new text-white">
                                 <p class="journey-date">Jan

@@ -3,7 +3,7 @@ include_once 'components/header.php'; ?>
 
 <div class="clearfix"></div>
 
-<section class="overview-block-ptb7 iq-bg text-center">
+<section class="overview-block-ptb7 journey_banner_res iq-bg text-center">
    <div class="container">
       <div class="row">
          <div class="col-lg-8 offset-lg-2 mb-5">
@@ -13,7 +13,7 @@ include_once 'components/header.php'; ?>
             <p class="lh-base">Planet Sayari offers a lucrative high yield program through its Sayari Deluxe token, providing
                high returns per year to large investors. Planet Sayari is also launching a loyalty program in
                2023 that will reward shoppers at retail partners with Sayt Tokens as a discount</p>
-            <a class="button btn-secondary my-4" href="app.php">
+            <a class="button btn-secondary my-4" href="sayari-app.php">
                <span class="button-inner-box">
                   <span class="icon-one icon icon-new"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
                         <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
@@ -51,7 +51,7 @@ include_once 'components/header.php'; ?>
       <div class="row mb-5 gx-5">
          <div class="col-lg-6 col-md-12 about-box align-self-center mb-5">
             <h4 class="mb-3">High Yields Program</h4>
-            <p class="iq-mt-10 font-weight-bold text-justify responsive_para_size">Project Sayari LTD will establish a $10,000,000 investment pool,
+            <p class="iq-mt-10 font-weight-bold  responsive_para_size">Project Sayari LTD will establish a $10,000,000 investment pool,
                offering investors security tokens (Deluxe Token, SDX) at an exchange rate of 1 SDX = $10. A minimum
                investment of $100,000 is required, with a smart contract on the advanced PROTON blockchain managing
                the pool and issuance of SDX tokens. Investors will receive a unique username and account to track
@@ -76,7 +76,7 @@ include_once 'components/header.php'; ?>
          </div>
          <div class="col-lg-6 col-md-12 about-box align-self-center">
             <h4 class="mb-3">Loyalty Program </h4>
-            <p class="iq-mt-10 font-weight-bold text-justify responsive_para_size">This blockchain based loyalty program, is a smart contracts based
+            <p class="iq-mt-10 font-weight-bold  responsive_para_size">This blockchain based loyalty program, is a smart contracts based
                program whereby the buyer receives the SAYT token as a discount on purchases or transactions made with
                Planet Sayari’s partners, using the Sayari loyalty card. All other loyalty programs on the market can
                be matched and linked to the SAYT token.Members of the Planet Sayari’s loyalty program are eligible to

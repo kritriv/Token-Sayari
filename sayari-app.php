@@ -7,7 +7,7 @@ include_once 'components/header.php'; ?>
 <div class="clearfix"></div>
 <!-- Main Content -->
 <div class="main-content" onmousedown="return false" onselectstart="return false">
-    <section class="overview-block-ptb7 iq-bg text-center">
+    <section class="overview-block-ptb7 journey_banner_res iq-bg text-center">
         <div class="container">
             <div class="row h-100">
                 <div class="col-lg-8 offset-lg-2  mb-5">
