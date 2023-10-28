@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://planetsayari.com</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/mission</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/strategy</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/our-journey</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/Sayari-Lite-Paper.pdf</loc>
+  <lastmod>2023-10-27T12:50:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/programs</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/projects</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/funds-assets</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/instrument</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/letter-of-credit</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/sayari-app</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://planetsayari.com/contact</loc>
+  <lastmod>2023-10-27T12:59:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
