@@ -64,7 +64,8 @@ include_once 'components/header.php'; ?>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="animation-img">
-                        <img class="img-animation" data-gif_src="images/letter-credit/trade-finance-1.gif" src="images/letter-credit/trade finance.gif"/>
+                        <img class="img-animation" id="trade_finance_gif" data-gif_src="images/letter-credit/trade-finance-1.gif" src="images/letter-credit/trade finance.gif"/>
+                        <!-- <img class="img-animation" data-gif_src="images/letter-credit/trade-finance-1.gif" src="images/letter-credit/trade finance.gif"/> -->
                     </div>
                 </div>
             </div>
@@ -113,7 +114,7 @@ include_once 'components/header.php'; ?>
 <!-- End Modal -->
 
 <script>
-    const imgElement = document.querySelector('.img-animation');
+    const imgElement = document.querySelector('trade_finance_gif');
 
     imgElement.addEventListener('mouseenter', function() {
         imgElement.dataset.imgSrc = imgElement.src;

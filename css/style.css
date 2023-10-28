@@ -479,7 +479,7 @@
                            Section Title
 -----------------------------------------------------------------------*/
 .heading-title {
-  margin-bottom: 80px;
+  margin-bottom: 30px;
   text-align: center;
 }
 
@@ -690,8 +690,8 @@ header .iq-header {
   padding: 16px 18px;
   display: block;
   /* color: var(--iq-white); */
-  text-transform: uppercase;
-  font-size: 16px;
+  text-transform: capitalize;
+  font-size: 15px;
   transition: all 0.2s ease-in-out 0s;
 }
 
@@ -775,8 +775,8 @@ header .iq-header {
 .responsive-menu {
   display: none;
   width: 100%;
-  padding: 12px 15px 17px 0;
-  font-size: 18px;
+  padding: 0.5rem 1.5rem;
+  font-size: 20px;
   color: var(--iq-dark);
   text-transform: uppercase;
 }
@@ -4388,7 +4388,8 @@ footer .newsletter-form .button {
                           Footer-3
 -----------------------------------------------------------------------*/
 .iq-footer-3 .logo img {
-  width: 180px;
+  margin-left: 10px;
+  width: 150px;
 }
 
 .iq-footer-3 .small-title {
@@ -4401,20 +4402,21 @@ footer .newsletter-form .button {
 
 /*Menu*/
 .iq-footer-3 .footer-menu li {
+  line-height: 1.7rem;
   margin: 0;
 }
 
 .iq-footer-3 .footer-menu li a {
   font-weight: 500;
-  background: rgba(255, 255, 255, 0);
-  padding: 8px 0;
+  /* background: rgba(255, 255, 255, 0); */
+  /* padding: 8px 0; */
   display: block;
   color: var(--iq-black);
 }
 
 .iq-footer-3 .footer-menu li a:hover {
   /* background: rgba(255, 255, 255, 0.2); */
-  color: var(--iq-menu-hover);
+  color: var(--iq-primary);
   /* padding: 8px 15px; */
 }
 
@@ -6690,6 +6692,7 @@ ul.footer-nav-menu {
 
   .iq-journey .investor-content:after,
   .iq-journey .journey:nth-child(2n) .investor-content:after {
+    display: none;
       border: none;
       border-bottom: 20px solid var(--iq-gray);
       border-left: 20px solid transparent;

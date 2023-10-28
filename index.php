@@ -84,7 +84,7 @@
                 </div>
                 <div class="col-lg-1 col-sm-12 iq-r-mt-40"></div>
                 <div class="col-lg-5 col-sm-12 iq-r-mt-40">
-                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/home/tokens graphs.svg" alt="#">
+                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/home/tokens graphs.svg" alt="#" width="70%">
                 </div>
             </div>
         </div>

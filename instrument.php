@@ -35,7 +35,7 @@ include_once 'components/header.php'; ?>
                 <div class="col mb-3">
                     <div class="border p-4 text-center rounded">
                         <img src="images/portfolio/commission.svg" alt="">
-                        <h4 class="text-black  iq-pt-40 mb-3">COMMISSION AGREEMENT
+                        <h4 class="text-black  iq-pt-40 mb-3">Commission Agreement
                         </h4>
                         <p class="text-justify" style="padding-bottom: 2.2rem;">An agreement where Planet Sayari company agrees to pay a commission to
                             sellers for promoting and selling their products. The commission can be a percentage of the
@@ -47,9 +47,9 @@ include_once 'components/header.php'; ?>
                 <div class="col mb-3">
                     <div class="border p-4 text-center rounded">
                         <img src="images/portfolio/swapping.svg" alt="icon1" class="img-fluid">
-                        <h4 class="text-black  iq-pt-40 mb-3">ASSET TOKENIZATION
+                        <h4 class="text-black  iq-pt-40 mb-3">Asset Tokenization
                         </h4>
-                        <p class="iq-mb-0 text-justify">Converting real-world assets like land, artworks, etc. into
+                        <p class="iq-mb-0 text-justify px-3">Converting real-world assets like land, artworks, etc. into
                             digital tokens that can be traded on the Sayari platform. The tokens represent ownership
                             claims over the underlying assets. Asset tokenization provides liquidity to hard-to-trade
                             assets & opens them up to a wider range of investors. Investors can earn returns through
@@ -59,7 +59,7 @@ include_once 'components/header.php'; ?>
                 <div class="col mb-3">
                     <div class="border p-4 text-center rounded">
                         <img src="images/portfolio//credit.svg" alt="icon1" class="img-fluid">
-                        <h4 class="text-black  iq-pt-40 mb-3">LETTER OF CREDIT</h4>
+                        <h4 class="text-black  iq-pt-40 mb-3">Letter of Credit</h4>
                         <p class="text-justify" style="padding-bottom: 7rem;">A financial instrument issued by Sayari that guarantees the payment owed by a
                             seller to a buyer on the platform. It reduces the risk of non-payment for buyers and enables
                             more transactions on the platform.</p>
@@ -69,8 +69,8 @@ include_once 'components/header.php'; ?>
                 <div class="col mb-3">
                     <div class="border p-4 text-center rounded">
                         <img src="images/portfolio/staking.svg" alt="icon1" class="img-fluid">
-                        <h4 class="text-black  iq-pt-40 mb-3">STAKING/VESTING</h4>
-                        <p class="text-justify pb-2">Users can stake their Sayari tokens to support the network and platform. They
+                        <h4 class="text-black  iq-pt-40 mb-3">Staking/Vesting</h4>
+                        <p class="text-justify pb-2 px-3">Users can stake their Sayari tokens to support the network and platform. They
                             receive rewards and incentives for staking. Part of the rewards can be vested for a certain
                             period to ensure long term commitment to the platform. This makes the Sayari tokens more
                             valuable and useful.</p>
@@ -80,7 +80,7 @@ include_once 'components/header.php'; ?>
                 <div class="col mb-3">
                     <div class="border p-4 text-center rounded">
                         <img src="images/portfolio//loyalty.svg" alt="icon1" class="img-fluid">
-                        <h4 class="text-black  iq-pt-40 mb-3">LOYALTY APP</h4>
+                        <h4 class="text-black  iq-pt-40 mb-3">Loyalty App</h4>
                         <p class="iq-mb-0 text-justify pb-4">An app where users can earn loyalty points and tokens by engaging with the
                             Sayari platform – doing shopping to Sayari’ commercial partners, listing assets, making
                             transactions, promoting the platform, etc. The loyalty points and tokens can then be
@@ -92,8 +92,8 @@ include_once 'components/header.php'; ?>
                     <div class="border p-4 text-center rounded">
                         <div class="feature7 text-center">
                             <img src="images/portfolio/swapping.svg" alt="icon1" class="img-fluid">
-                            <h4 class="text-black  iq-pt-40 mb-3">SWAPPING</h4>
-                            <p class="iq-mb-0 text-justify">Allowing users to swap their Sayari tokens for other compatible tokens
+                            <h4 class="text-black  iq-pt-40 mb-3">Swapping</h4>
+                            <p class="iq-mb-0 text-justify px-3">Allowing users to swap their Sayari tokens for other compatible tokens
                                 and vice versa within the Sayari app. This provides more flexibility, exchange options
                                 and opportunities for the token holders. They can diversify their portfolio or take
                                 advantage of price differences across platforms. Swapping also increases liquidity and

@@ -75,7 +75,7 @@
                         <ul class="menu text-end">
                             <li><a class="<?php if ($page == 'home') {
                                                 echo 'active';
-                                            } ?>" href="index.php">HOME</a></li>
+                                            } ?>" href="index.php">Home</a></li>
                             <li><a href="javascript:void(0)" class="<?php if ($page == 'about') {
                                                                         echo 'active';
                                                                     } ?>">About Us</a>
