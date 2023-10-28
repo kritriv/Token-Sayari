@@ -24,7 +24,9 @@
         content="Token Sayari, Planet Sayari, Crypto Coin, Security Token, Investment, Investor, Finance, Best Crypto Token, Cryptocurrency, Sayari Delux">
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico" />
-
+    
+    <meta name="google-site-verification" content="XXmWUJKE3uz-IoGmu9O_bNawz8zQoi1xgS0BOEAyVVc" />
+    
     <!-- og Tags -->
     <meta property="og:locale" content="it_IT" />
     <meta property="og:type" content="article" />
