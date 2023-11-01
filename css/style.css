@@ -5934,6 +5934,9 @@ ul.footer-nav-menu {
 .usa_card:hover .hover_add_card_usa {
   display: block;
 }
+.philippines_card:hover .hover_add_card_philippines {
+  display: block;
+}
 
 .content_hover_add {
   padding: 1rem 1rem 0 1rem;
@@ -5947,7 +5950,8 @@ ul.footer-nav-menu {
 .hover_add_card_romania,
 .hover_add_card_kenya,
 .hover_add_card_itally,
-.hover_add_card_usa {
+.hover_add_card_usa,
+.hover_add_card_philippines {
   display: none;
   text-align: left;
   margin: 6rem 0 0 5rem;
@@ -5961,7 +5965,7 @@ ul.footer-nav-menu {
 
 .office_section_wrapper {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
   text-align: center;
   flex-wrap: wrap;
 }
@@ -5994,7 +5998,9 @@ ul.footer-nav-menu {
 .projects_card:hover {
   background: var(--iq-primary) !important;
 }
-
+@media(max-width:1024px) {
+  
+}
 @media(max-width:1024px) {
   .office_section_wrapper {
     gap: 1rem;
@@ -6017,8 +6023,7 @@ ul.footer-nav-menu {
   }
 }
 
-@media(max-width:425px) {
-
+@media(max-width:445px) {
   .hover_add_card_india,
   .hover_add_card_london,
   .hover_add_card_singapore,
@@ -6030,7 +6035,10 @@ ul.footer-nav-menu {
   .hover_add_card_usa {
     margin: 5rem 0 0 -1rem;
   }
-
+  .office_section_wrapper .card_office_content>h3{
+    width: 50%;
+    text-align: left;
+  }
   .office_add_card {
     width: 100%;
   }
@@ -6825,3 +6833,27 @@ ul.footer-nav-menu {
     font-size: 24px;
   }
 }
+
+/* =========Mission Responsive css Start=========== */
+.Financial_Inclusion_Padd{
+  padding-bottom: 4rem !important;
+}
+@media (max-width:1400px){
+
+.Financial_Inclusion_Padd{
+  padding-bottom: 3.5rem !important;
+}
+}
+@media (max-width:1200px){
+
+.Financial_Inclusion_Padd{
+  padding-bottom: 1rem !important;
+}
+}
+@media (max-width:992px){
+
+.card_sec_mission{
+  width: 100%;
+}
+}
+/* =========Mission Responsive css End=========== */

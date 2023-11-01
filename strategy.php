@@ -6,7 +6,7 @@ include_once 'components/header.php'; ?>
 <!-- Main Content -->
 <div class="main-content" onmousedown="return false" onselectstart="return false">
     <div class="clearfix"></div>
-    <section class="overview-block-ptb bitcoin-app">
+    <section class="overview-block-ptb5 bitcoin-app">
         <div class="container">
             <div class="row responsive_pad">                
                 <div class="col-lg-5 col-md-12 mb-5" style="border-radius: 30px; background: rgba(255, 255, 255, 0.20); box-shadow: 0px 3px 4px 0px rgba(0, 33, 69, 0.05), 0px -3px 4px 0px rgba(0, 33, 69, 0.05); padding: 1.5rem">

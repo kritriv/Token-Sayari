@@ -11,7 +11,7 @@
                 <div class="col-md-10">
                     <div class="heading-title">
 
-                        <h1 class="title iq-mb-25 titillium-font main_heading_banner">Best Crypto Coin in the world Planet Sayari</h1>
+                        <h1 class="title iq-mb-25 titillium-font main_heading_banner">The Secure Crypto Planet with the Best Crypto Coins</h1>
                         <p class="fs-4 lh-base main_subheading_banner">Revolutionizing the World of Finance and Investment with Blockchain Technology and Innovative Financial Instruments.</p>
                     </div>
                 </div>
@@ -84,7 +84,7 @@
                 </div>
                 <div class="col-lg-1 col-sm-12 iq-r-mt-40"></div>
                 <div class="col-lg-5 col-sm-12 iq-r-mt-40"  style="text-align : center;">
-                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/home/tokens graphs.svg" alt="#" width="70%">
+                    <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/home/tokens graphs.svg" alt="Crypto Tokens" width="100%">
                 </div>
             </div>
         </div>
@@ -97,7 +97,7 @@
                 <div class="col-sm-12">
                     <div class="heading-title">
                         <h5 class="title iq-mb-10">Tokens</h5>
-                        <h3 class="">Uses of Out Tokens</h3>
+                        <h3 class="">The utility of our tokens</h3>
                     </div>
                 </div>
             </div>
@@ -169,7 +169,7 @@
                 <div class="heading-title">
                     <small class="iq-font-green"></small>
                     <h5 class="title iq-tw-6">Sayari Token</h5>
-                    <h3 class="iq-tw-6 mb-4">Banks Authorized with Sayari Token</h3>
+                    <h3 class="iq-tw-6 mb-4">Banks Authorized with Sayari Tokens</h3>
                 </div>
             </div>            
             
@@ -303,8 +303,8 @@
                             <div class="media-body">
                                 <h4 class="mt-0 mb-3">Shail International Group</h4>
                                 <p class=" responsive_para_size" style="font-size:1rem">Sayari’s partnership with the Shail International Group through the new set up sibiling company in London, provides them with access to a robust infrastructure, enabling them to operate on a global scale. The Shail International Group’s offshore international financial trading platform provides a protected cell structure for re-fencing assets, and hosts special purpose vehicles (SPV), public-private partnerships (PPP), project funding projects for investors, governments, banks, pension funds, and hedge funds. This partnership ensures that Sayari has access to a wide range of resources and expertise, enabling them to provide businesses with the best possible solutions for their financing needs.</p>
-                                <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i><a href="mailto:Info@shailinternationalgroup.com">Info@shailinternationalgroup.com</a></p>
-                                <p><i class="fa fa-globe iq-font-yellow me-2"> </i><a target="_blank" href="https://www.shailinternationalgroup.com/">Shailinternationalgroup.com</a></p>
+                                <p class="fs-6"><i class="fa fa-envelope-o iq-font-yellow me-2"></i><a href="mailto:Info@shailinternationalgroup.com">Info@shailinternationalgroup.com</a></p>
+                                <p class="fs-6"><i class="fa fa-globe iq-font-yellow me-2"> </i><a target="_blank" href="https://www.shailinternationalgroup.com/">Shailinternationalgroup.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -317,8 +317,8 @@
                             <div class="media-body py-4">
                                 <h4 class="mt-0 mb-3">Avtar Space Technology</h4>
                                 <p class=" responsive_para_size pb-3" style="font-size:1rem">Sayari's partnership with Avtar Space Technology holds immense potential to leverage its unique strengths to deliver cutting-edge solutions. This partnership combines their expertise in advanced technologies and management to address the world's ever-changing needs, and together they have set new industry standards. Avtar Space Technology has benefited the culture of Sayari through continuous growth and innovation. Together, they strengthen their competitive edge and promise to reshape the world by promoting change and driving advancements in the digital world.</p>
-                                <p><i class="fa fa-envelope-o iq-font-yellow me-2"></i><a href="mailto:Info@avtarspace.com">Info@avtarspace.com</a></p>
-                                <p><i class="fa fa-globe iq-font-yellow me-2"> </i><a target="_blank" href="https://avtarspace.com">avtarspace.com</a></p>
+                                <p class="fs-6"><i class="fa fa-envelope-o iq-font-yellow me-2"></i><a href="mailto:Info@avtarspace.com">Info@avtarspace.com</a></p>
+                                <p class="fs-6"><i class="fa fa-globe iq-font-yellow me-2"> </i><a target="_blank" href="https://avtarspace.com">avtarspace.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -372,6 +372,30 @@
                         <img src="images/home/London.png" alt="India">
                     </div>
                 </div>
+                <div class="office_add_card kenya_card">
+                    <div class="hover_add_card_kenya">
+                        <div class="content_hover_add">
+                            <h4>Kenya</h4>
+                            <p>Delta Corner, Oracle Tower 13th Floor, Chiromo Road Westlands, Nairobi, Kenya</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Kenya</h3>
+                        <img src="images/home/Kenya.png" alt="Kenya">
+                    </div>
+                </div>
+                <div class="office_add_card itally_card">
+                    <div class="hover_add_card_itally">
+                        <div class="content_hover_add">
+                            <h4>Itally</h4>
+                            <p>Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Itally</h3>
+                        <img src="images/home/Itally.png" alt="Itally">
+                    </div>
+                </div>
                 <div class="office_add_card singapore_card">
                     <div class="hover_add_card_singapore">
                         <div class="content_hover_add">
@@ -408,6 +432,18 @@
                         <img src="images/home/South Africa.png" alt="South Africa">
                     </div>
                 </div>
+                <div class="office_add_card usa_card">
+                    <div class="hover_add_card_usa">
+                        <div class="content_hover_add">
+                            <h4>USA</h4>
+                            <p>Commercial Cash and Credit LLC16192 Coastal HwyLewes, Delaware 19958</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>USA</h3>
+                        <img src="images/home/USA.png" alt="USA">
+                    </div>
+                </div>
                 <div class="office_add_card romania_card">
                     <div class="hover_add_card_romania">
                         <div class="content_hover_add">
@@ -421,40 +457,18 @@
                     </div>
                 </div>
 
-                <div class="office_add_card kenya_card">
-                    <div class="hover_add_card_kenya">
+                
+                
+                <div class="office_add_card philippines_card">
+                    <div class="hover_add_card_philippines">
                         <div class="content_hover_add">
-                            <h4>Kenya</h4>
-                            <p>Delta Corner, Oracle Tower 13th Floor, Chiromo Road Westlands, Nairobi, Kenya</p>
-                        </div>
-                    </div>
-                    <div class="card_office_content">
-                        <h3>Kenya</h3>
-                        <img src="images/home/Kenya.png" alt="Kenya">
-                    </div>
-                </div>
-                <div class="office_add_card itally_card">
-                    <div class="hover_add_card_itally">
-                        <div class="content_hover_add">
-                            <h4>Itally</h4>
-                            <p>Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                        </div>
-                    </div>
-                    <div class="card_office_content">
-                        <h3>Itally</h3>
-                        <img src="images/home/Itally.png" alt="Itally">
-                    </div>
-                </div>
-                <div class="office_add_card usa_card">
-                    <div class="hover_add_card_usa">
-                        <div class="content_hover_add">
-                            <h4>USA</h4>
+                            <h4>Philippines</h4>
                             <p>Commercial Cash and Credit LLC16192 Coastal HwyLewes, Delaware 19958</p>
                         </div>
                     </div>
                     <div class="card_office_content">
-                        <h3>USA</h3>
-                        <img src="images/home/USA.png" alt="USA">
+                        <h3>Philippines</h3>
+                        <img src="images/home/philippines-flag.png" alt="USA">
                     </div>
                 </div>
             </div>

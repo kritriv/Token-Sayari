@@ -14,8 +14,7 @@ include_once 'components/header.php'; ?>
                     <div class="program py-4">
                         <h3 class="title text-uppercase ">Planet Sayari</h3>
                     </div>
-                    <p class="">The Next Frontier of Loyalty:How Blockchain MakesRewards Better with
-                        PlanetSayari.</p>
+                    <p class="">The Next Frontier of Loyalty: How Blockchain Makes Rewards Better with Planet Sayari</p>
                     <a class="button my-4" href="#">
                         <span class="button-inner-box">
                             <span class="icon-one icon" style="color: var(--iq-primary);"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">

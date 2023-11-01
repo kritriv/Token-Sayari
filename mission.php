@@ -30,7 +30,7 @@ include_once 'components/header.php'; ?>
                     </div> -->
                 <div class="col-lg-12 col-md-12 align-self-center  wow fadeInRight" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft;">
                     <div class="row">
-                        <div class="col-sm-4">
+                        <div class="card_sec_mission col-sm-4">
                             <div class="iq-clients-blog iq-mtb-15 border py-5 rounded Financial_Inclusion_card_res">
                                 <div class="text-center pt-5">
                                     <img class="client-img img-fluid mb-4" src="images/mission/Financial.svg" alt="">
@@ -39,14 +39,14 @@ include_once 'components/header.php'; ?>
                                 <div class="d-flex align-items-center flex-wrap iq-pall-20 ">
                                     <div class="media-body">
                                         <!-- <h4 class="mt-0  mb-3">Shail International Group</h4> -->
-                                        <p class="Financial_Inclusion_para_res  lh-base" style="padding-bottom: 5rem;">Allowing everyone to access the services we offer, regardless of their location or financial status. We stand at the forefront of all issues from blockchain to fund management. And we will always stand by and make things the best. The security circle in our roadmap is very long. And we will always maintain this circle.</p>
+                                        <p class=" Financial_Inclusion_Padd lh-base">Allowing everyone to access the services we offer, regardless of their location or financial status. We stand at the forefront of all issues from blockchain to fund management. And we will always stand by and make things the best. The security circle in our roadmap is very long. And we will always maintain this circle.</p>
                                         &nbsp;
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <!-- <div class="col-sm-1"></div> -->
-                        <div class="col-sm-8">
+                        <div class="col-sm-8 card_sec_mission">
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="iq-clients-blog iq-mtb-15 border rounded wow fadeInLeft" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft;">

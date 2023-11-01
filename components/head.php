@@ -6,7 +6,7 @@
         <?php if (isset($title)) {
                 echo $title;
             } else {
-                echo "Planet Sayari - Best Crypto Coin in the world";
+                echo "Planet Sayari - The Secure Crypto Planet with the Best Crypto Coins ";
             } ?>
     </title>
     <link rel="canonical" href=<?php if(isset($current_page_url)){ echo $current_page_url; }else{ echo
@@ -30,7 +30,7 @@
     <!-- og Tags -->
     <meta property="og:locale" content="it_IT" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Planet Sayari - Best Crypto Coin in the world" />
+    <meta property="og:title" content="Planet Sayari - The Secure Crypto Planet with the Best Crypto Coins " />
     <meta property="og:description"
         content="Planet Sayari is a revolutionary platform designed to address various issues faced by businesses and individuals in the areas of crowdfunding, trade finance, and asset tokenization." />
     <meta property="og:url" content="https://www.planetsayari.com" />
