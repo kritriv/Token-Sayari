@@ -77,7 +77,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" style="align-items: center;">
                 <div class="col-lg-6 col-sm-12 iq-mt-30 align-self-center">
                     <p class="fs-5 lh-base   responsive_para_size ">Planet Sayari has created an ecosystem of tokens to fulfill a variety of roles within its platform. The tokens provide utility, security, liquidity and incentive features that support the diverse needs of users, investors, retailers and other partners. the tokens provide incentives and rewards that drive engagement.</p>
                     <p class="fs-5 lh-base  responsive_para_size ">The diverse yet interconnected token ecosystem allows Planet Sayari to fulfill the full spectrum of monetization, security, efficiency and engagement needs required to power its expanding services and user community. The unique but complementary utilities of the different tokens work together to form a holistic value proposition.</p>
@@ -104,7 +104,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="animation-img">
-                        <img data-gif_src="images/home/planet sayari_img.gif" src="images/home/planet sayari.gif"  alt="Token uses"/>
+                        <img  src="images/home/use-of-token.png"  alt="Token uses"/>
                     </div>
                 </div>
             </div>
@@ -502,12 +502,12 @@
                 
                 
                 <div class="office_add_card philippines_card">
-                    <div class="hover_add_card_philippines">
+                    <!-- <div class="hover_add_card_philippines">
                         <div class="content_hover_add">
                             <h4>Philippines</h4>
                             <p>Commercial Cash and Credit LLC16192 Coastal HwyLewes, Delaware 19958</p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="card_office_content">
                         <h3>Philippines</h3>
                         <img src="images/home/philippines-flag.png" alt="USA">
@@ -519,7 +519,7 @@
 </div>
 <!-- Main Content End -->
 
-<script>
+<!-- <script>
     const imgElement = document.querySelector('.animation-img img');
 
     imgElement.addEventListener('mouseenter', function() {
@@ -530,6 +530,6 @@
     imgElement.addEventListener('mouseleave', function() {
         imgElement.src = imgElement.dataset.imgSrc;
     });
-</script>
+</script> -->
 
 <?php include_once 'components/footer.php' ?>

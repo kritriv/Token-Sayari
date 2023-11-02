@@ -104,14 +104,14 @@ include_once 'components/header.php'; ?>
       <div class="modal-body">
         <p><b>This is the step-by-step process for completing the Letter of Credit form. </b></p> 
         <ul>
-            <li><b>Step 1: Obtain the Form</b> Begin by downloading the required form by clicking on the "Download Form" button.</li><br>
-            <li><b>Step 2: Complete the Form</b> horoughly fill out the form, ensuring that all fields are accurately completed following the format specified in the Letter of Credit (LC) guidelines.</li><br>
-            <li><b>Step 3: Submit Your Request</b> After successfully filling out the form, submit your request for a Letter of Credit by sending the completed form to the email address: <b>info@planetsayari.com</b></li>
+            <li><b>Step 1: Obtain the Form</b>: Begin by downloading the required form by clicking on the "Download Form" button.</li><br>
+            <li><b>Step 2: Complete the Form</b>: thoroughly fill out the form, ensuring that all fields are accurately completed following the format specified in the Letter of Credit (LC) guidelines.</li><br>
+            <li><b>Step 3: Submit Your Request</b>: After successfully filling out the form, submit your request for a Letter of Credit by sending the completed form to the email address: <b>info@planetsayari.com</b></li>
         </ul>
       </div>
       <div class="modal-footer">
         <a type="button" class="btn btn-dark" data-bs-dismiss="modal">Close</a>
-        <a type="button" id="downloadLC" href="letter-of-credit.pdf" target="_blank" class="btn button" height="100px">Download Form</a>
+        <a type="button" id="downloadLC" href="letter-of-credit.docx" target="_blank" class="btn button" height="100px">Download Form</a>
         <!-- <a type="button" class="btn button ">Apply Online</a> -->
       </div>
     </div>

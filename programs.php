@@ -48,7 +48,7 @@ include_once 'components/header.php'; ?>
 <!-- About Us -->
 <section class="overview-block-ptb device-blog responsive_pad">
    <div class="container">
-      <div class="row mb-5 gx-5">
+      <div class="row mb-5 gx-5" style="align-items: center;">
          <div class="col-lg-6 col-md-12 about-box align-self-center mb-3">
             <h4 class="mb-3">High Yields Program</h4>
             <p class="iq-mt-10 font-weight-bold  responsive_para_size">Project Sayari LTD will establish a $10,000,000 investment pool,
@@ -70,7 +70,7 @@ include_once 'components/header.php'; ?>
             <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/humanphoto.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight;">
          </div>
       </div>
-      <div class="row">
+      <div class="row" style="align-items: center;">
          <div class="col-lg-6 col-md-12 hidden-xs ">
             <img class="img-fluid wow fadeInLeft" data-wow-duration="1s" src="images/human2.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInLeft;">
          </div>

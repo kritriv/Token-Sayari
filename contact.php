@@ -248,12 +248,12 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                 
                 
                 <div class="office_add_card philippines_card">
-                    <div class="hover_add_card_philippines">
+                    <!-- <div class="hover_add_card_philippines">
                         <div class="content_hover_add">
                             <h4>Philippines</h4>
                             <p>Commercial Cash and Credit LLC16192 Coastal HwyLewes, Delaware 19958</p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="card_office_content">
                         <h3>Philippines</h3>
                         <img src="images/home/philippines-flag.png" alt="USA">
