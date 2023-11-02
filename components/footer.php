@@ -48,7 +48,8 @@ Footer -->
                             <h5 class="title">Others</h5>
                         </div>
                         <ul class="iq-pl-0">
-                            <li><a href="# ">Privacy Policy</a></li>
+                            <li><a href="# " target="_blank">Privacy Policy</a></li>
+                            <li><a href="letter-of-credit.pdf"target="_blank">Download LC Form</a></li>
                             <li><a href="Sayari-Lite-Paper.pdf" target="_blank">Lite Paper</a></li>
                         </ul>
                     </div>

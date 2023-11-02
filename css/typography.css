@@ -80,7 +80,7 @@ h5,
 h6 {
       font-family: 'Poppins', sans-serif;
       font-weight: normal;
-      color: var(--iq-title-text);
+      color: #000000;
       margin-top: 0px;
       margin-bottom: 0px;
 }

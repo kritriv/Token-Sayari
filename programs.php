@@ -49,7 +49,7 @@ include_once 'components/header.php'; ?>
 <section class="overview-block-ptb device-blog responsive_pad">
    <div class="container">
       <div class="row mb-5 gx-5">
-         <div class="col-lg-6 col-md-12 about-box align-self-center mb-5">
+         <div class="col-lg-6 col-md-12 about-box align-self-center mb-3">
             <h4 class="mb-3">High Yields Program</h4>
             <p class="iq-mt-10 font-weight-bold  responsive_para_size">Project Sayari LTD will establish a $10,000,000 investment pool,
                offering investors security tokens (Deluxe Token, SDX) at an exchange rate of 1 SDX = $10. A minimum
@@ -66,7 +66,7 @@ include_once 'components/header.php'; ?>
                technology and smart contracts ensure transparency and security, with a weekly profit and flexible
                options for reinvestment or token buyback.</p>
          </div>
-         <div class="col-lg-6 col-md-12 mb-5">
+         <div class="col-lg-6 col-md-12 mb-3">
             <img class="img-fluid wow fadeInRight" data-wow-duration="1s" src="images/humanphoto.png" alt="#" style="visibility: visible; animation-duration: 1s; animation-name: fadeInRight;">
          </div>
       </div>
@@ -96,7 +96,7 @@ include_once 'components/header.php'; ?>
    <div class=" ">
       <div class="row text-white">
          <h3 class="text-white mb-3">Other programs</h3>
-         <p>Within the Sayari ecosystem we will offer rewards and airdrops in Sayari tokens (SAYT). Also, we will<br> offer various bonuses and promotions. Stay tunned!</p>
+         <p>Within the Sayari ecosystem we will offer rewards and airdrops in Sayari tokens (SAYT). Also, we willoffer various bonuses and promotions. Stay tunned!</p>
       </div>
    </div>
    <div id="stars"></div>

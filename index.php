@@ -108,13 +108,55 @@
                     </div>
                 </div>
             </div>
+            
+        </div>
+    </section>
+    <section class=" mt-5">
+        <div class="container">
             <div class="row">
+                <div class="col-sm-12">
+                    <div class="heading-title">
+                        <h5 class="title iq-mb-10">Buy Tokens</h5>
+                        <h3 class="iq-mb-25 ">Acquire Tokens using these Approaches</h3>
+                        <!-- <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p> -->
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row pb-5">
+                <div class=" buy_token_sec">
+                    <img src="images/home/buy_token02.png" alt="">
+                </div>
+            </div>
+            <!-- <div class="row">
                 <div class="col-sm-12 iq-mtb-100">
                     <hr>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
+
+    <style>
+        .buy_token_sec{
+            padding: 2rem 0;
+            display:flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .buy_token_sec>img{
+            width:80%;
+        }
+        @media (max-width:765px) {
+            .buy_token_sec>img{
+            width:100%;
+        }
+        }
+        @media (max-width:600px) {
+            .buy_token_sec>img{
+            width:80%;
+        }
+        }
+    </style>
 
     <section class="overview-block-pb iq-team2">
         <div class="container">

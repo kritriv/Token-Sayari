@@ -31,9 +31,9 @@ include_once 'components/header.php'; ?>
                         </li>
                         <li class="iq-mt-20">Standardizing and digitizing the entire process and using a
                             blockchain-based solution for letters of credit can:</li>
-                        <li class="iq-mt-20">Streamline the process end-to-end.</li>
+                        <li class="iq-mt-20">Streamline the process end-to-end.</li><br>
                         <li class="iq-mt-20">Eliminate the costs of printing, issuing, exchanging and retrieving
-                            physical documents.</li>
+                            physical documents.</li><br>
                         <li class="iq-mt-20">Reduce the risk of disputes and manual data entry errors.</li>
                         <li class="iq-mt-20">Increase security through encryption and tamper-evident distributed
                             ledger technology.</li>
@@ -42,7 +42,7 @@ include_once 'components/header.php'; ?>
                     </ul>
                 </div>
             </div>
-            <a class="button mt-4" href="#">
+            <a class="button mt-4">
                 <span class="button-inner-box">
                     <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
                             <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
@@ -98,20 +98,31 @@ include_once 'components/header.php'; ?>
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
+        <h4 class="modal-title" id="staticBackdropLabel">Letter Of Credit Form</h4>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        ...
+        <p><b>This is the step-by-step process for completing the Letter of Credit form. </b></p> 
+        <ul>
+            <li><b>Step 1: Obtain the Form</b> Begin by downloading the required form by clicking on the "Download Form" button.</li><br>
+            <li><b>Step 2: Complete the Form</b> horoughly fill out the form, ensuring that all fields are accurately completed following the format specified in the Letter of Credit (LC) guidelines.</li><br>
+            <li><b>Step 3: Submit Your Request</b> After successfully filling out the form, submit your request for a Letter of Credit by sending the completed form to the email address: <b>info@planetsayari.com</b></li>
+        </ul>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Submit</button>
+        <a type="button" class="btn btn-dark" data-bs-dismiss="modal">Close</a>
+        <a type="button" id="downloadLC" href="letter-of-credit.pdf" target="_blank" class="btn button" height="100px">Download Form</a>
+        <!-- <a type="button" class="btn button ">Apply Online</a> -->
       </div>
     </div>
   </div>
 </div>
 <!-- End Modal -->
+<style>
+    #downloadLC{
+        padding:0.5rem 1rem !important;
+    }
+</style>
 
 <script>
     const imgElement = document.querySelector('trade_finance_gif');

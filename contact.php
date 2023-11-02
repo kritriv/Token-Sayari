@@ -121,134 +121,147 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
         </section>
 
         <div class="" style="background-image: url('images/home/map.svg'); background-position: center center; background-size: contain;background-repeat: no-repeat;">
-            <div class="container py-5">
-                <div class="row mb-4">
-                    <div class="col-lg-7 col-md-12">
-                        <div class="heading-left">
-                            <h3 class="mb-3">Sayari Offices</h3>
-                            <p class="fs-5 lh-base mb-5 responsive_para_size">PLANET SAYARI began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
-                            <!-- <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> -->
+        <div class="container response_pad">
+            <div class="row mb-4">
+                <div class="col-lg-7 col-md-12">
+                    <div class="heading-left">
+                        <h3 class="mb-3">Sayari Offices</h3>
+                        <p class="lh-base  mb-5" ><b>Planet Sayari</b> began as a small startup and soon began to realize it needed to expand internationally to reach more customers and grow its business. Planet Sayari has opened a smaller software development office in Romania. The company’s expansion continued with opening an office in Milan, in Lugano, Switzerland, in Johannesburg, South Africa, India, Kenya, Singapore , London and finally in the USA.</p>
+                        <!-- <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> -->
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-12 chart-img">
+                    <!-- <div class="btcwdgt-chart btcwdgt btcwdgt-headlines btcwdgt-clean">    <div class="btcwdgt-header">      <h2 title="Bitcoin price">        <span>$</span><span>26857.25</span>      </h2>      <h4>BTC/USD</h4>      <div class="stats">        <div>MktCap<span class="mkt-cap">—.–</span></div>        <div>High<span class="high">$46457.20</span></div>        <div>Low<span class="low">$18489.15</span></div>        <div>Supply<span class="supply">—.–</span></div>        <div>Blocks<span class="blocks">—</span></div>      </div>      <p class="changes up">        <strong class="arrow up"></strong><span class="pct">32.1%</span><span class="amt">$6526.04</span>      </p>      <p class="date-wrap"><span class="date">Oct 5, 2022 5:30 AM</span></p>    </div>    <div class="btcwdgt-body" style="width: 640px !important;       height:360px !important">      <canvas class="c" style="width: 640px; height: 360px;" width="640" height="360"></canvas>      <canvas class="i" style="width: 640px; height: 360px;" width="640" height="360"></canvas>    </div>    <div class="btcwdgt-footer">      <a href="https://www.bitcoin.com/widgets/?utm_source=templates.iqonic.design&amp;utm_medium=widget&amp;utm_campaign=Chart%20Widget" class="embed" title="Embed this widget">&lt;/&gt;</a>      <a href="https://www.bitcoin.com/?utm_source=templates.iqonic.design&amp;utm_medium=widget&amp;utm_campaign=Chart%20Widget" class="logo" title="Powered by bitcoin.com"><span>bitcoin.com</span></a>    </div></div> -->
+                </div>
+            </div>
+
+            <div class="office_section_wrapper" style="cursor: pointer;">
+                <div class="office_add_card india_card">
+                    <div class="hover_add_card_india">
+                        <div class="content_hover_add">
+                            <h4>India</h4>
+                            <p>OC 827-830, 8th floor, Gaur City centre, Greater Noida West, Uttar Pradesh - 201301</p>
                         </div>
                     </div>
-                    <div class="col-lg-5 col-md-12 chart-img">
-                        <!-- <div class="btcwdgt-chart btcwdgt btcwdgt-headlines btcwdgt-clean">    <div class="btcwdgt-header">      <h2 title="Bitcoin price">        <span>$</span><span>26857.25</span>      </h2>      <h4>BTC/USD</h4>      <div class="stats">        <div>MktCap<span class="mkt-cap">—.–</span></div>        <div>High<span class="high">$46457.20</span></div>        <div>Low<span class="low">$18489.15</span></div>        <div>Supply<span class="supply">—.–</span></div>        <div>Blocks<span class="blocks">—</span></div>      </div>      <p class="changes up">        <strong class="arrow up"></strong><span class="pct">32.1%</span><span class="amt">$6526.04</span>      </p>      <p class="date-wrap"><span class="date">Oct 5, 2022 5:30 AM</span></p>    </div>    <div class="btcwdgt-body" style="width: 640px !important;       height:360px !important">      <canvas class="c" style="width: 640px; height: 360px;" width="640" height="360"></canvas>      <canvas class="i" style="width: 640px; height: 360px;" width="640" height="360"></canvas>    </div>    <div class="btcwdgt-footer">      <a href="https://www.bitcoin.com/widgets/?utm_source=templates.iqonic.design&amp;utm_medium=widget&amp;utm_campaign=Chart%20Widget" class="embed" title="Embed this widget">&lt;/&gt;</a>      <a href="https://www.bitcoin.com/?utm_source=templates.iqonic.design&amp;utm_medium=widget&amp;utm_campaign=Chart%20Widget" class="logo" title="Powered by bitcoin.com"><span>bitcoin.com</span></a>    </div></div> -->
+                    <div class="card_office_content">
+                        <h3>India</h3>
+                        <img src="images/home/India.png" alt="India">
+                    </div>
+                </div>
+                <div class="office_add_card london_card">
+                    <div class="hover_add_card_london">
+                        <div class="content_hover_add">
+                            <h4>London</h4>
+                            <p>35 Firs Avenue, London, England, N11 3NE</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>London</h3>
+                        <img src="images/home/London.png" alt="India">
+                    </div>
+                </div>
+                <div class="office_add_card kenya_card">
+                    <div class="hover_add_card_kenya">
+                        <div class="content_hover_add">
+                            <h4>Kenya</h4>
+                            <p>Delta Corner, Oracle Tower 13th Floor, Chiromo Road Westlands, Nairobi, Kenya</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Kenya</h3>
+                        <img src="images/home/Kenya.png" alt="Kenya">
+                    </div>
+                </div>
+                <div class="office_add_card itally_card">
+                    <div class="hover_add_card_itally">
+                        <div class="content_hover_add">
+                            <h4>Itally</h4>
+                            <p>Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Itally</h3>
+                        <img src="images/home/Itally.png" alt="Itally">
+                    </div>
+                </div>
+                <div class="office_add_card singapore_card">
+                    <div class="hover_add_card_singapore">
+                        <div class="content_hover_add">
+                            <h4>Singapore</h4>
+                            <p>68 Curcular road, 02-01, Singapore 049422</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Singapore</h3>
+                        <img src="images/home/Singapore.png" alt="Singapore">
+                    </div>
+                </div>
+                <div class="office_add_card switzerland_card">
+                    <div class="hover_add_card_switzerland">
+                        <div class="content_hover_add">
+                            <h4>Switzerland</h4>
+                            <p>Via Nassa n.296900 Lugano</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Switzerland</h3>
+                        <img src="images/home/Switzerland.png" alt="Switzerland">
+                    </div>
+                </div>
+                <div class="office_add_card south_africa_card">
+                    <div class="hover_add_card_south_africa">
+                        <div class="content_hover_add">
+                            <h4>South&nbsp;Africa</h4>
+                            <p>76 Southern Klipriverberg Road, the Hill, Johannesburg, 2197</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>South&nbsp;Africa</h3>
+                        <img src="images/home/South Africa.png" alt="South Africa">
+                    </div>
+                </div>
+                <div class="office_add_card usa_card">
+                    <div class="hover_add_card_usa">
+                        <div class="content_hover_add">
+                            <h4>USA</h4>
+                            <p>Commercial Cash and Credit LLC16192 Coastal HwyLewes, Delaware 19958</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>USA</h3>
+                        <img src="images/home/USA.png" alt="USA">
+                    </div>
+                </div>
+                <div class="office_add_card romania_card">
+                    <div class="hover_add_card_romania">
+                        <div class="content_hover_add">
+                            <h4>Romania</h4>
+                            <p>Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                        </div>
+                    </div>
+                    <div class="card_office_content">
+                        <h3>Romania</h3>
+                        <img src="images/home/Romania.png" alt="Romania">
                     </div>
                 </div>
 
-                <div class="office_section_wrapper" style="cursor: pointer;">
-                    <div class="office_add_card india_card">
-                        <div class="hover_add_card_india">
-                            <div class="content_hover_add">
-                                <h4>India</h4>
-                                <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                            </div>
-                        </div>
-                        <div class="card_office_content">
-                            <h3>India</h3>
-                            <img src="images/home/India.png" alt="India">
+                
+                
+                <div class="office_add_card philippines_card">
+                    <div class="hover_add_card_philippines">
+                        <div class="content_hover_add">
+                            <h4>Philippines</h4>
+                            <p>Commercial Cash and Credit LLC16192 Coastal HwyLewes, Delaware 19958</p>
                         </div>
                     </div>
-                    <div class="office_add_card london_card">
-                        <div class="hover_add_card_london">
-                            <div class="content_hover_add">
-                                <h4>London</h4>
-                                <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                            </div>
-                        </div>
-                        <div class="card_office_content">
-                            <h3>London</h3>
-                            <img src="images/home/London.png" alt="India">
-                        </div>
-                    </div>
-                    <div class="office_add_card singapore_card">
-                        <div class="hover_add_card_singapore">
-                            <div class="content_hover_add">
-                                <h4>Singapore</h4>
-                                <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                            </div>
-                        </div>
-                        <div class="card_office_content">
-                            <h3>Singapore</h3>
-                            <img src="images/home/Singapore.png" alt="India">
-                        </div>
-                    </div>
-                    <div class="office_add_card switzerland_card">
-                        <div class="hover_add_card_switzerland">
-                            <div class="content_hover_add">
-                                <h4>Switzerland</h4>
-                                <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                            </div>
-                        </div>
-                        <div class="card_office_content">
-                            <h3>Switzerland</h3>
-                            <img src="images/home/Switzerland.png" alt="India">
-                        </div>
-                    </div>
-                    <div class="office_add_card south_africa_card">
-                        <div class="hover_add_card_south_africa">
-                            <div class="content_hover_add">
-                                <h4>South&nbsp;Africa</h4>
-                                <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                            </div>
-                        </div>
-                        <div class="card_office_content">
-                            <h3>South&nbsp;Africa</h3>
-                            <img src="images/home/South Africa.png" alt="India">
-                        </div>
-                    </div>
-                    <div class="office_add_card romania_card">
-                        <div class="hover_add_card_romania">
-                            <div class="content_hover_add">
-                                <h4>Romania</h4>
-                                <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                            </div>
-                        </div>
-                        <div class="card_office_content">
-                            <h3>Romania</h3>
-                            <img src="images/home/Romania.png" alt="India">
-                        </div>
-                    </div>
-
-                    <div class="office_add_card kenya_card">
-                        <div class="hover_add_card_kenya">
-                            <div class="content_hover_add">
-                                <h4>Kenya</h4>
-                                <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                            </div>
-                        </div>
-                        <div class="card_office_content">
-                            <h3>Kenya</h3>
-                            <img src="images/home/Kenya.png" alt="India">
-                        </div>
-                    </div>
-                    <div class="office_add_card itally_card">
-                        <div class="hover_add_card_itally">
-                            <div class="content_hover_add">
-                                <h4>Itally</h4>
-                                <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                            </div>
-                        </div>
-                        <div class="card_office_content">
-                            <h3>Itally</h3>
-                            <img src="images/home/Itally.png" alt="India">
-                        </div>
-                    </div>
-                    <div class="office_add_card usa_card">
-                        <div class="hover_add_card_usa">
-                            <div class="content_hover_add">
-                                <h4>USA</h4>
-                                <p><b>Director:</b> Michele Cucchierato Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
-                            </div>
-                        </div>
-                        <div class="card_office_content">
-                            <h3>USA</h3>
-                            <img src="images/home/USA.png" alt="India">
-                        </div>
+                    <div class="card_office_content">
+                        <h3>Philippines</h3>
+                        <img src="images/home/philippines-flag.png" alt="USA">
                     </div>
                 </div>
             </div>
         </div>
-
+    </div>
     </div>
     <!-- Main Content End -->
 
