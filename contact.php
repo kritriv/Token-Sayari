@@ -11,7 +11,8 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                     <div class="program py-4">
                         <h3 class="title text-uppercase ">Contact Us</h3>
                     </div>
-                    <p class="">Reach out to us right now to initiate the discussion. Our staff is here to respond to your inquiries and go over how we could help you advance your company.</p>
+                    <p class="">Reach out to us right now to initiate the discussion. Our staff is here to respond to
+                        your inquiries and go over how we could help you advance your company.</p>
                 </div>
             </div>
         </div>
@@ -49,16 +50,30 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                                                 <input id="phone" type="text" placeholder="Phone*" name="phone">
                                             </div>
                                             <div class="section-field iq-mb-30">
-                                                <textarea class="input-message" placeholder="Message*" name="message"></textarea>
+                                                <textarea class="input-message" placeholder="Message*"
+                                                    name="message"></textarea>
                                                 <input type="hidden" name="action" value="sendEmail" />
                                                 <!-- <button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Send Message</button> -->
-                                                <a class="button pull-right iq-mt-40 rounded" href="javascript:void(0)"> <span class="button-inner-box">
-                                                        <span class="icon-one icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                                <a class="button pull-right iq-mt-40 rounded" href="javascript:void(0)">
+                                                    <span class="button-inner-box">
+                                                        <span class="icon-one icon"><svg aria-hidden="true"
+                                                                focusable="false" data-prefix="fas"
+                                                                data-icon="long-arrow-alt-right" role="img"
+                                                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
+                                                                data-fa-i2svg="">
+                                                                <path fill="currentColor"
+                                                                    d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                                                                </path>
                                                             </svg></span>
                                                         <span class="text-btn">Send Message</span>
-                                                        <span class="icon-two icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
-                                                                <path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path>
+                                                        <span class="icon-two icon"><svg aria-hidden="true"
+                                                                focusable="false" data-prefix="fas"
+                                                                data-icon="long-arrow-alt-right" role="img"
+                                                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
+                                                                data-fa-i2svg="">
+                                                                <path fill="currentColor"
+                                                                    d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z">
+                                                                </path>
                                                             </svg></span>
                                                     </span></a>
 
@@ -66,7 +81,8 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                                             </div>
                                         </div>
                                     </form>
-                                    <div id="ajaxloader" style="display:none"><img class="center-block mt-30 mb-30" src="images/ajax-loader.html" alt=""></div>
+                                    <div id="ajaxloader" style="display:none"><img class="center-block mt-30 mb-30"
+                                            src="images/ajax-loader.html" alt=""></div>
                                 </div>
                                 <div class="col-sm-2"></div>
                             </div>
@@ -77,7 +93,7 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                     <div class="col-sm-12 iq-mtb-50">
                         <hr>
                     </div>
-                </div>                
+                </div>
             </div>
             <!-- <div class="container">
                 <div class="row iq-ptb-80">
@@ -175,13 +191,13 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                 <div class="office_add_card itally_card">
                     <div class="hover_add_card_itally">
                         <div class="content_hover_add">
-                            <h4>Itally</h4>
-                            <p>Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                            <h4>Italy</h4>
+                            <p>Planet Sayari Viale San Gimignano nr. 2 Milano</p>
                         </div>
                     </div>
                     <div class="card_office_content">
-                        <h3>Itally</h3>
-                        <img src="images/home/Itally.png" alt="Itally">
+                        <h3>Italy</h3>
+                        <img src="images/home/Itally.png" alt="Italy">
                     </div>
                 </div>
                 <div class="office_add_card singapore_card">
@@ -200,7 +216,7 @@ include_once 'components/header.php'; $current_page_url="https://www.planetsayar
                     <div class="hover_add_card_switzerland">
                         <div class="content_hover_add">
                             <h4>Switzerland</h4>
-                            <p>Via Nassa n.296900 Lugano</p>
+                            <p>Via Nassa n.29 6900 Lugano</p>
                         </div>
                     </div>
                     <div class="card_office_content">

@@ -429,13 +429,13 @@
                 <div class="office_add_card itally_card">
                     <div class="hover_add_card_itally">
                         <div class="content_hover_add">
-                            <h4>Itally</h4>
-                            <p>Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                            <h4>Italy</h4>
+                            <p>Planet Sayari Viale San Gimignano nr. 2 Milano</p>
                         </div>
                     </div>
                     <div class="card_office_content">
-                        <h3>Itally</h3>
-                        <img src="images/home/Itally.png" alt="Itally">
+                        <h3>Italy</h3>
+                        <img src="images/home/Itally.png" alt="Italy">
                     </div>
                 </div>
                 <div class="office_add_card singapore_card">
@@ -454,7 +454,7 @@
                     <div class="hover_add_card_switzerland">
                         <div class="content_hover_add">
                             <h4>Switzerland</h4>
-                            <p>Via Nassa n.296900 Lugano</p>
+                            <p>Via Nassa n.29 6900 Lugano</p>
                         </div>
                     </div>
                     <div class="card_office_content">
