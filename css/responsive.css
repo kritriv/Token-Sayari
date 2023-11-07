@@ -165,6 +165,8 @@
 	.banner-dec br {display: none;}
 }
 @media(max-width:479px) {
+	h5 { font-size: 16px; line-height: 12px; }
+	h3 { font-size: 24px; line-height: 30px; }
 	.iq-blog-meta ul li { font-size: 14px; }
 	.iq-blog-meta ul { padding-left: 0px; }
 	.iq-about-us h2 { font-size: 36px; }

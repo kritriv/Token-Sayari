@@ -77,7 +77,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" style="align-items: center;">
                 <div class="col-lg-6 col-sm-12 iq-mt-30 align-self-center">
                     <p class="fs-5 lh-base   responsive_para_size ">Planet Sayari has created an ecosystem of tokens to fulfill a variety of roles within its platform. The tokens provide utility, security, liquidity and incentive features that support the diverse needs of users, investors, retailers and other partners. the tokens provide incentives and rewards that drive engagement.</p>
                     <p class="fs-5 lh-base  responsive_para_size ">The diverse yet interconnected token ecosystem allows Planet Sayari to fulfill the full spectrum of monetization, security, efficiency and engagement needs required to power its expanding services and user community. The unique but complementary utilities of the different tokens work together to form a holistic value proposition.</p>
@@ -104,17 +104,59 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="animation-img">
-                        <img data-gif_src="images/home/planet sayari_img.gif" src="images/home/planet sayari.gif"  alt="Token uses"/>
+                        <img  src="images/home/use-of-token.png"  alt="Token uses"/>
                     </div>
                 </div>
             </div>
+            
+        </div>
+    </section>
+    <section class=" mt-5">
+        <div class="container">
             <div class="row">
+                <div class="col-sm-12">
+                    <div class="heading-title">
+                        <h5 class="title iq-mb-10">Buy Tokens</h5>
+                        <h3 class="iq-mb-25 ">Acquire Tokens using these Approaches</h3>
+                        <!-- <p>Here is 3 Easy Steps to Busy &amp; Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p> -->
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row pb-5">
+                <div class=" buy_token_sec">
+                    <img src="images/home/buy_token02.png" alt="">
+                </div>
+            </div>
+            <!-- <div class="row">
                 <div class="col-sm-12 iq-mtb-100">
                     <hr>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
+
+    <style>
+        .buy_token_sec{
+            padding: 2rem 0;
+            display:flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .buy_token_sec>img{
+            width:80%;
+        }
+        @media (max-width:765px) {
+            .buy_token_sec>img{
+            width:100%;
+        }
+        }
+        @media (max-width:600px) {
+            .buy_token_sec>img{
+            width:80%;
+        }
+        }
+    </style>
 
     <section class="overview-block-pb iq-team2">
         <div class="container">
@@ -387,13 +429,13 @@
                 <div class="office_add_card itally_card">
                     <div class="hover_add_card_itally">
                         <div class="content_hover_add">
-                            <h4>Itally</h4>
-                            <p>Planet Sayari Srl Bulevard Bucuresti 17 Ap.9 Baia Mare</p>
+                            <h4>Italy</h4>
+                            <p>Planet Sayari Viale San Gimignano nr. 2 Milano</p>
                         </div>
                     </div>
                     <div class="card_office_content">
-                        <h3>Itally</h3>
-                        <img src="images/home/Itally.png" alt="Itally">
+                        <h3>Italy</h3>
+                        <img src="images/home/Itally.png" alt="Italy">
                     </div>
                 </div>
                 <div class="office_add_card singapore_card">
@@ -412,7 +454,7 @@
                     <div class="hover_add_card_switzerland">
                         <div class="content_hover_add">
                             <h4>Switzerland</h4>
-                            <p>Via Nassa n.296900 Lugano</p>
+                            <p>Via Nassa n.29 6900 Lugano</p>
                         </div>
                     </div>
                     <div class="card_office_content">
@@ -460,12 +502,12 @@
                 
                 
                 <div class="office_add_card philippines_card">
-                    <div class="hover_add_card_philippines">
+                    <!-- <div class="hover_add_card_philippines">
                         <div class="content_hover_add">
                             <h4>Philippines</h4>
                             <p>Commercial Cash and Credit LLC16192 Coastal HwyLewes, Delaware 19958</p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="card_office_content">
                         <h3>Philippines</h3>
                         <img src="images/home/philippines-flag.png" alt="USA">
@@ -477,7 +519,7 @@
 </div>
 <!-- Main Content End -->
 
-<script>
+<!-- <script>
     const imgElement = document.querySelector('.animation-img img');
 
     imgElement.addEventListener('mouseenter', function() {
@@ -488,6 +530,6 @@
     imgElement.addEventListener('mouseleave', function() {
         imgElement.src = imgElement.dataset.imgSrc;
     });
-</script>
+</script> -->
 
 <?php include_once 'components/footer.php' ?>

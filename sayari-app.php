@@ -35,7 +35,7 @@ include_once 'components/header.php'; ?>
 
     <section class="overview-block-ptb8 bitcoin-app">
         <div class="container-fluid">
-            <div class="row">
+            <div class="row" style="align-items: center;">
                 <div class="col-lg-5 offset-lg-1 col-md-12 align-self-center p-4">
                     <div class="heading-left">
                         <h2 class="mb-4">What is the Sayari Loyalty Program?</h2>

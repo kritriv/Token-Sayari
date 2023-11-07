@@ -6117,7 +6117,7 @@ ul.footer-nav-menu {
 }
 
 .animation-img img {
-  width: 60%;
+  width: 50%;
 }
 
 @media(max-width:1024px) {
@@ -6138,7 +6138,8 @@ ul.footer-nav-menu {
 
 @media(max-width:991px) {
   .hidden-xs {
-    display: none !important;
+    text-align: center;
+    order: 1;
   }
 }
 
@@ -6857,3 +6858,9 @@ ul.footer-nav-menu {
 }
 }
 /* =========Mission Responsive css End=========== */
+
+@media (max-width:1440px) {
+  .card_height{
+       height:100%;
+  }
+}
