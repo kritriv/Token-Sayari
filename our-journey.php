@@ -172,21 +172,38 @@ include_once 'components/header.php'; ?>
                         </div>
                         <div class="journey my-5">
                             <span class="year-icon-new text-white">
-                                <p class="journey-date">Till <br>
-                                    Now</p>
+                                <p class="journey-date">Sept<br> 2023 
+                                    </p>
                             </span>
                             <span class="invester invester_line2">65 Investor</span>
                             <div class="investor-content investor-content_line2">
                                 <h5 class="journey-numbers_2">08</h5>
-                                <h4 class="mb-3 fs-3">Ongoing</h4>
+                                <h4 class="mb-3 fs-3">7th Phase</h4>
                                 <!-- <h6 class="mb-3">65 Invester</h6> -->
                                 <!-- <span>65 Investor</span> -->
                                 <p class="iq-mt-10 fs-6">
+                                We surpassed our goal of 28 million in this phase, making significant inroads in
+                                the crypto market.
+                                </p>
+                                <h6 class="fs-6">Closed at 28M $</h6>
+                            </div>
+                        </div>
+                        <div class="journey my-5">
+                            <span class="year-icon-new text-white">
+                                <p class="journey-date">Till <br>Now</p>
+                            </span>
+                            <span class="invester invester_line1">68 Investor</span>
+                            <div class="investor-content investor_content_line1">
+                                <h5 class="investor_numbers_1">09</h5>
+                                <h4 class="mb-3 fs-3">Ongoing</h4>
+                                <!-- <h6 class="mb-3">44 Invester</h6> -->
+                                <!-- <span>44 Investor</span> -->
+                                <p class="iq-mt-10 fs-6">
+                                   
                                     Sayari Token has more than one billion dollars in assets, including gold mines,
                                     properties, and other investments. We have a large and growing number of wealthy
-                                    investors, which will help us to improve the quality of our product even further.
-                                </p>
-                                <h6 class="fs-6">Ongoing at 21M $</h6>
+                                    investors, which will help us to improve the quality of our product even further. </p>
+                                <h6 class="fs-6">Ongoing at 40M $</h6>
                             </div>
                         </div>
                     </div>
